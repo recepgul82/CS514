@@ -1,0 +1,3018 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2024-06-06">
+    <creator>Gephi 0.10.1</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="weighted degree" title="Weighted Degree" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="clustering" title="Clustering Coefficient" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="triangles" title="Number of triangles" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="eigencentrality" title="Eigenvector Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="degree" title="Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="stat_inf_class" title="Inferred Class" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="eccentricity" title="Eccentricity" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="closnesscentrality" title="Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="harmonicclosnesscentrality" title="Harmonic Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="betweenesscentrality" title="Betweenness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="recep_tayyip_erdoğan" label="recep_tayyip_erdoğan">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="54.0"/>
+          <attvalue for="clustering" value="0.8393939393939394"/>
+          <attvalue for="triangles" value="831"/>
+          <attvalue for="eigencentrality" value="0.9019612953607816"/>
+          <attvalue for="degree" value="45"/>
+          <attvalue for="stat_inf_class" value="20"/>
+          <attvalue for="eccentricity" value="3.0"/>
+          <attvalue for="closnesscentrality" value="0.6546762589928058"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.7435897435897435"/>
+          <attvalue for="betweenesscentrality" value="812.5974358974357"/>
+        </attvalues>
+        <viz:size value="19.210526"/>
+        <viz:position x="244.32712" y="211.89539"/>
+        <viz:color r="217" g="74" b="46"/>
+      </node>
+      <node id="kemal_kılıçdaroğlu" label="kemal_kılıçdaroğlu">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="weighted degree" value="24.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="276"/>
+          <attvalue for="eigencentrality" value="0.1377998125116877"/>
+          <attvalue for="degree" value="24"/>
+          <attvalue for="stat_inf_class" value="21"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5055555555555555"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.5924908424908426"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="11.315789"/>
+        <viz:position x="530.64325" y="214.0353"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="binali_yıldırım" label="binali_yıldırım">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="4"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="-63.410553" y="202.95073"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="devlet_bahçeli" label="devlet_bahçeli">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="weighted degree" value="12.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="28"/>
+          <attvalue for="eigencentrality" value="0.03366796190237368"/>
+          <attvalue for="degree" value="8"/>
+          <attvalue for="stat_inf_class" value="27"/>
+          <attvalue for="eccentricity" value="5.0"/>
+          <attvalue for="closnesscentrality" value="0.3991228070175439"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.4591575091575092"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="8.157894"/>
+        <viz:position x="-23.156336" y="742.535"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="ali_babacan" label="ali_babacan">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="29"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="-64.75874" y="103.91832"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="ekrem_i̇mamoğlu" label="ekrem_i̇mamoğlu">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="weighted degree" value="24.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="276"/>
+          <attvalue for="eigencentrality" value="0.1377998125116877"/>
+          <attvalue for="degree" value="24"/>
+          <attvalue for="stat_inf_class" value="12"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5055555555555555"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.5924908424908426"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="11.315789"/>
+        <viz:position x="541.70526" y="73.07178"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="hulusi_akar" label="hulusi_akar">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="15"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="17.25711" y="148.44753"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="meral_akşener" label="meral_akşener">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="weighted degree" value="17.0"/>
+          <attvalue for="clustering" value="0.5909090909090909"/>
+          <attvalue for="triangles" value="39"/>
+          <attvalue for="eigencentrality" value="0.06162667711697086"/>
+          <attvalue for="degree" value="12"/>
+          <attvalue for="stat_inf_class" value="27"/>
+          <attvalue for="eccentricity" value="5.0"/>
+          <attvalue for="closnesscentrality" value="0.4527363184079602"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.5232600732600733"/>
+          <attvalue for="betweenesscentrality" value="68.40320512820513"/>
+        </attvalues>
+        <viz:size value="9.473684"/>
+        <viz:position x="106.7085" y="592.29803"/>
+        <viz:color r="253" g="227" b="201"/>
+      </node>
+      <node id="ahmet_davutoğlu" label="ahmet_davutoğlu">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="2"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="74.1059" y="150.01605"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="deniz_baykal" label="deniz_baykal">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="weighted degree" value="26.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="276"/>
+          <attvalue for="eigencentrality" value="0.1377998125116877"/>
+          <attvalue for="degree" value="24"/>
+          <attvalue for="stat_inf_class" value="14"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5055555555555555"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.5924908424908426"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="11.842106"/>
+        <viz:position x="583.17194" y="145.03452"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="özgür_özel" label="özgür_özel">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="weighted degree" value="24.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="276"/>
+          <attvalue for="eigencentrality" value="0.1377998125116877"/>
+          <attvalue for="degree" value="24"/>
+          <attvalue for="stat_inf_class" value="12"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5055555555555555"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.5924908424908426"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="11.315789"/>
+        <viz:position x="512.1577" y="178.8617"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="süleyman_soylu" label="süleyman_soylu">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="25"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="79.3579" y="283.5926"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="ümit_özdağ" label="ümit_özdağ">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="weighted degree" value="15.0"/>
+          <attvalue for="clustering" value="0.8"/>
+          <attvalue for="triangles" value="36"/>
+          <attvalue for="eigencentrality" value="0.05639881627467257"/>
+          <attvalue for="degree" value="10"/>
+          <attvalue for="stat_inf_class" value="27"/>
+          <attvalue for="eccentricity" value="5.0"/>
+          <attvalue for="closnesscentrality" value="0.40625"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.4738095238095239"/>
+          <attvalue for="betweenesscentrality" value="2.5641025641025648"/>
+        </attvalues>
+        <viz:size value="8.947369"/>
+        <viz:position x="2.1220279" y="642.0032"/>
+        <viz:color r="253" g="239" b="216"/>
+      </node>
+      <node id="saffet_sancaklı" label="saffet_sancaklı">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="28"/>
+          <attvalue for="eigencentrality" value="0.03366796190237368"/>
+          <attvalue for="degree" value="8"/>
+          <attvalue for="stat_inf_class" value="27"/>
+          <attvalue for="eccentricity" value="5.0"/>
+          <attvalue for="closnesscentrality" value="0.3991228070175439"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.4591575091575092"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="7.105263"/>
+        <viz:position x="24.952309" y="737.1217"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="barış_atay" label="barış_atay">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="2.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="1"/>
+          <attvalue for="eigencentrality" value="0.0020830776774527866"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="stat_inf_class" value="10"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.3433962264150943"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.36446886446886423"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.5263157"/>
+        <viz:position x="1522.8848" y="-10.124398"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="numan_kurtulmuş" label="numan_kurtulmuş">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="28"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="-47.929455" y="255.2257"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="berat_albayrak" label="berat_albayrak">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="1"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="133.55208" y="80.67861"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="mehmet_şimşek" label="mehmet_şimşek">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="26"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="17.47748" y="64.721054"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="ahmet_şık" label="ahmet_şık">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="16.0"/>
+          <attvalue for="clustering" value="0.49166666666666664"/>
+          <attvalue for="triangles" value="59"/>
+          <attvalue for="eigencentrality" value="0.039160286232694415"/>
+          <attvalue for="degree" value="16"/>
+          <attvalue for="stat_inf_class" value="10"/>
+          <attvalue for="eccentricity" value="3.0"/>
+          <attvalue for="closnesscentrality" value="0.5170454545454546"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.5695970695970696"/>
+          <attvalue for="betweenesscentrality" value="1102.0"/>
+        </attvalues>
+        <viz:size value="9.210526"/>
+        <viz:position x="1235.1593" y="215.85565"/>
+        <viz:color r="179" g="0" b="0"/>
+      </node>
+      <node id="mansur_yavaş" label="mansur_yavaş">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="weighted degree" value="24.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="276"/>
+          <attvalue for="eigencentrality" value="0.1377998125116877"/>
+          <attvalue for="degree" value="24"/>
+          <attvalue for="stat_inf_class" value="9"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5055555555555555"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.5924908424908426"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="11.315789"/>
+        <viz:position x="569.483" y="36.434345"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="garo_paylan" label="garo_paylan">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="11.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="55"/>
+          <attvalue for="eigencentrality" value="0.010885817014238967"/>
+          <attvalue for="degree" value="11"/>
+          <attvalue for="stat_inf_class" value="10"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.3568627450980392"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.4157509157509157"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="7.894737"/>
+        <viz:position x="1582.815" y="262.20685"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="leyla_güven" label="leyla_güven">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="12.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="55"/>
+          <attvalue for="eigencentrality" value="0.010885817014238967"/>
+          <attvalue for="degree" value="11"/>
+          <attvalue for="stat_inf_class" value="10"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.3568627450980392"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.4157509157509157"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="8.157894"/>
+        <viz:position x="1605.1816" y="303.78696"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="ünal_karaman" label="ünal_karaman">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="weighted degree" value="5.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="10"/>
+          <attvalue for="eigencentrality" value="0.02983781273873413"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="stat_inf_class" value="27"/>
+          <attvalue for="eccentricity" value="5.0"/>
+          <attvalue for="closnesscentrality" value="0.39737991266375544"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.4463369963369964"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="6.315789"/>
+        <viz:position x="-151.93385" y="645.8875"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="alpay_özalan" label="alpay_özalan">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="13"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="58.790276" y="22.10435"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="i̇smet_yılmaz" label="i̇smet_yılmaz">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="3"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="121.81906" y="133.24901"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="koray_aydın" label="koray_aydın">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="weighted degree" value="15.0"/>
+          <attvalue for="clustering" value="0.8"/>
+          <attvalue for="triangles" value="36"/>
+          <attvalue for="eigencentrality" value="0.056398816274672574"/>
+          <attvalue for="degree" value="10"/>
+          <attvalue for="stat_inf_class" value="27"/>
+          <attvalue for="eccentricity" value="5.0"/>
+          <attvalue for="closnesscentrality" value="0.40625"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.4738095238095239"/>
+          <attvalue for="betweenesscentrality" value="2.5641025641025648"/>
+        </attvalues>
+        <viz:size value="8.947369"/>
+        <viz:position x="-71.96864" y="616.5209"/>
+        <viz:color r="253" g="239" b="216"/>
+      </node>
+      <node id="mevlüt_çavuşoğlu" label="mevlüt_çavuşoğlu">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="7"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="-140.68228" y="153.56392"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="tuncay_özkan" label="tuncay_özkan">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="weighted degree" value="24.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="276"/>
+          <attvalue for="eigencentrality" value="0.1377998125116877"/>
+          <attvalue for="degree" value="24"/>
+          <attvalue for="stat_inf_class" value="12"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5055555555555555"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.5924908424908426"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="11.315789"/>
+        <viz:position x="635.0295" y="86.0397"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="efkan_âlâ" label="efkan_âlâ">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="1"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="131.74792" y="182.30742"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="tuğrul_türkeş" label="tuğrul_türkeş">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="49.0"/>
+          <attvalue for="clustering" value="0.7244897959183674"/>
+          <attvalue for="triangles" value="852"/>
+          <attvalue for="eigencentrality" value="0.8990749548885983"/>
+          <attvalue for="degree" value="49"/>
+          <attvalue for="stat_inf_class" value="27"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.6148648648648649"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.7426739926739928"/>
+          <attvalue for="betweenesscentrality" value="379.19871794871796"/>
+        </attvalues>
+        <viz:size value="17.894737"/>
+        <viz:position x="18.346176" y="365.4911"/>
+        <viz:color r="252" g="171" b="128"/>
+      </node>
+      <node id="nureddin_nebati" label="nureddin_nebati">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="45.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="17"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="16.842106"/>
+        <viz:position x="81.05418" y="71.0383"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="murat_kurum" label="murat_kurum">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="5"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="-14.130438" y="101.29277"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="mustafa_sarıgül" label="mustafa_sarıgül">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="weighted degree" value="27.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="276"/>
+          <attvalue for="eigencentrality" value="0.1377998125116877"/>
+          <attvalue for="degree" value="24"/>
+          <attvalue for="stat_inf_class" value="23"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5055555555555555"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.5924908424908426"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="12.105263"/>
+        <viz:position x="536.64166" y="114.01275"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="lütfi_elvan" label="lütfi_elvan">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="6"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="-113.31898" y="206.28978"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="faruk_çelik" label="faruk_çelik">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="47.0"/>
+          <attvalue for="clustering" value="0.959349593495935"/>
+          <attvalue for="triangles" value="826"/>
+          <attvalue for="eigencentrality" value="0.8941850569123025"/>
+          <attvalue for="degree" value="42"/>
+          <attvalue for="stat_inf_class" value="24"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5833333333333334"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.7023809523809524"/>
+          <attvalue for="betweenesscentrality" value="5.230769230769228"/>
+        </attvalues>
+        <viz:size value="17.368422"/>
+        <viz:position x="187.7832" y="71.53699"/>
+        <viz:color r="253" g="239" b="215"/>
+      </node>
+      <node id="feleknas_uca" label="feleknas_uca">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="11.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="55"/>
+          <attvalue for="eigencentrality" value="0.010885817014238967"/>
+          <attvalue for="degree" value="11"/>
+          <attvalue for="stat_inf_class" value="10"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.3568627450980392"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.4157509157509157"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="7.894737"/>
+        <viz:position x="1523.0775" y="351.12155"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="veysel_eroğlu" label="veysel_eroğlu">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="4"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="50.958977" y="242.59085"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="sırrı_süreyya_önder" label="sırrı_süreyya_önder">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="13.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="55"/>
+          <attvalue for="eigencentrality" value="0.010885817014238967"/>
+          <attvalue for="degree" value="11"/>
+          <attvalue for="stat_inf_class" value="10"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.3568627450980392"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.4157509157509157"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="8.421053"/>
+        <viz:position x="1586.525" y="353.00003"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="bekir_bozdağ" label="bekir_bozdağ">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="47.0"/>
+          <attvalue for="clustering" value="0.959349593495935"/>
+          <attvalue for="triangles" value="826"/>
+          <attvalue for="eigencentrality" value="0.8941850569123025"/>
+          <attvalue for="degree" value="42"/>
+          <attvalue for="stat_inf_class" value="24"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5833333333333334"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.7023809523809524"/>
+          <attvalue for="betweenesscentrality" value="5.230769230769228"/>
+        </attvalues>
+        <viz:size value="17.368422"/>
+        <viz:position x="176.2687" y="129.067"/>
+        <viz:color r="253" g="239" b="215"/>
+      </node>
+      <node id="gültekin_uysal" label="gültekin_uysal">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="weighted degree" value="4.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="3"/>
+          <attvalue for="eigencentrality" value="0.00839762687111655"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="stat_inf_class" value="27"/>
+          <attvalue for="eccentricity" value="5.0"/>
+          <attvalue for="closnesscentrality" value="0.3654618473895582"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.4023809523809523"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="6.0526314"/>
+        <viz:position x="359.7102" y="673.3049"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="gürsel_tekin" label="gürsel_tekin">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="weighted degree" value="26.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="276"/>
+          <attvalue for="eigencentrality" value="0.1377998125116877"/>
+          <attvalue for="degree" value="24"/>
+          <attvalue for="stat_inf_class" value="21"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5055555555555555"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.5924908424908426"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="11.842106"/>
+        <viz:position x="597.9574" y="62.838257"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="adnan_selçuk_mızraklı" label="adnan_selçuk_mızraklı">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="11.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="55"/>
+          <attvalue for="eigencentrality" value="0.010885817014238967"/>
+          <attvalue for="degree" value="11"/>
+          <attvalue for="stat_inf_class" value="10"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.3568627450980392"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.4157509157509157"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="7.894737"/>
+        <viz:position x="1573.1194" y="187.10188"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="recep_akdağ" label="recep_akdağ">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="2"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="-73.56708" y="302.39984"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="lütfü_savaş" label="lütfü_savaş">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+          <attvalue for="weighted degree" value="0.0"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.0"/>
+          <attvalue for="degree" value="0"/>
+          <attvalue for="stat_inf_class" value="8"/>
+          <attvalue for="eccentricity" value="0.0"/>
+          <attvalue for="closnesscentrality" value="0.0"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="-12154.544" y="-24218.75"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="erkan_baş" label="erkan_baş">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="2.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="1"/>
+          <attvalue for="eigencentrality" value="0.0020830776774527866"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="stat_inf_class" value="10"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.3433962264150943"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.3644688644688641"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.5263157"/>
+        <viz:position x="1449.7826" y="-44.922768"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="mahmut_toğrul" label="mahmut_toğrul">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="11.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="55"/>
+          <attvalue for="eigencentrality" value="0.010885817014238967"/>
+          <attvalue for="degree" value="11"/>
+          <attvalue for="stat_inf_class" value="10"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.3568627450980392"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.4157509157509157"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="7.894737"/>
+        <viz:position x="1511.4553" y="242.07397"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="markar_esayan" label="markar_esayan">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="19"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="-90.48542" y="154.1134"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="enis_berberoğlu" label="enis_berberoğlu">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="weighted degree" value="24.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="276"/>
+          <attvalue for="eigencentrality" value="0.1377998125116877"/>
+          <attvalue for="degree" value="24"/>
+          <attvalue for="stat_inf_class" value="23"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5055555555555555"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.5924908424908426"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="11.315789"/>
+        <viz:position x="610.0134" y="174.6039"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="vedat_bilgin" label="vedat_bilgin">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="20"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="-38.103718" y="159.7168"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="deniz_yavuzyılmaz" label="deniz_yavuzyılmaz">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="weighted degree" value="24.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="276"/>
+          <attvalue for="eigencentrality" value="0.1377998125116877"/>
+          <attvalue for="degree" value="24"/>
+          <attvalue for="stat_inf_class" value="14"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5055555555555555"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.5924908424908426"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="11.315789"/>
+        <viz:position x="531.82935" y="32.867733"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="tanju_özcan" label="tanju_özcan">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="weighted degree" value="28.0"/>
+          <attvalue for="clustering" value="0.8005698005698005"/>
+          <attvalue for="triangles" value="281"/>
+          <attvalue for="eigencentrality" value="0.16189453279617375"/>
+          <attvalue for="degree" value="27"/>
+          <attvalue for="stat_inf_class" value="21"/>
+          <attvalue for="eccentricity" value="3.0"/>
+          <attvalue for="closnesscentrality" value="0.558282208588957"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.6336996336996338"/>
+          <attvalue for="betweenesscentrality" value="404.7000000000002"/>
+        </attvalues>
+        <viz:size value="12.368422"/>
+        <viz:position x="662.28687" y="177.36397"/>
+        <viz:color r="252" g="167" b="122"/>
+      </node>
+      <node id="i̇lhan_kesici" label="i̇lhan_kesici">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="weighted degree" value="24.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="276"/>
+          <attvalue for="eigencentrality" value="0.1377998125116877"/>
+          <attvalue for="degree" value="24"/>
+          <attvalue for="stat_inf_class" value="9"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5055555555555555"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.5924908424908426"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="11.315789"/>
+        <viz:position x="573.7714" y="97.30912"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="cevdet_yılmaz" label="cevdet_yılmaz">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="11"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="2.9729195" y="265.85437"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="ömer_çelik" label="ömer_çelik">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="22"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="-8.680926" y="216.08434"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="mahmut_özer" label="mahmut_özer">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="15"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="-1.8511443" y="13.997093"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="ömer_faruk_gergerlioğlu" label="ömer_faruk_gergerlioğlu">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="1.0"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="9.443519805240924E-4"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="stat_inf_class" value="10"/>
+          <attvalue for="eccentricity" value="5.0"/>
+          <attvalue for="closnesscentrality" value="0.26453488372093026"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.2875457875457875"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.263158"/>
+        <viz:position x="2020.4879" y="329.17233"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="mehmet_bekaroğlu" label="mehmet_bekaroğlu">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="weighted degree" value="35.0"/>
+          <attvalue for="clustering" value="0.6896551724137931"/>
+          <attvalue for="triangles" value="300"/>
+          <attvalue for="eigencentrality" value="0.2658405133078356"/>
+          <attvalue for="degree" value="30"/>
+          <attvalue for="stat_inf_class" value="18"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5352941176470588"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.6327838827838829"/>
+          <attvalue for="betweenesscentrality" value="71.375"/>
+        </attvalues>
+        <viz:size value="14.210526"/>
+        <viz:position x="411.60138" y="149.60126"/>
+        <viz:color r="253" g="227" b="200"/>
+      </node>
+      <node id="gökçe_gökçen" label="gökçe_gökçen">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="weighted degree" value="24.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="276"/>
+          <attvalue for="eigencentrality" value="0.1377998125116877"/>
+          <attvalue for="degree" value="24"/>
+          <attvalue for="stat_inf_class" value="21"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5055555555555555"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.5924908424908426"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="11.315789"/>
+        <viz:position x="607.99243" y="113.38186"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="abdulhamit_gül" label="abdulhamit_gül">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="56.0"/>
+          <attvalue for="clustering" value="0.9180509413067552"/>
+          <attvalue for="triangles" value="829"/>
+          <attvalue for="eigencentrality" value="0.8997203651056302"/>
+          <attvalue for="degree" value="43"/>
+          <attvalue for="stat_inf_class" value="19"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5870967741935483"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.7078754578754579"/>
+          <attvalue for="betweenesscentrality" value="18.180769230769226"/>
+        </attvalues>
+        <viz:size value="19.736843"/>
+        <viz:position x="187.27838" y="185.6242"/>
+        <viz:color r="253" g="236" b="212"/>
+      </node>
+      <node id="ahmet_akın" label="ahmet_akın">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="weighted degree" value="24.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="276"/>
+          <attvalue for="eigencentrality" value="0.1377998125116877"/>
+          <attvalue for="degree" value="24"/>
+          <attvalue for="stat_inf_class" value="14"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5055555555555555"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.5924908424908426"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="11.315789"/>
+        <viz:position x="570.12115" y="188.86975"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="tülay_hatimoğulları_oruç" label="tülay_hatimoğulları_oruç">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="12.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="55"/>
+          <attvalue for="eigencentrality" value="0.010885817014238967"/>
+          <attvalue for="degree" value="11"/>
+          <attvalue for="stat_inf_class" value="10"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.3568627450980392"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.4157509157509157"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="8.157894"/>
+        <viz:position x="1539.943" y="309.8305"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="mehmet_özhaseki" label="mehmet_özhaseki">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="51.0"/>
+          <attvalue for="clustering" value="0.959349593495935"/>
+          <attvalue for="triangles" value="826"/>
+          <attvalue for="eigencentrality" value="0.8941850569123025"/>
+          <attvalue for="degree" value="42"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5833333333333334"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.7023809523809524"/>
+          <attvalue for="betweenesscentrality" value="5.230769230769228"/>
+        </attvalues>
+        <viz:size value="18.421053"/>
+        <viz:position x="165.75981" y="247.53899"/>
+        <viz:color r="253" g="239" b="215"/>
+      </node>
+      <node id="cihangir_i̇slam" label="cihangir_i̇slam">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="weighted degree" value="29.0"/>
+          <attvalue for="clustering" value="0.8646153846153846"/>
+          <attvalue for="triangles" value="281"/>
+          <attvalue for="eigencentrality" value="0.18083757382278276"/>
+          <attvalue for="degree" value="26"/>
+          <attvalue for="stat_inf_class" value="14"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5229885057471264"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.6108058608058609"/>
+          <attvalue for="betweenesscentrality" value="30.158333333333328"/>
+        </attvalues>
+        <viz:size value="12.631578"/>
+        <viz:position x="453.22388" y="171.86533"/>
+        <viz:color r="253" g="234" b="209"/>
+      </node>
+      <node id="tolga_ağar" label="tolga_ağar">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="29"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="-23.685303" y="312.76"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="akif_çağatay_kılıç" label="akif_çağatay_kılıç">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="5"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="36.110523" y="194.71924"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="abdüllatif_şener" label="abdüllatif_şener">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="weighted degree" value="76.0"/>
+          <attvalue for="clustering" value="0.53125"/>
+          <attvalue for="triangles" value="1105"/>
+          <attvalue for="eigencentrality" value="1.0"/>
+          <attvalue for="degree" value="65"/>
+          <attvalue for="stat_inf_class" value="16"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.6893939393939394"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.8305860805860807"/>
+          <attvalue for="betweenesscentrality" value="880.0641025641021"/>
+        </attvalues>
+        <viz:size value="25.0"/>
+        <viz:position x="273.26273" y="142.23683"/>
+        <viz:color r="208" g="56" b="35"/>
+      </node>
+      <node id="pervin_buldan" label="pervin_buldan">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="14.0"/>
+          <attvalue for="clustering" value="0.8333333333333334"/>
+          <attvalue for="triangles" value="55"/>
+          <attvalue for="eigencentrality" value="0.011168015234364037"/>
+          <attvalue for="degree" value="12"/>
+          <attvalue for="stat_inf_class" value="10"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.35826771653543305"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.4212454212454212"/>
+          <attvalue for="betweenesscentrality" value="90.0"/>
+        </attvalues>
+        <viz:size value="8.684211"/>
+        <viz:position x="1670.9385" y="283.61215"/>
+        <viz:color r="253" g="223" b="196"/>
+      </node>
+      <node id="öztürk_yılmaz" label="öztürk_yılmaz">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="weighted degree" value="24.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="276"/>
+          <attvalue for="eigencentrality" value="0.1377998125116877"/>
+          <attvalue for="degree" value="24"/>
+          <attvalue for="stat_inf_class" value="21"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5055555555555555"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.5924908424908426"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="11.315789"/>
+        <viz:position x="637.6795" y="144.27289"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="fatma_betül_sayan_kaya" label="fatma_betül_sayan_kaya">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="13"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="-115.46279" y="105.529335"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="semra_güzel" label="semra_güzel">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="11.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="55"/>
+          <attvalue for="eigencentrality" value="0.010885817014238968"/>
+          <attvalue for="degree" value="11"/>
+          <attvalue for="stat_inf_class" value="10"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.3568627450980392"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.4157509157509157"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="7.894737"/>
+        <viz:position x="1614.6084" y="219.81308"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="volkan_bozkır" label="volkan_bozkır">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="3"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="44.936005" y="108.25483"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="cemal_enginyurt" label="cemal_enginyurt">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="weighted degree" value="12.0"/>
+          <attvalue for="clustering" value="0.6888888888888889"/>
+          <attvalue for="triangles" value="31"/>
+          <attvalue for="eigencentrality" value="0.038895822744671994"/>
+          <attvalue for="degree" value="10"/>
+          <attvalue for="stat_inf_class" value="27"/>
+          <attvalue for="eccentricity" value="5.0"/>
+          <attvalue for="closnesscentrality" value="0.4482758620689655"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.5122710622710622"/>
+          <attvalue for="betweenesscentrality" value="47.95576923076922"/>
+        </attvalues>
+        <viz:size value="8.157894"/>
+        <viz:position x="148.63168" y="637.5833"/>
+        <viz:color r="253" g="231" b="205"/>
+      </node>
+      <node id="ahmet_eşref_fakıbaba" label="ahmet_eşref_fakıbaba">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="49.0"/>
+          <attvalue for="clustering" value="0.7473404255319149"/>
+          <attvalue for="triangles" value="843"/>
+          <attvalue for="eigencentrality" value="0.9080977359220881"/>
+          <attvalue for="degree" value="48"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.610738255033557"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.7371794871794873"/>
+          <attvalue for="betweenesscentrality" value="251.5371794871795"/>
+        </attvalues>
+        <viz:size value="17.894737"/>
+        <viz:position x="86.27124" y="338.9447"/>
+        <viz:color r="253" g="194" b="158"/>
+      </node>
+      <node id="yüksel_taşkın" label="yüksel_taşkın">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="weighted degree" value="24.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="276"/>
+          <attvalue for="eigencentrality" value="0.1377998125116877"/>
+          <attvalue for="degree" value="24"/>
+          <attvalue for="stat_inf_class" value="18"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5055555555555555"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.5924908424908426"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="11.315789"/>
+        <viz:position x="543.76935" y="154.18025"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="akif_hamzaçebi" label="akif_hamzaçebi">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="weighted degree" value="24.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="276"/>
+          <attvalue for="eigencentrality" value="0.1377998125116877"/>
+          <attvalue for="degree" value="24"/>
+          <attvalue for="stat_inf_class" value="9"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5055555555555555"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.5924908424908426"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="11.315789"/>
+        <viz:position x="492.88696" y="99.60577"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="derya_yanık" label="derya_yanık">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="6"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="-81.281494" y="58.539955"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="fikri_işık" label="fikri_işık">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="28"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="130.10194" y="293.6708"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="nurettin_canikli" label="nurettin_canikli">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="7"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="31.622892" y="307.30054"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="olcay_kılavuz" label="olcay_kılavuz">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="28"/>
+          <attvalue for="eigencentrality" value="0.033667961902373686"/>
+          <attvalue for="degree" value="8"/>
+          <attvalue for="stat_inf_class" value="27"/>
+          <attvalue for="eccentricity" value="5.0"/>
+          <attvalue for="closnesscentrality" value="0.3991228070175439"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.4591575091575092"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="7.105263"/>
+        <viz:position x="-60.86445" y="720.24133"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="ayşe_acar_başaran" label="ayşe_acar_başaran">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="11.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="55"/>
+          <attvalue for="eigencentrality" value="0.010885817014238968"/>
+          <attvalue for="degree" value="11"/>
+          <attvalue for="stat_inf_class" value="10"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.3568627450980392"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.4157509157509158"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="7.894737"/>
+        <viz:position x="1490.4435" y="287.33627"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="nabi_avcı" label="nabi_avcı">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="25"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="83.56864" y="206.36887"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="hişyar_özsoy" label="hişyar_özsoy">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="11.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="55"/>
+          <attvalue for="eigencentrality" value="0.010885817014238968"/>
+          <attvalue for="degree" value="11"/>
+          <attvalue for="stat_inf_class" value="10"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.3568627450980392"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.4157509157509158"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="7.894737"/>
+        <viz:position x="1532.111" y="204.23386"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="selami_altınok" label="selami_altınok">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="26"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="-32.52097" y="56.2694"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="mehmet_nuri_ersoy" label="mehmet_nuri_ersoy">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="3.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="3"/>
+          <attvalue for="eigencentrality" value="0.029016947873537792"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="stat_inf_class" value="10"/>
+          <attvalue for="eccentricity" value="3.0"/>
+          <attvalue for="closnesscentrality" value="0.4789473684210526"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.4963369963369964"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="5.7894735"/>
+        <viz:position x="823.8191" y="238.94728"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="serkan_bayram" label="serkan_bayram">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="17"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="115.57395" y="27.026903"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="haluk_koç" label="haluk_koç">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="weighted degree" value="24.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="276"/>
+          <attvalue for="eigencentrality" value="0.1377998125116877"/>
+          <attvalue for="degree" value="24"/>
+          <attvalue for="stat_inf_class" value="23"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5055555555555555"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.5924908424908426"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="11.315789"/>
+        <viz:position x="606.80597" y="213.07286"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="harun_özgür_yıldızlı" label="harun_özgür_yıldızlı">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="weighted degree" value="24.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="276"/>
+          <attvalue for="eigencentrality" value="0.1377998125116877"/>
+          <attvalue for="degree" value="24"/>
+          <attvalue for="stat_inf_class" value="9"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5055555555555555"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.5924908424908426"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="11.315789"/>
+        <viz:position x="569.0409" y="229.1203"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="atila_sertel" label="atila_sertel">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="weighted degree" value="24.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="276"/>
+          <attvalue for="eigencentrality" value="0.1377998125116877"/>
+          <attvalue for="degree" value="24"/>
+          <attvalue for="stat_inf_class" value="18"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5055555555555555"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.5924908424908426"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="11.315789"/>
+        <viz:position x="503.7223" y="63.520718"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="bülent_kuşoğlu" label="bülent_kuşoğlu">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="weighted degree" value="29.0"/>
+          <attvalue for="clustering" value="0.7948717948717948"/>
+          <attvalue for="triangles" value="279"/>
+          <attvalue for="eigencentrality" value="0.14172583444191988"/>
+          <attvalue for="degree" value="27"/>
+          <attvalue for="stat_inf_class" value="18"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5352941176470588"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.6217948717948718"/>
+          <attvalue for="betweenesscentrality" value="178.44487179487174"/>
+        </attvalues>
+        <viz:size value="12.631578"/>
+        <viz:position x="471.65872" y="280.8373"/>
+        <viz:color r="253" g="207" b="175"/>
+      </node>
+      <node id="mustafa_savaş" label="mustafa_savaş">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="22"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="113.61126" y="248.55658"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="lütfü_türkkan" label="lütfü_türkkan">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="weighted degree" value="13.0"/>
+          <attvalue for="clustering" value="0.8"/>
+          <attvalue for="triangles" value="36"/>
+          <attvalue for="eigencentrality" value="0.05639881627467257"/>
+          <attvalue for="degree" value="10"/>
+          <attvalue for="stat_inf_class" value="27"/>
+          <attvalue for="eccentricity" value="5.0"/>
+          <attvalue for="closnesscentrality" value="0.40625"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.4738095238095239"/>
+          <attvalue for="betweenesscentrality" value="2.5641025641025648"/>
+        </attvalues>
+        <viz:size value="8.421053"/>
+        <viz:position x="-32.488827" y="617.0473"/>
+        <viz:color r="253" g="239" b="216"/>
+      </node>
+      <node id="selin_sayek_böke" label="selin_sayek_böke">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="weighted degree" value="24.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="276"/>
+          <attvalue for="eigencentrality" value="0.1377998125116877"/>
+          <attvalue for="degree" value="24"/>
+          <attvalue for="stat_inf_class" value="23"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5055555555555555"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.5924908424908426"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="11.315789"/>
+        <viz:position x="500.36725" y="140.28021"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="fahrettin_koca" label="fahrettin_koca">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="41.0"/>
+          <attvalue for="clustering" value="1.0"/>
+          <attvalue for="triangles" value="820"/>
+          <attvalue for="eigencentrality" value="0.88665789854545"/>
+          <attvalue for="degree" value="41"/>
+          <attvalue for="stat_inf_class" value="11"/>
+          <attvalue for="eccentricity" value="4.0"/>
+          <attvalue for="closnesscentrality" value="0.5796178343949044"/>
+          <attvalue for="harmonicclosnesscentrality" value="0.696886446886447"/>
+          <attvalue for="betweenesscentrality" value="0.0"/>
+        </attvalues>
+        <viz:size value="15.7894745"/>
+        <viz:position x="-99.437416" y="252.50485"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="recep_tayyip_erdoğan" target="binali_yıldırım"/>
+      <edge id="1" source="recep_tayyip_erdoğan" target="ali_babacan"/>
+      <edge id="2" source="recep_tayyip_erdoğan" target="hulusi_akar"/>
+      <edge id="3" source="recep_tayyip_erdoğan" target="ahmet_davutoğlu"/>
+      <edge id="4" source="recep_tayyip_erdoğan" target="süleyman_soylu"/>
+      <edge id="5" source="recep_tayyip_erdoğan" target="numan_kurtulmuş"/>
+      <edge id="6" source="recep_tayyip_erdoğan" target="berat_albayrak"/>
+      <edge id="7" source="recep_tayyip_erdoğan" target="mehmet_şimşek"/>
+      <edge id="8" source="recep_tayyip_erdoğan" target="ahmet_şık"/>
+      <edge id="9" source="recep_tayyip_erdoğan" target="alpay_özalan"/>
+      <edge id="10" source="recep_tayyip_erdoğan" target="i̇smet_yılmaz"/>
+      <edge id="11" source="recep_tayyip_erdoğan" target="mevlüt_çavuşoğlu"/>
+      <edge id="12" source="recep_tayyip_erdoğan" target="efkan_âlâ"/>
+      <edge id="13" source="recep_tayyip_erdoğan" target="tuğrul_türkeş"/>
+      <edge id="14" source="recep_tayyip_erdoğan" target="nureddin_nebati" weight="2.0"/>
+      <edge id="15" source="recep_tayyip_erdoğan" target="murat_kurum"/>
+      <edge id="16" source="recep_tayyip_erdoğan" target="lütfi_elvan"/>
+      <edge id="17" source="recep_tayyip_erdoğan" target="faruk_çelik" weight="2.0"/>
+      <edge id="18" source="recep_tayyip_erdoğan" target="veysel_eroğlu"/>
+      <edge id="19" source="recep_tayyip_erdoğan" target="bekir_bozdağ" weight="2.0"/>
+      <edge id="20" source="recep_tayyip_erdoğan" target="recep_akdağ"/>
+      <edge id="21" source="recep_tayyip_erdoğan" target="markar_esayan"/>
+      <edge id="22" source="recep_tayyip_erdoğan" target="vedat_bilgin"/>
+      <edge id="23" source="recep_tayyip_erdoğan" target="tanju_özcan"/>
+      <edge id="24" source="recep_tayyip_erdoğan" target="cevdet_yılmaz"/>
+      <edge id="25" source="recep_tayyip_erdoğan" target="ömer_çelik"/>
+      <edge id="26" source="recep_tayyip_erdoğan" target="mahmut_özer"/>
+      <edge id="27" source="recep_tayyip_erdoğan" target="mehmet_bekaroğlu"/>
+      <edge id="28" source="recep_tayyip_erdoğan" target="abdulhamit_gül" weight="3.0"/>
+      <edge id="29" source="recep_tayyip_erdoğan" target="mehmet_özhaseki" weight="3.0"/>
+      <edge id="30" source="recep_tayyip_erdoğan" target="tolga_ağar"/>
+      <edge id="31" source="recep_tayyip_erdoğan" target="akif_çağatay_kılıç"/>
+      <edge id="32" source="recep_tayyip_erdoğan" target="abdüllatif_şener" weight="3.0"/>
+      <edge id="33" source="recep_tayyip_erdoğan" target="fatma_betül_sayan_kaya"/>
+      <edge id="34" source="recep_tayyip_erdoğan" target="volkan_bozkır"/>
+      <edge id="35" source="recep_tayyip_erdoğan" target="ahmet_eşref_fakıbaba"/>
+      <edge id="36" source="recep_tayyip_erdoğan" target="derya_yanık"/>
+      <edge id="37" source="recep_tayyip_erdoğan" target="fikri_işık"/>
+      <edge id="38" source="recep_tayyip_erdoğan" target="nurettin_canikli"/>
+      <edge id="39" source="recep_tayyip_erdoğan" target="nabi_avcı"/>
+      <edge id="40" source="recep_tayyip_erdoğan" target="selami_altınok"/>
+      <edge id="41" source="recep_tayyip_erdoğan" target="mehmet_nuri_ersoy"/>
+      <edge id="42" source="recep_tayyip_erdoğan" target="serkan_bayram"/>
+      <edge id="43" source="recep_tayyip_erdoğan" target="mustafa_savaş"/>
+      <edge id="44" source="recep_tayyip_erdoğan" target="fahrettin_koca"/>
+      <edge id="45" source="kemal_kılıçdaroğlu" target="ekrem_i̇mamoğlu"/>
+      <edge id="46" source="kemal_kılıçdaroğlu" target="deniz_baykal"/>
+      <edge id="47" source="kemal_kılıçdaroğlu" target="özgür_özel"/>
+      <edge id="48" source="kemal_kılıçdaroğlu" target="mansur_yavaş"/>
+      <edge id="49" source="kemal_kılıçdaroğlu" target="tuncay_özkan"/>
+      <edge id="50" source="kemal_kılıçdaroğlu" target="mustafa_sarıgül"/>
+      <edge id="51" source="kemal_kılıçdaroğlu" target="gürsel_tekin"/>
+      <edge id="52" source="kemal_kılıçdaroğlu" target="enis_berberoğlu"/>
+      <edge id="53" source="kemal_kılıçdaroğlu" target="deniz_yavuzyılmaz"/>
+      <edge id="54" source="kemal_kılıçdaroğlu" target="tanju_özcan"/>
+      <edge id="55" source="kemal_kılıçdaroğlu" target="i̇lhan_kesici"/>
+      <edge id="56" source="kemal_kılıçdaroğlu" target="mehmet_bekaroğlu"/>
+      <edge id="57" source="kemal_kılıçdaroğlu" target="gökçe_gökçen"/>
+      <edge id="58" source="kemal_kılıçdaroğlu" target="ahmet_akın"/>
+      <edge id="59" source="kemal_kılıçdaroğlu" target="cihangir_i̇slam"/>
+      <edge id="60" source="kemal_kılıçdaroğlu" target="abdüllatif_şener"/>
+      <edge id="61" source="kemal_kılıçdaroğlu" target="öztürk_yılmaz"/>
+      <edge id="62" source="kemal_kılıçdaroğlu" target="yüksel_taşkın"/>
+      <edge id="63" source="kemal_kılıçdaroğlu" target="akif_hamzaçebi"/>
+      <edge id="64" source="kemal_kılıçdaroğlu" target="haluk_koç"/>
+      <edge id="65" source="kemal_kılıçdaroğlu" target="harun_özgür_yıldızlı"/>
+      <edge id="66" source="kemal_kılıçdaroğlu" target="atila_sertel"/>
+      <edge id="67" source="kemal_kılıçdaroğlu" target="bülent_kuşoğlu"/>
+      <edge id="68" source="kemal_kılıçdaroğlu" target="selin_sayek_böke"/>
+      <edge id="69" source="binali_yıldırım" target="ali_babacan"/>
+      <edge id="70" source="binali_yıldırım" target="hulusi_akar"/>
+      <edge id="71" source="binali_yıldırım" target="ahmet_davutoğlu"/>
+      <edge id="72" source="binali_yıldırım" target="süleyman_soylu"/>
+      <edge id="73" source="binali_yıldırım" target="numan_kurtulmuş"/>
+      <edge id="74" source="binali_yıldırım" target="berat_albayrak"/>
+      <edge id="75" source="binali_yıldırım" target="mehmet_şimşek"/>
+      <edge id="76" source="binali_yıldırım" target="alpay_özalan"/>
+      <edge id="77" source="binali_yıldırım" target="i̇smet_yılmaz"/>
+      <edge id="78" source="binali_yıldırım" target="mevlüt_çavuşoğlu"/>
+      <edge id="79" source="binali_yıldırım" target="efkan_âlâ"/>
+      <edge id="80" source="binali_yıldırım" target="tuğrul_türkeş"/>
+      <edge id="81" source="binali_yıldırım" target="nureddin_nebati"/>
+      <edge id="82" source="binali_yıldırım" target="murat_kurum"/>
+      <edge id="83" source="binali_yıldırım" target="lütfi_elvan"/>
+      <edge id="84" source="binali_yıldırım" target="faruk_çelik"/>
+      <edge id="85" source="binali_yıldırım" target="veysel_eroğlu"/>
+      <edge id="86" source="binali_yıldırım" target="bekir_bozdağ"/>
+      <edge id="87" source="binali_yıldırım" target="recep_akdağ"/>
+      <edge id="88" source="binali_yıldırım" target="markar_esayan"/>
+      <edge id="89" source="binali_yıldırım" target="vedat_bilgin"/>
+      <edge id="90" source="binali_yıldırım" target="cevdet_yılmaz"/>
+      <edge id="91" source="binali_yıldırım" target="ömer_çelik"/>
+      <edge id="92" source="binali_yıldırım" target="mahmut_özer"/>
+      <edge id="93" source="binali_yıldırım" target="abdulhamit_gül"/>
+      <edge id="94" source="binali_yıldırım" target="mehmet_özhaseki"/>
+      <edge id="95" source="binali_yıldırım" target="tolga_ağar"/>
+      <edge id="96" source="binali_yıldırım" target="akif_çağatay_kılıç"/>
+      <edge id="97" source="binali_yıldırım" target="abdüllatif_şener"/>
+      <edge id="98" source="binali_yıldırım" target="fatma_betül_sayan_kaya"/>
+      <edge id="99" source="binali_yıldırım" target="volkan_bozkır"/>
+      <edge id="100" source="binali_yıldırım" target="ahmet_eşref_fakıbaba"/>
+      <edge id="101" source="binali_yıldırım" target="derya_yanık"/>
+      <edge id="102" source="binali_yıldırım" target="fikri_işık"/>
+      <edge id="103" source="binali_yıldırım" target="nurettin_canikli"/>
+      <edge id="104" source="binali_yıldırım" target="nabi_avcı"/>
+      <edge id="105" source="binali_yıldırım" target="selami_altınok"/>
+      <edge id="106" source="binali_yıldırım" target="serkan_bayram"/>
+      <edge id="107" source="binali_yıldırım" target="mustafa_savaş"/>
+      <edge id="108" source="binali_yıldırım" target="fahrettin_koca"/>
+      <edge id="109" source="devlet_bahçeli" target="meral_akşener" weight="2.0"/>
+      <edge id="110" source="devlet_bahçeli" target="ümit_özdağ" weight="2.0"/>
+      <edge id="111" source="devlet_bahçeli" target="saffet_sancaklı"/>
+      <edge id="112" source="devlet_bahçeli" target="koray_aydın" weight="2.0"/>
+      <edge id="113" source="devlet_bahçeli" target="tuğrul_türkeş"/>
+      <edge id="114" source="devlet_bahçeli" target="cemal_enginyurt" weight="2.0"/>
+      <edge id="115" source="devlet_bahçeli" target="olcay_kılavuz"/>
+      <edge id="116" source="devlet_bahçeli" target="lütfü_türkkan"/>
+      <edge id="117" source="ali_babacan" target="hulusi_akar"/>
+      <edge id="118" source="ali_babacan" target="ahmet_davutoğlu"/>
+      <edge id="119" source="ali_babacan" target="süleyman_soylu"/>
+      <edge id="120" source="ali_babacan" target="numan_kurtulmuş"/>
+      <edge id="121" source="ali_babacan" target="berat_albayrak"/>
+      <edge id="122" source="ali_babacan" target="mehmet_şimşek"/>
+      <edge id="123" source="ali_babacan" target="alpay_özalan"/>
+      <edge id="124" source="ali_babacan" target="i̇smet_yılmaz"/>
+      <edge id="125" source="ali_babacan" target="mevlüt_çavuşoğlu"/>
+      <edge id="126" source="ali_babacan" target="efkan_âlâ"/>
+      <edge id="127" source="ali_babacan" target="tuğrul_türkeş"/>
+      <edge id="128" source="ali_babacan" target="nureddin_nebati"/>
+      <edge id="129" source="ali_babacan" target="murat_kurum"/>
+      <edge id="130" source="ali_babacan" target="lütfi_elvan"/>
+      <edge id="131" source="ali_babacan" target="faruk_çelik"/>
+      <edge id="132" source="ali_babacan" target="veysel_eroğlu"/>
+      <edge id="133" source="ali_babacan" target="bekir_bozdağ"/>
+      <edge id="134" source="ali_babacan" target="recep_akdağ"/>
+      <edge id="135" source="ali_babacan" target="markar_esayan"/>
+      <edge id="136" source="ali_babacan" target="vedat_bilgin"/>
+      <edge id="137" source="ali_babacan" target="cevdet_yılmaz"/>
+      <edge id="138" source="ali_babacan" target="ömer_çelik"/>
+      <edge id="139" source="ali_babacan" target="mahmut_özer"/>
+      <edge id="140" source="ali_babacan" target="abdulhamit_gül"/>
+      <edge id="141" source="ali_babacan" target="mehmet_özhaseki"/>
+      <edge id="142" source="ali_babacan" target="tolga_ağar"/>
+      <edge id="143" source="ali_babacan" target="akif_çağatay_kılıç"/>
+      <edge id="144" source="ali_babacan" target="abdüllatif_şener"/>
+      <edge id="145" source="ali_babacan" target="fatma_betül_sayan_kaya"/>
+      <edge id="146" source="ali_babacan" target="volkan_bozkır"/>
+      <edge id="147" source="ali_babacan" target="ahmet_eşref_fakıbaba"/>
+      <edge id="148" source="ali_babacan" target="derya_yanık"/>
+      <edge id="149" source="ali_babacan" target="fikri_işık"/>
+      <edge id="150" source="ali_babacan" target="nurettin_canikli"/>
+      <edge id="151" source="ali_babacan" target="nabi_avcı"/>
+      <edge id="152" source="ali_babacan" target="selami_altınok"/>
+      <edge id="153" source="ali_babacan" target="serkan_bayram"/>
+      <edge id="154" source="ali_babacan" target="mustafa_savaş"/>
+      <edge id="155" source="ali_babacan" target="fahrettin_koca"/>
+      <edge id="156" source="ekrem_i̇mamoğlu" target="deniz_baykal"/>
+      <edge id="157" source="ekrem_i̇mamoğlu" target="özgür_özel"/>
+      <edge id="158" source="ekrem_i̇mamoğlu" target="mansur_yavaş"/>
+      <edge id="159" source="ekrem_i̇mamoğlu" target="tuncay_özkan"/>
+      <edge id="160" source="ekrem_i̇mamoğlu" target="mustafa_sarıgül"/>
+      <edge id="161" source="ekrem_i̇mamoğlu" target="gürsel_tekin"/>
+      <edge id="162" source="ekrem_i̇mamoğlu" target="enis_berberoğlu"/>
+      <edge id="163" source="ekrem_i̇mamoğlu" target="deniz_yavuzyılmaz"/>
+      <edge id="164" source="ekrem_i̇mamoğlu" target="tanju_özcan"/>
+      <edge id="165" source="ekrem_i̇mamoğlu" target="i̇lhan_kesici"/>
+      <edge id="166" source="ekrem_i̇mamoğlu" target="mehmet_bekaroğlu"/>
+      <edge id="167" source="ekrem_i̇mamoğlu" target="gökçe_gökçen"/>
+      <edge id="168" source="ekrem_i̇mamoğlu" target="ahmet_akın"/>
+      <edge id="169" source="ekrem_i̇mamoğlu" target="cihangir_i̇slam"/>
+      <edge id="170" source="ekrem_i̇mamoğlu" target="abdüllatif_şener"/>
+      <edge id="171" source="ekrem_i̇mamoğlu" target="öztürk_yılmaz"/>
+      <edge id="172" source="ekrem_i̇mamoğlu" target="yüksel_taşkın"/>
+      <edge id="173" source="ekrem_i̇mamoğlu" target="akif_hamzaçebi"/>
+      <edge id="174" source="ekrem_i̇mamoğlu" target="haluk_koç"/>
+      <edge id="175" source="ekrem_i̇mamoğlu" target="harun_özgür_yıldızlı"/>
+      <edge id="176" source="ekrem_i̇mamoğlu" target="atila_sertel"/>
+      <edge id="177" source="ekrem_i̇mamoğlu" target="bülent_kuşoğlu"/>
+      <edge id="178" source="ekrem_i̇mamoğlu" target="selin_sayek_böke"/>
+      <edge id="179" source="hulusi_akar" target="ahmet_davutoğlu"/>
+      <edge id="180" source="hulusi_akar" target="süleyman_soylu"/>
+      <edge id="181" source="hulusi_akar" target="numan_kurtulmuş"/>
+      <edge id="182" source="hulusi_akar" target="berat_albayrak"/>
+      <edge id="183" source="hulusi_akar" target="mehmet_şimşek"/>
+      <edge id="184" source="hulusi_akar" target="alpay_özalan"/>
+      <edge id="185" source="hulusi_akar" target="i̇smet_yılmaz"/>
+      <edge id="186" source="hulusi_akar" target="mevlüt_çavuşoğlu"/>
+      <edge id="187" source="hulusi_akar" target="efkan_âlâ"/>
+      <edge id="188" source="hulusi_akar" target="tuğrul_türkeş"/>
+      <edge id="189" source="hulusi_akar" target="nureddin_nebati"/>
+      <edge id="190" source="hulusi_akar" target="murat_kurum"/>
+      <edge id="191" source="hulusi_akar" target="lütfi_elvan"/>
+      <edge id="192" source="hulusi_akar" target="faruk_çelik"/>
+      <edge id="193" source="hulusi_akar" target="veysel_eroğlu"/>
+      <edge id="194" source="hulusi_akar" target="bekir_bozdağ"/>
+      <edge id="195" source="hulusi_akar" target="recep_akdağ"/>
+      <edge id="196" source="hulusi_akar" target="markar_esayan"/>
+      <edge id="197" source="hulusi_akar" target="vedat_bilgin"/>
+      <edge id="198" source="hulusi_akar" target="cevdet_yılmaz"/>
+      <edge id="199" source="hulusi_akar" target="ömer_çelik"/>
+      <edge id="200" source="hulusi_akar" target="mahmut_özer"/>
+      <edge id="201" source="hulusi_akar" target="abdulhamit_gül"/>
+      <edge id="202" source="hulusi_akar" target="mehmet_özhaseki"/>
+      <edge id="203" source="hulusi_akar" target="tolga_ağar"/>
+      <edge id="204" source="hulusi_akar" target="akif_çağatay_kılıç"/>
+      <edge id="205" source="hulusi_akar" target="abdüllatif_şener"/>
+      <edge id="206" source="hulusi_akar" target="fatma_betül_sayan_kaya"/>
+      <edge id="207" source="hulusi_akar" target="volkan_bozkır"/>
+      <edge id="208" source="hulusi_akar" target="ahmet_eşref_fakıbaba"/>
+      <edge id="209" source="hulusi_akar" target="derya_yanık"/>
+      <edge id="210" source="hulusi_akar" target="fikri_işık"/>
+      <edge id="211" source="hulusi_akar" target="nurettin_canikli"/>
+      <edge id="212" source="hulusi_akar" target="nabi_avcı"/>
+      <edge id="213" source="hulusi_akar" target="selami_altınok"/>
+      <edge id="214" source="hulusi_akar" target="serkan_bayram"/>
+      <edge id="215" source="hulusi_akar" target="mustafa_savaş"/>
+      <edge id="216" source="hulusi_akar" target="fahrettin_koca"/>
+      <edge id="217" source="meral_akşener" target="ümit_özdağ" weight="3.0"/>
+      <edge id="218" source="meral_akşener" target="saffet_sancaklı"/>
+      <edge id="219" source="meral_akşener" target="ünal_karaman"/>
+      <edge id="220" source="meral_akşener" target="koray_aydın" weight="2.0"/>
+      <edge id="221" source="meral_akşener" target="tuğrul_türkeş"/>
+      <edge id="222" source="meral_akşener" target="gültekin_uysal"/>
+      <edge id="223" source="meral_akşener" target="cemal_enginyurt"/>
+      <edge id="224" source="meral_akşener" target="ahmet_eşref_fakıbaba"/>
+      <edge id="225" source="meral_akşener" target="olcay_kılavuz"/>
+      <edge id="226" source="meral_akşener" target="bülent_kuşoğlu"/>
+      <edge id="227" source="meral_akşener" target="lütfü_türkkan" weight="2.0"/>
+      <edge id="228" source="ahmet_davutoğlu" target="süleyman_soylu"/>
+      <edge id="229" source="ahmet_davutoğlu" target="numan_kurtulmuş"/>
+      <edge id="230" source="ahmet_davutoğlu" target="berat_albayrak"/>
+      <edge id="231" source="ahmet_davutoğlu" target="mehmet_şimşek"/>
+      <edge id="232" source="ahmet_davutoğlu" target="alpay_özalan"/>
+      <edge id="233" source="ahmet_davutoğlu" target="i̇smet_yılmaz"/>
+      <edge id="234" source="ahmet_davutoğlu" target="mevlüt_çavuşoğlu"/>
+      <edge id="235" source="ahmet_davutoğlu" target="efkan_âlâ"/>
+      <edge id="236" source="ahmet_davutoğlu" target="tuğrul_türkeş"/>
+      <edge id="237" source="ahmet_davutoğlu" target="nureddin_nebati"/>
+      <edge id="238" source="ahmet_davutoğlu" target="murat_kurum"/>
+      <edge id="239" source="ahmet_davutoğlu" target="lütfi_elvan"/>
+      <edge id="240" source="ahmet_davutoğlu" target="faruk_çelik"/>
+      <edge id="241" source="ahmet_davutoğlu" target="veysel_eroğlu"/>
+      <edge id="242" source="ahmet_davutoğlu" target="bekir_bozdağ"/>
+      <edge id="243" source="ahmet_davutoğlu" target="recep_akdağ"/>
+      <edge id="244" source="ahmet_davutoğlu" target="markar_esayan"/>
+      <edge id="245" source="ahmet_davutoğlu" target="vedat_bilgin"/>
+      <edge id="246" source="ahmet_davutoğlu" target="cevdet_yılmaz"/>
+      <edge id="247" source="ahmet_davutoğlu" target="ömer_çelik"/>
+      <edge id="248" source="ahmet_davutoğlu" target="mahmut_özer"/>
+      <edge id="249" source="ahmet_davutoğlu" target="abdulhamit_gül"/>
+      <edge id="250" source="ahmet_davutoğlu" target="mehmet_özhaseki"/>
+      <edge id="251" source="ahmet_davutoğlu" target="tolga_ağar"/>
+      <edge id="252" source="ahmet_davutoğlu" target="akif_çağatay_kılıç"/>
+      <edge id="253" source="ahmet_davutoğlu" target="abdüllatif_şener"/>
+      <edge id="254" source="ahmet_davutoğlu" target="fatma_betül_sayan_kaya"/>
+      <edge id="255" source="ahmet_davutoğlu" target="volkan_bozkır"/>
+      <edge id="256" source="ahmet_davutoğlu" target="ahmet_eşref_fakıbaba"/>
+      <edge id="257" source="ahmet_davutoğlu" target="derya_yanık"/>
+      <edge id="258" source="ahmet_davutoğlu" target="fikri_işık"/>
+      <edge id="259" source="ahmet_davutoğlu" target="nurettin_canikli"/>
+      <edge id="260" source="ahmet_davutoğlu" target="nabi_avcı"/>
+      <edge id="261" source="ahmet_davutoğlu" target="selami_altınok"/>
+      <edge id="262" source="ahmet_davutoğlu" target="serkan_bayram"/>
+      <edge id="263" source="ahmet_davutoğlu" target="mustafa_savaş"/>
+      <edge id="264" source="ahmet_davutoğlu" target="fahrettin_koca"/>
+      <edge id="265" source="deniz_baykal" target="özgür_özel"/>
+      <edge id="266" source="deniz_baykal" target="mansur_yavaş"/>
+      <edge id="267" source="deniz_baykal" target="tuncay_özkan"/>
+      <edge id="268" source="deniz_baykal" target="mustafa_sarıgül" weight="2.0"/>
+      <edge id="269" source="deniz_baykal" target="gürsel_tekin" weight="2.0"/>
+      <edge id="270" source="deniz_baykal" target="enis_berberoğlu"/>
+      <edge id="271" source="deniz_baykal" target="deniz_yavuzyılmaz"/>
+      <edge id="272" source="deniz_baykal" target="tanju_özcan"/>
+      <edge id="273" source="deniz_baykal" target="i̇lhan_kesici"/>
+      <edge id="274" source="deniz_baykal" target="mehmet_bekaroğlu"/>
+      <edge id="275" source="deniz_baykal" target="gökçe_gökçen"/>
+      <edge id="276" source="deniz_baykal" target="ahmet_akın"/>
+      <edge id="277" source="deniz_baykal" target="cihangir_i̇slam"/>
+      <edge id="278" source="deniz_baykal" target="abdüllatif_şener"/>
+      <edge id="279" source="deniz_baykal" target="öztürk_yılmaz"/>
+      <edge id="280" source="deniz_baykal" target="yüksel_taşkın"/>
+      <edge id="281" source="deniz_baykal" target="akif_hamzaçebi"/>
+      <edge id="282" source="deniz_baykal" target="haluk_koç"/>
+      <edge id="283" source="deniz_baykal" target="harun_özgür_yıldızlı"/>
+      <edge id="284" source="deniz_baykal" target="atila_sertel"/>
+      <edge id="285" source="deniz_baykal" target="bülent_kuşoğlu"/>
+      <edge id="286" source="deniz_baykal" target="selin_sayek_böke"/>
+      <edge id="287" source="özgür_özel" target="mansur_yavaş"/>
+      <edge id="288" source="özgür_özel" target="tuncay_özkan"/>
+      <edge id="289" source="özgür_özel" target="mustafa_sarıgül"/>
+      <edge id="290" source="özgür_özel" target="gürsel_tekin"/>
+      <edge id="291" source="özgür_özel" target="enis_berberoğlu"/>
+      <edge id="292" source="özgür_özel" target="deniz_yavuzyılmaz"/>
+      <edge id="293" source="özgür_özel" target="tanju_özcan"/>
+      <edge id="294" source="özgür_özel" target="i̇lhan_kesici"/>
+      <edge id="295" source="özgür_özel" target="mehmet_bekaroğlu"/>
+      <edge id="296" source="özgür_özel" target="gökçe_gökçen"/>
+      <edge id="297" source="özgür_özel" target="ahmet_akın"/>
+      <edge id="298" source="özgür_özel" target="cihangir_i̇slam"/>
+      <edge id="299" source="özgür_özel" target="abdüllatif_şener"/>
+      <edge id="300" source="özgür_özel" target="öztürk_yılmaz"/>
+      <edge id="301" source="özgür_özel" target="yüksel_taşkın"/>
+      <edge id="302" source="özgür_özel" target="akif_hamzaçebi"/>
+      <edge id="303" source="özgür_özel" target="haluk_koç"/>
+      <edge id="304" source="özgür_özel" target="harun_özgür_yıldızlı"/>
+      <edge id="305" source="özgür_özel" target="atila_sertel"/>
+      <edge id="306" source="özgür_özel" target="bülent_kuşoğlu"/>
+      <edge id="307" source="özgür_özel" target="selin_sayek_böke"/>
+      <edge id="308" source="süleyman_soylu" target="numan_kurtulmuş"/>
+      <edge id="309" source="süleyman_soylu" target="berat_albayrak"/>
+      <edge id="310" source="süleyman_soylu" target="mehmet_şimşek"/>
+      <edge id="311" source="süleyman_soylu" target="alpay_özalan"/>
+      <edge id="312" source="süleyman_soylu" target="i̇smet_yılmaz"/>
+      <edge id="313" source="süleyman_soylu" target="mevlüt_çavuşoğlu"/>
+      <edge id="314" source="süleyman_soylu" target="efkan_âlâ"/>
+      <edge id="315" source="süleyman_soylu" target="tuğrul_türkeş"/>
+      <edge id="316" source="süleyman_soylu" target="nureddin_nebati"/>
+      <edge id="317" source="süleyman_soylu" target="murat_kurum"/>
+      <edge id="318" source="süleyman_soylu" target="lütfi_elvan"/>
+      <edge id="319" source="süleyman_soylu" target="faruk_çelik"/>
+      <edge id="320" source="süleyman_soylu" target="veysel_eroğlu"/>
+      <edge id="321" source="süleyman_soylu" target="bekir_bozdağ"/>
+      <edge id="322" source="süleyman_soylu" target="recep_akdağ"/>
+      <edge id="323" source="süleyman_soylu" target="markar_esayan"/>
+      <edge id="324" source="süleyman_soylu" target="vedat_bilgin"/>
+      <edge id="325" source="süleyman_soylu" target="cevdet_yılmaz"/>
+      <edge id="326" source="süleyman_soylu" target="ömer_çelik"/>
+      <edge id="327" source="süleyman_soylu" target="mahmut_özer"/>
+      <edge id="328" source="süleyman_soylu" target="abdulhamit_gül"/>
+      <edge id="329" source="süleyman_soylu" target="mehmet_özhaseki"/>
+      <edge id="330" source="süleyman_soylu" target="tolga_ağar"/>
+      <edge id="331" source="süleyman_soylu" target="akif_çağatay_kılıç"/>
+      <edge id="332" source="süleyman_soylu" target="abdüllatif_şener"/>
+      <edge id="333" source="süleyman_soylu" target="fatma_betül_sayan_kaya"/>
+      <edge id="334" source="süleyman_soylu" target="volkan_bozkır"/>
+      <edge id="335" source="süleyman_soylu" target="ahmet_eşref_fakıbaba"/>
+      <edge id="336" source="süleyman_soylu" target="derya_yanık"/>
+      <edge id="337" source="süleyman_soylu" target="fikri_işık"/>
+      <edge id="338" source="süleyman_soylu" target="nurettin_canikli"/>
+      <edge id="339" source="süleyman_soylu" target="nabi_avcı"/>
+      <edge id="340" source="süleyman_soylu" target="selami_altınok"/>
+      <edge id="341" source="süleyman_soylu" target="serkan_bayram"/>
+      <edge id="342" source="süleyman_soylu" target="mustafa_savaş"/>
+      <edge id="343" source="süleyman_soylu" target="fahrettin_koca"/>
+      <edge id="344" source="ümit_özdağ" target="saffet_sancaklı"/>
+      <edge id="345" source="ümit_özdağ" target="ünal_karaman"/>
+      <edge id="346" source="ümit_özdağ" target="koray_aydın" weight="2.0"/>
+      <edge id="347" source="ümit_özdağ" target="tuğrul_türkeş"/>
+      <edge id="348" source="ümit_özdağ" target="cemal_enginyurt"/>
+      <edge id="349" source="ümit_özdağ" target="ahmet_eşref_fakıbaba"/>
+      <edge id="350" source="ümit_özdağ" target="olcay_kılavuz"/>
+      <edge id="351" source="ümit_özdağ" target="lütfü_türkkan" weight="2.0"/>
+      <edge id="352" source="saffet_sancaklı" target="koray_aydın"/>
+      <edge id="353" source="saffet_sancaklı" target="tuğrul_türkeş"/>
+      <edge id="354" source="saffet_sancaklı" target="cemal_enginyurt"/>
+      <edge id="355" source="saffet_sancaklı" target="olcay_kılavuz"/>
+      <edge id="356" source="saffet_sancaklı" target="lütfü_türkkan"/>
+      <edge id="357" source="barış_atay" target="ahmet_şık"/>
+      <edge id="358" source="barış_atay" target="erkan_baş"/>
+      <edge id="359" source="numan_kurtulmuş" target="berat_albayrak"/>
+      <edge id="360" source="numan_kurtulmuş" target="mehmet_şimşek"/>
+      <edge id="361" source="numan_kurtulmuş" target="alpay_özalan"/>
+      <edge id="362" source="numan_kurtulmuş" target="i̇smet_yılmaz"/>
+      <edge id="363" source="numan_kurtulmuş" target="mevlüt_çavuşoğlu"/>
+      <edge id="364" source="numan_kurtulmuş" target="efkan_âlâ"/>
+      <edge id="365" source="numan_kurtulmuş" target="tuğrul_türkeş"/>
+      <edge id="366" source="numan_kurtulmuş" target="nureddin_nebati"/>
+      <edge id="367" source="numan_kurtulmuş" target="murat_kurum"/>
+      <edge id="368" source="numan_kurtulmuş" target="lütfi_elvan"/>
+      <edge id="369" source="numan_kurtulmuş" target="faruk_çelik"/>
+      <edge id="370" source="numan_kurtulmuş" target="veysel_eroğlu"/>
+      <edge id="371" source="numan_kurtulmuş" target="bekir_bozdağ"/>
+      <edge id="372" source="numan_kurtulmuş" target="recep_akdağ"/>
+      <edge id="373" source="numan_kurtulmuş" target="markar_esayan"/>
+      <edge id="374" source="numan_kurtulmuş" target="vedat_bilgin"/>
+      <edge id="375" source="numan_kurtulmuş" target="cevdet_yılmaz"/>
+      <edge id="376" source="numan_kurtulmuş" target="ömer_çelik"/>
+      <edge id="377" source="numan_kurtulmuş" target="mahmut_özer"/>
+      <edge id="378" source="numan_kurtulmuş" target="abdulhamit_gül"/>
+      <edge id="379" source="numan_kurtulmuş" target="mehmet_özhaseki"/>
+      <edge id="380" source="numan_kurtulmuş" target="tolga_ağar"/>
+      <edge id="381" source="numan_kurtulmuş" target="akif_çağatay_kılıç"/>
+      <edge id="382" source="numan_kurtulmuş" target="abdüllatif_şener"/>
+      <edge id="383" source="numan_kurtulmuş" target="fatma_betül_sayan_kaya"/>
+      <edge id="384" source="numan_kurtulmuş" target="volkan_bozkır"/>
+      <edge id="385" source="numan_kurtulmuş" target="ahmet_eşref_fakıbaba"/>
+      <edge id="386" source="numan_kurtulmuş" target="derya_yanık"/>
+      <edge id="387" source="numan_kurtulmuş" target="fikri_işık"/>
+      <edge id="388" source="numan_kurtulmuş" target="nurettin_canikli"/>
+      <edge id="389" source="numan_kurtulmuş" target="nabi_avcı"/>
+      <edge id="390" source="numan_kurtulmuş" target="selami_altınok"/>
+      <edge id="391" source="numan_kurtulmuş" target="serkan_bayram"/>
+      <edge id="392" source="numan_kurtulmuş" target="mustafa_savaş"/>
+      <edge id="393" source="numan_kurtulmuş" target="fahrettin_koca"/>
+      <edge id="394" source="berat_albayrak" target="mehmet_şimşek"/>
+      <edge id="395" source="berat_albayrak" target="alpay_özalan"/>
+      <edge id="396" source="berat_albayrak" target="i̇smet_yılmaz"/>
+      <edge id="397" source="berat_albayrak" target="mevlüt_çavuşoğlu"/>
+      <edge id="398" source="berat_albayrak" target="efkan_âlâ"/>
+      <edge id="399" source="berat_albayrak" target="tuğrul_türkeş"/>
+      <edge id="400" source="berat_albayrak" target="nureddin_nebati"/>
+      <edge id="401" source="berat_albayrak" target="murat_kurum"/>
+      <edge id="402" source="berat_albayrak" target="lütfi_elvan"/>
+      <edge id="403" source="berat_albayrak" target="faruk_çelik"/>
+      <edge id="404" source="berat_albayrak" target="veysel_eroğlu"/>
+      <edge id="405" source="berat_albayrak" target="bekir_bozdağ"/>
+      <edge id="406" source="berat_albayrak" target="recep_akdağ"/>
+      <edge id="407" source="berat_albayrak" target="markar_esayan"/>
+      <edge id="408" source="berat_albayrak" target="vedat_bilgin"/>
+      <edge id="409" source="berat_albayrak" target="cevdet_yılmaz"/>
+      <edge id="410" source="berat_albayrak" target="ömer_çelik"/>
+      <edge id="411" source="berat_albayrak" target="mahmut_özer"/>
+      <edge id="412" source="berat_albayrak" target="abdulhamit_gül"/>
+      <edge id="413" source="berat_albayrak" target="mehmet_özhaseki"/>
+      <edge id="414" source="berat_albayrak" target="tolga_ağar"/>
+      <edge id="415" source="berat_albayrak" target="akif_çağatay_kılıç"/>
+      <edge id="416" source="berat_albayrak" target="abdüllatif_şener"/>
+      <edge id="417" source="berat_albayrak" target="fatma_betül_sayan_kaya"/>
+      <edge id="418" source="berat_albayrak" target="volkan_bozkır"/>
+      <edge id="419" source="berat_albayrak" target="ahmet_eşref_fakıbaba"/>
+      <edge id="420" source="berat_albayrak" target="derya_yanık"/>
+      <edge id="421" source="berat_albayrak" target="fikri_işık"/>
+      <edge id="422" source="berat_albayrak" target="nurettin_canikli"/>
+      <edge id="423" source="berat_albayrak" target="nabi_avcı"/>
+      <edge id="424" source="berat_albayrak" target="selami_altınok"/>
+      <edge id="425" source="berat_albayrak" target="serkan_bayram"/>
+      <edge id="426" source="berat_albayrak" target="mustafa_savaş"/>
+      <edge id="427" source="berat_albayrak" target="fahrettin_koca"/>
+      <edge id="428" source="mehmet_şimşek" target="alpay_özalan"/>
+      <edge id="429" source="mehmet_şimşek" target="i̇smet_yılmaz"/>
+      <edge id="430" source="mehmet_şimşek" target="mevlüt_çavuşoğlu"/>
+      <edge id="431" source="mehmet_şimşek" target="efkan_âlâ"/>
+      <edge id="432" source="mehmet_şimşek" target="tuğrul_türkeş"/>
+      <edge id="433" source="mehmet_şimşek" target="nureddin_nebati"/>
+      <edge id="434" source="mehmet_şimşek" target="murat_kurum"/>
+      <edge id="435" source="mehmet_şimşek" target="lütfi_elvan"/>
+      <edge id="436" source="mehmet_şimşek" target="faruk_çelik"/>
+      <edge id="437" source="mehmet_şimşek" target="veysel_eroğlu"/>
+      <edge id="438" source="mehmet_şimşek" target="bekir_bozdağ"/>
+      <edge id="439" source="mehmet_şimşek" target="recep_akdağ"/>
+      <edge id="440" source="mehmet_şimşek" target="markar_esayan"/>
+      <edge id="441" source="mehmet_şimşek" target="vedat_bilgin"/>
+      <edge id="442" source="mehmet_şimşek" target="cevdet_yılmaz"/>
+      <edge id="443" source="mehmet_şimşek" target="ömer_çelik"/>
+      <edge id="444" source="mehmet_şimşek" target="mahmut_özer"/>
+      <edge id="445" source="mehmet_şimşek" target="abdulhamit_gül"/>
+      <edge id="446" source="mehmet_şimşek" target="mehmet_özhaseki"/>
+      <edge id="447" source="mehmet_şimşek" target="tolga_ağar"/>
+      <edge id="448" source="mehmet_şimşek" target="akif_çağatay_kılıç"/>
+      <edge id="449" source="mehmet_şimşek" target="abdüllatif_şener"/>
+      <edge id="450" source="mehmet_şimşek" target="fatma_betül_sayan_kaya"/>
+      <edge id="451" source="mehmet_şimşek" target="volkan_bozkır"/>
+      <edge id="452" source="mehmet_şimşek" target="ahmet_eşref_fakıbaba"/>
+      <edge id="453" source="mehmet_şimşek" target="derya_yanık"/>
+      <edge id="454" source="mehmet_şimşek" target="fikri_işık"/>
+      <edge id="455" source="mehmet_şimşek" target="nurettin_canikli"/>
+      <edge id="456" source="mehmet_şimşek" target="nabi_avcı"/>
+      <edge id="457" source="mehmet_şimşek" target="selami_altınok"/>
+      <edge id="458" source="mehmet_şimşek" target="serkan_bayram"/>
+      <edge id="459" source="mehmet_şimşek" target="mustafa_savaş"/>
+      <edge id="460" source="mehmet_şimşek" target="fahrettin_koca"/>
+      <edge id="461" source="ahmet_şık" target="garo_paylan"/>
+      <edge id="462" source="ahmet_şık" target="leyla_güven"/>
+      <edge id="463" source="ahmet_şık" target="feleknas_uca"/>
+      <edge id="464" source="ahmet_şık" target="sırrı_süreyya_önder"/>
+      <edge id="465" source="ahmet_şık" target="adnan_selçuk_mızraklı"/>
+      <edge id="466" source="ahmet_şık" target="erkan_baş"/>
+      <edge id="467" source="ahmet_şık" target="mahmut_toğrul"/>
+      <edge id="468" source="ahmet_şık" target="tanju_özcan"/>
+      <edge id="469" source="ahmet_şık" target="tülay_hatimoğulları_oruç"/>
+      <edge id="470" source="ahmet_şık" target="pervin_buldan"/>
+      <edge id="471" source="ahmet_şık" target="semra_güzel"/>
+      <edge id="472" source="ahmet_şık" target="ayşe_acar_başaran"/>
+      <edge id="473" source="ahmet_şık" target="hişyar_özsoy"/>
+      <edge id="474" source="ahmet_şık" target="mehmet_nuri_ersoy"/>
+      <edge id="475" source="mansur_yavaş" target="tuncay_özkan"/>
+      <edge id="476" source="mansur_yavaş" target="mustafa_sarıgül"/>
+      <edge id="477" source="mansur_yavaş" target="gürsel_tekin"/>
+      <edge id="478" source="mansur_yavaş" target="enis_berberoğlu"/>
+      <edge id="479" source="mansur_yavaş" target="deniz_yavuzyılmaz"/>
+      <edge id="480" source="mansur_yavaş" target="tanju_özcan"/>
+      <edge id="481" source="mansur_yavaş" target="i̇lhan_kesici"/>
+      <edge id="482" source="mansur_yavaş" target="mehmet_bekaroğlu"/>
+      <edge id="483" source="mansur_yavaş" target="gökçe_gökçen"/>
+      <edge id="484" source="mansur_yavaş" target="ahmet_akın"/>
+      <edge id="485" source="mansur_yavaş" target="cihangir_i̇slam"/>
+      <edge id="486" source="mansur_yavaş" target="abdüllatif_şener"/>
+      <edge id="487" source="mansur_yavaş" target="öztürk_yılmaz"/>
+      <edge id="488" source="mansur_yavaş" target="yüksel_taşkın"/>
+      <edge id="489" source="mansur_yavaş" target="akif_hamzaçebi"/>
+      <edge id="490" source="mansur_yavaş" target="haluk_koç"/>
+      <edge id="491" source="mansur_yavaş" target="harun_özgür_yıldızlı"/>
+      <edge id="492" source="mansur_yavaş" target="atila_sertel"/>
+      <edge id="493" source="mansur_yavaş" target="bülent_kuşoğlu"/>
+      <edge id="494" source="mansur_yavaş" target="selin_sayek_böke"/>
+      <edge id="495" source="garo_paylan" target="leyla_güven"/>
+      <edge id="496" source="garo_paylan" target="feleknas_uca"/>
+      <edge id="497" source="garo_paylan" target="sırrı_süreyya_önder"/>
+      <edge id="498" source="garo_paylan" target="adnan_selçuk_mızraklı"/>
+      <edge id="499" source="garo_paylan" target="mahmut_toğrul"/>
+      <edge id="500" source="garo_paylan" target="tülay_hatimoğulları_oruç"/>
+      <edge id="501" source="garo_paylan" target="pervin_buldan"/>
+      <edge id="502" source="garo_paylan" target="semra_güzel"/>
+      <edge id="503" source="garo_paylan" target="ayşe_acar_başaran"/>
+      <edge id="504" source="garo_paylan" target="hişyar_özsoy"/>
+      <edge id="505" source="leyla_güven" target="feleknas_uca"/>
+      <edge id="506" source="leyla_güven" target="sırrı_süreyya_önder"/>
+      <edge id="507" source="leyla_güven" target="adnan_selçuk_mızraklı"/>
+      <edge id="508" source="leyla_güven" target="mahmut_toğrul"/>
+      <edge id="509" source="leyla_güven" target="tülay_hatimoğulları_oruç"/>
+      <edge id="510" source="leyla_güven" target="pervin_buldan" weight="2.0"/>
+      <edge id="511" source="leyla_güven" target="semra_güzel"/>
+      <edge id="512" source="leyla_güven" target="ayşe_acar_başaran"/>
+      <edge id="513" source="leyla_güven" target="hişyar_özsoy"/>
+      <edge id="514" source="ünal_karaman" target="koray_aydın"/>
+      <edge id="515" source="ünal_karaman" target="ahmet_eşref_fakıbaba"/>
+      <edge id="516" source="ünal_karaman" target="lütfü_türkkan"/>
+      <edge id="517" source="alpay_özalan" target="i̇smet_yılmaz"/>
+      <edge id="518" source="alpay_özalan" target="mevlüt_çavuşoğlu"/>
+      <edge id="519" source="alpay_özalan" target="efkan_âlâ"/>
+      <edge id="520" source="alpay_özalan" target="tuğrul_türkeş"/>
+      <edge id="521" source="alpay_özalan" target="nureddin_nebati"/>
+      <edge id="522" source="alpay_özalan" target="murat_kurum"/>
+      <edge id="523" source="alpay_özalan" target="lütfi_elvan"/>
+      <edge id="524" source="alpay_özalan" target="faruk_çelik"/>
+      <edge id="525" source="alpay_özalan" target="veysel_eroğlu"/>
+      <edge id="526" source="alpay_özalan" target="bekir_bozdağ"/>
+      <edge id="527" source="alpay_özalan" target="recep_akdağ"/>
+      <edge id="528" source="alpay_özalan" target="markar_esayan"/>
+      <edge id="529" source="alpay_özalan" target="vedat_bilgin"/>
+      <edge id="530" source="alpay_özalan" target="cevdet_yılmaz"/>
+      <edge id="531" source="alpay_özalan" target="ömer_çelik"/>
+      <edge id="532" source="alpay_özalan" target="mahmut_özer"/>
+      <edge id="533" source="alpay_özalan" target="abdulhamit_gül"/>
+      <edge id="534" source="alpay_özalan" target="mehmet_özhaseki"/>
+      <edge id="535" source="alpay_özalan" target="tolga_ağar"/>
+      <edge id="536" source="alpay_özalan" target="akif_çağatay_kılıç"/>
+      <edge id="537" source="alpay_özalan" target="abdüllatif_şener"/>
+      <edge id="538" source="alpay_özalan" target="fatma_betül_sayan_kaya"/>
+      <edge id="539" source="alpay_özalan" target="volkan_bozkır"/>
+      <edge id="540" source="alpay_özalan" target="ahmet_eşref_fakıbaba"/>
+      <edge id="541" source="alpay_özalan" target="derya_yanık"/>
+      <edge id="542" source="alpay_özalan" target="fikri_işık"/>
+      <edge id="543" source="alpay_özalan" target="nurettin_canikli"/>
+      <edge id="544" source="alpay_özalan" target="nabi_avcı"/>
+      <edge id="545" source="alpay_özalan" target="selami_altınok"/>
+      <edge id="546" source="alpay_özalan" target="serkan_bayram"/>
+      <edge id="547" source="alpay_özalan" target="mustafa_savaş"/>
+      <edge id="548" source="alpay_özalan" target="fahrettin_koca"/>
+      <edge id="549" source="i̇smet_yılmaz" target="mevlüt_çavuşoğlu"/>
+      <edge id="550" source="i̇smet_yılmaz" target="efkan_âlâ"/>
+      <edge id="551" source="i̇smet_yılmaz" target="tuğrul_türkeş"/>
+      <edge id="552" source="i̇smet_yılmaz" target="nureddin_nebati"/>
+      <edge id="553" source="i̇smet_yılmaz" target="murat_kurum"/>
+      <edge id="554" source="i̇smet_yılmaz" target="lütfi_elvan"/>
+      <edge id="555" source="i̇smet_yılmaz" target="faruk_çelik"/>
+      <edge id="556" source="i̇smet_yılmaz" target="veysel_eroğlu"/>
+      <edge id="557" source="i̇smet_yılmaz" target="bekir_bozdağ"/>
+      <edge id="558" source="i̇smet_yılmaz" target="recep_akdağ"/>
+      <edge id="559" source="i̇smet_yılmaz" target="markar_esayan"/>
+      <edge id="560" source="i̇smet_yılmaz" target="vedat_bilgin"/>
+      <edge id="561" source="i̇smet_yılmaz" target="cevdet_yılmaz"/>
+      <edge id="562" source="i̇smet_yılmaz" target="ömer_çelik"/>
+      <edge id="563" source="i̇smet_yılmaz" target="mahmut_özer"/>
+      <edge id="564" source="i̇smet_yılmaz" target="abdulhamit_gül"/>
+      <edge id="565" source="i̇smet_yılmaz" target="mehmet_özhaseki"/>
+      <edge id="566" source="i̇smet_yılmaz" target="tolga_ağar"/>
+      <edge id="567" source="i̇smet_yılmaz" target="akif_çağatay_kılıç"/>
+      <edge id="568" source="i̇smet_yılmaz" target="abdüllatif_şener"/>
+      <edge id="569" source="i̇smet_yılmaz" target="fatma_betül_sayan_kaya"/>
+      <edge id="570" source="i̇smet_yılmaz" target="volkan_bozkır"/>
+      <edge id="571" source="i̇smet_yılmaz" target="ahmet_eşref_fakıbaba"/>
+      <edge id="572" source="i̇smet_yılmaz" target="derya_yanık"/>
+      <edge id="573" source="i̇smet_yılmaz" target="fikri_işık"/>
+      <edge id="574" source="i̇smet_yılmaz" target="nurettin_canikli"/>
+      <edge id="575" source="i̇smet_yılmaz" target="nabi_avcı"/>
+      <edge id="576" source="i̇smet_yılmaz" target="selami_altınok"/>
+      <edge id="577" source="i̇smet_yılmaz" target="serkan_bayram"/>
+      <edge id="578" source="i̇smet_yılmaz" target="mustafa_savaş"/>
+      <edge id="579" source="i̇smet_yılmaz" target="fahrettin_koca"/>
+      <edge id="580" source="koray_aydın" target="tuğrul_türkeş"/>
+      <edge id="581" source="koray_aydın" target="cemal_enginyurt" weight="2.0"/>
+      <edge id="582" source="koray_aydın" target="ahmet_eşref_fakıbaba"/>
+      <edge id="583" source="koray_aydın" target="olcay_kılavuz"/>
+      <edge id="584" source="koray_aydın" target="lütfü_türkkan" weight="2.0"/>
+      <edge id="585" source="mevlüt_çavuşoğlu" target="efkan_âlâ"/>
+      <edge id="586" source="mevlüt_çavuşoğlu" target="tuğrul_türkeş"/>
+      <edge id="587" source="mevlüt_çavuşoğlu" target="nureddin_nebati"/>
+      <edge id="588" source="mevlüt_çavuşoğlu" target="murat_kurum"/>
+      <edge id="589" source="mevlüt_çavuşoğlu" target="lütfi_elvan"/>
+      <edge id="590" source="mevlüt_çavuşoğlu" target="faruk_çelik"/>
+      <edge id="591" source="mevlüt_çavuşoğlu" target="veysel_eroğlu"/>
+      <edge id="592" source="mevlüt_çavuşoğlu" target="bekir_bozdağ"/>
+      <edge id="593" source="mevlüt_çavuşoğlu" target="recep_akdağ"/>
+      <edge id="594" source="mevlüt_çavuşoğlu" target="markar_esayan"/>
+      <edge id="595" source="mevlüt_çavuşoğlu" target="vedat_bilgin"/>
+      <edge id="596" source="mevlüt_çavuşoğlu" target="cevdet_yılmaz"/>
+      <edge id="597" source="mevlüt_çavuşoğlu" target="ömer_çelik"/>
+      <edge id="598" source="mevlüt_çavuşoğlu" target="mahmut_özer"/>
+      <edge id="599" source="mevlüt_çavuşoğlu" target="abdulhamit_gül"/>
+      <edge id="600" source="mevlüt_çavuşoğlu" target="mehmet_özhaseki"/>
+      <edge id="601" source="mevlüt_çavuşoğlu" target="tolga_ağar"/>
+      <edge id="602" source="mevlüt_çavuşoğlu" target="akif_çağatay_kılıç"/>
+      <edge id="603" source="mevlüt_çavuşoğlu" target="abdüllatif_şener"/>
+      <edge id="604" source="mevlüt_çavuşoğlu" target="fatma_betül_sayan_kaya"/>
+      <edge id="605" source="mevlüt_çavuşoğlu" target="volkan_bozkır"/>
+      <edge id="606" source="mevlüt_çavuşoğlu" target="ahmet_eşref_fakıbaba"/>
+      <edge id="607" source="mevlüt_çavuşoğlu" target="derya_yanık"/>
+      <edge id="608" source="mevlüt_çavuşoğlu" target="fikri_işık"/>
+      <edge id="609" source="mevlüt_çavuşoğlu" target="nurettin_canikli"/>
+      <edge id="610" source="mevlüt_çavuşoğlu" target="nabi_avcı"/>
+      <edge id="611" source="mevlüt_çavuşoğlu" target="selami_altınok"/>
+      <edge id="612" source="mevlüt_çavuşoğlu" target="serkan_bayram"/>
+      <edge id="613" source="mevlüt_çavuşoğlu" target="mustafa_savaş"/>
+      <edge id="614" source="mevlüt_çavuşoğlu" target="fahrettin_koca"/>
+      <edge id="615" source="tuncay_özkan" target="mustafa_sarıgül"/>
+      <edge id="616" source="tuncay_özkan" target="gürsel_tekin"/>
+      <edge id="617" source="tuncay_özkan" target="enis_berberoğlu"/>
+      <edge id="618" source="tuncay_özkan" target="deniz_yavuzyılmaz"/>
+      <edge id="619" source="tuncay_özkan" target="tanju_özcan"/>
+      <edge id="620" source="tuncay_özkan" target="i̇lhan_kesici"/>
+      <edge id="621" source="tuncay_özkan" target="mehmet_bekaroğlu"/>
+      <edge id="622" source="tuncay_özkan" target="gökçe_gökçen"/>
+      <edge id="623" source="tuncay_özkan" target="ahmet_akın"/>
+      <edge id="624" source="tuncay_özkan" target="cihangir_i̇slam"/>
+      <edge id="625" source="tuncay_özkan" target="abdüllatif_şener"/>
+      <edge id="626" source="tuncay_özkan" target="öztürk_yılmaz"/>
+      <edge id="627" source="tuncay_özkan" target="yüksel_taşkın"/>
+      <edge id="628" source="tuncay_özkan" target="akif_hamzaçebi"/>
+      <edge id="629" source="tuncay_özkan" target="haluk_koç"/>
+      <edge id="630" source="tuncay_özkan" target="harun_özgür_yıldızlı"/>
+      <edge id="631" source="tuncay_özkan" target="atila_sertel"/>
+      <edge id="632" source="tuncay_özkan" target="bülent_kuşoğlu"/>
+      <edge id="633" source="tuncay_özkan" target="selin_sayek_böke"/>
+      <edge id="634" source="efkan_âlâ" target="tuğrul_türkeş"/>
+      <edge id="635" source="efkan_âlâ" target="nureddin_nebati"/>
+      <edge id="636" source="efkan_âlâ" target="murat_kurum"/>
+      <edge id="637" source="efkan_âlâ" target="lütfi_elvan"/>
+      <edge id="638" source="efkan_âlâ" target="faruk_çelik"/>
+      <edge id="639" source="efkan_âlâ" target="veysel_eroğlu"/>
+      <edge id="640" source="efkan_âlâ" target="bekir_bozdağ"/>
+      <edge id="641" source="efkan_âlâ" target="recep_akdağ"/>
+      <edge id="642" source="efkan_âlâ" target="markar_esayan"/>
+      <edge id="643" source="efkan_âlâ" target="vedat_bilgin"/>
+      <edge id="644" source="efkan_âlâ" target="cevdet_yılmaz"/>
+      <edge id="645" source="efkan_âlâ" target="ömer_çelik"/>
+      <edge id="646" source="efkan_âlâ" target="mahmut_özer"/>
+      <edge id="647" source="efkan_âlâ" target="abdulhamit_gül"/>
+      <edge id="648" source="efkan_âlâ" target="mehmet_özhaseki"/>
+      <edge id="649" source="efkan_âlâ" target="tolga_ağar"/>
+      <edge id="650" source="efkan_âlâ" target="akif_çağatay_kılıç"/>
+      <edge id="651" source="efkan_âlâ" target="abdüllatif_şener"/>
+      <edge id="652" source="efkan_âlâ" target="fatma_betül_sayan_kaya"/>
+      <edge id="653" source="efkan_âlâ" target="volkan_bozkır"/>
+      <edge id="654" source="efkan_âlâ" target="ahmet_eşref_fakıbaba"/>
+      <edge id="655" source="efkan_âlâ" target="derya_yanık"/>
+      <edge id="656" source="efkan_âlâ" target="fikri_işık"/>
+      <edge id="657" source="efkan_âlâ" target="nurettin_canikli"/>
+      <edge id="658" source="efkan_âlâ" target="nabi_avcı"/>
+      <edge id="659" source="efkan_âlâ" target="selami_altınok"/>
+      <edge id="660" source="efkan_âlâ" target="serkan_bayram"/>
+      <edge id="661" source="efkan_âlâ" target="mustafa_savaş"/>
+      <edge id="662" source="efkan_âlâ" target="fahrettin_koca"/>
+      <edge id="663" source="tuğrul_türkeş" target="nureddin_nebati"/>
+      <edge id="664" source="tuğrul_türkeş" target="murat_kurum"/>
+      <edge id="665" source="tuğrul_türkeş" target="lütfi_elvan"/>
+      <edge id="666" source="tuğrul_türkeş" target="faruk_çelik"/>
+      <edge id="667" source="tuğrul_türkeş" target="veysel_eroğlu"/>
+      <edge id="668" source="tuğrul_türkeş" target="bekir_bozdağ"/>
+      <edge id="669" source="tuğrul_türkeş" target="recep_akdağ"/>
+      <edge id="670" source="tuğrul_türkeş" target="markar_esayan"/>
+      <edge id="671" source="tuğrul_türkeş" target="vedat_bilgin"/>
+      <edge id="672" source="tuğrul_türkeş" target="cevdet_yılmaz"/>
+      <edge id="673" source="tuğrul_türkeş" target="ömer_çelik"/>
+      <edge id="674" source="tuğrul_türkeş" target="mahmut_özer"/>
+      <edge id="675" source="tuğrul_türkeş" target="abdulhamit_gül"/>
+      <edge id="676" source="tuğrul_türkeş" target="mehmet_özhaseki"/>
+      <edge id="677" source="tuğrul_türkeş" target="tolga_ağar"/>
+      <edge id="678" source="tuğrul_türkeş" target="akif_çağatay_kılıç"/>
+      <edge id="679" source="tuğrul_türkeş" target="abdüllatif_şener"/>
+      <edge id="680" source="tuğrul_türkeş" target="fatma_betül_sayan_kaya"/>
+      <edge id="681" source="tuğrul_türkeş" target="volkan_bozkır"/>
+      <edge id="682" source="tuğrul_türkeş" target="cemal_enginyurt"/>
+      <edge id="683" source="tuğrul_türkeş" target="ahmet_eşref_fakıbaba"/>
+      <edge id="684" source="tuğrul_türkeş" target="derya_yanık"/>
+      <edge id="685" source="tuğrul_türkeş" target="fikri_işık"/>
+      <edge id="686" source="tuğrul_türkeş" target="nurettin_canikli"/>
+      <edge id="687" source="tuğrul_türkeş" target="olcay_kılavuz"/>
+      <edge id="688" source="tuğrul_türkeş" target="nabi_avcı"/>
+      <edge id="689" source="tuğrul_türkeş" target="selami_altınok"/>
+      <edge id="690" source="tuğrul_türkeş" target="serkan_bayram"/>
+      <edge id="691" source="tuğrul_türkeş" target="mustafa_savaş"/>
+      <edge id="692" source="tuğrul_türkeş" target="lütfü_türkkan"/>
+      <edge id="693" source="tuğrul_türkeş" target="fahrettin_koca"/>
+      <edge id="694" source="nureddin_nebati" target="murat_kurum"/>
+      <edge id="695" source="nureddin_nebati" target="lütfi_elvan"/>
+      <edge id="696" source="nureddin_nebati" target="faruk_çelik"/>
+      <edge id="697" source="nureddin_nebati" target="veysel_eroğlu"/>
+      <edge id="698" source="nureddin_nebati" target="bekir_bozdağ"/>
+      <edge id="699" source="nureddin_nebati" target="recep_akdağ"/>
+      <edge id="700" source="nureddin_nebati" target="markar_esayan"/>
+      <edge id="701" source="nureddin_nebati" target="vedat_bilgin"/>
+      <edge id="702" source="nureddin_nebati" target="cevdet_yılmaz"/>
+      <edge id="703" source="nureddin_nebati" target="ömer_çelik"/>
+      <edge id="704" source="nureddin_nebati" target="mahmut_özer"/>
+      <edge id="705" source="nureddin_nebati" target="abdulhamit_gül" weight="2.0"/>
+      <edge id="706" source="nureddin_nebati" target="mehmet_özhaseki" weight="2.0"/>
+      <edge id="707" source="nureddin_nebati" target="tolga_ağar"/>
+      <edge id="708" source="nureddin_nebati" target="akif_çağatay_kılıç"/>
+      <edge id="709" source="nureddin_nebati" target="abdüllatif_şener" weight="2.0"/>
+      <edge id="710" source="nureddin_nebati" target="fatma_betül_sayan_kaya"/>
+      <edge id="711" source="nureddin_nebati" target="volkan_bozkır"/>
+      <edge id="712" source="nureddin_nebati" target="ahmet_eşref_fakıbaba"/>
+      <edge id="713" source="nureddin_nebati" target="derya_yanık"/>
+      <edge id="714" source="nureddin_nebati" target="fikri_işık"/>
+      <edge id="715" source="nureddin_nebati" target="nurettin_canikli"/>
+      <edge id="716" source="nureddin_nebati" target="nabi_avcı"/>
+      <edge id="717" source="nureddin_nebati" target="selami_altınok"/>
+      <edge id="718" source="nureddin_nebati" target="serkan_bayram"/>
+      <edge id="719" source="nureddin_nebati" target="mustafa_savaş"/>
+      <edge id="720" source="nureddin_nebati" target="fahrettin_koca"/>
+      <edge id="721" source="murat_kurum" target="lütfi_elvan"/>
+      <edge id="722" source="murat_kurum" target="faruk_çelik"/>
+      <edge id="723" source="murat_kurum" target="veysel_eroğlu"/>
+      <edge id="724" source="murat_kurum" target="bekir_bozdağ"/>
+      <edge id="725" source="murat_kurum" target="recep_akdağ"/>
+      <edge id="726" source="murat_kurum" target="markar_esayan"/>
+      <edge id="727" source="murat_kurum" target="vedat_bilgin"/>
+      <edge id="728" source="murat_kurum" target="cevdet_yılmaz"/>
+      <edge id="729" source="murat_kurum" target="ömer_çelik"/>
+      <edge id="730" source="murat_kurum" target="mahmut_özer"/>
+      <edge id="731" source="murat_kurum" target="abdulhamit_gül"/>
+      <edge id="732" source="murat_kurum" target="mehmet_özhaseki"/>
+      <edge id="733" source="murat_kurum" target="tolga_ağar"/>
+      <edge id="734" source="murat_kurum" target="akif_çağatay_kılıç"/>
+      <edge id="735" source="murat_kurum" target="abdüllatif_şener"/>
+      <edge id="736" source="murat_kurum" target="fatma_betül_sayan_kaya"/>
+      <edge id="737" source="murat_kurum" target="volkan_bozkır"/>
+      <edge id="738" source="murat_kurum" target="ahmet_eşref_fakıbaba"/>
+      <edge id="739" source="murat_kurum" target="derya_yanık"/>
+      <edge id="740" source="murat_kurum" target="fikri_işık"/>
+      <edge id="741" source="murat_kurum" target="nurettin_canikli"/>
+      <edge id="742" source="murat_kurum" target="nabi_avcı"/>
+      <edge id="743" source="murat_kurum" target="selami_altınok"/>
+      <edge id="744" source="murat_kurum" target="serkan_bayram"/>
+      <edge id="745" source="murat_kurum" target="mustafa_savaş"/>
+      <edge id="746" source="murat_kurum" target="fahrettin_koca"/>
+      <edge id="747" source="mustafa_sarıgül" target="gürsel_tekin" weight="2.0"/>
+      <edge id="748" source="mustafa_sarıgül" target="enis_berberoğlu"/>
+      <edge id="749" source="mustafa_sarıgül" target="deniz_yavuzyılmaz"/>
+      <edge id="750" source="mustafa_sarıgül" target="tanju_özcan" weight="2.0"/>
+      <edge id="751" source="mustafa_sarıgül" target="i̇lhan_kesici"/>
+      <edge id="752" source="mustafa_sarıgül" target="mehmet_bekaroğlu"/>
+      <edge id="753" source="mustafa_sarıgül" target="gökçe_gökçen"/>
+      <edge id="754" source="mustafa_sarıgül" target="ahmet_akın"/>
+      <edge id="755" source="mustafa_sarıgül" target="cihangir_i̇slam"/>
+      <edge id="756" source="mustafa_sarıgül" target="abdüllatif_şener"/>
+      <edge id="757" source="mustafa_sarıgül" target="öztürk_yılmaz"/>
+      <edge id="758" source="mustafa_sarıgül" target="yüksel_taşkın"/>
+      <edge id="759" source="mustafa_sarıgül" target="akif_hamzaçebi"/>
+      <edge id="760" source="mustafa_sarıgül" target="haluk_koç"/>
+      <edge id="761" source="mustafa_sarıgül" target="harun_özgür_yıldızlı"/>
+      <edge id="762" source="mustafa_sarıgül" target="atila_sertel"/>
+      <edge id="763" source="mustafa_sarıgül" target="bülent_kuşoğlu"/>
+      <edge id="764" source="mustafa_sarıgül" target="selin_sayek_böke"/>
+      <edge id="765" source="lütfi_elvan" target="faruk_çelik"/>
+      <edge id="766" source="lütfi_elvan" target="veysel_eroğlu"/>
+      <edge id="767" source="lütfi_elvan" target="bekir_bozdağ"/>
+      <edge id="768" source="lütfi_elvan" target="recep_akdağ"/>
+      <edge id="769" source="lütfi_elvan" target="markar_esayan"/>
+      <edge id="770" source="lütfi_elvan" target="vedat_bilgin"/>
+      <edge id="771" source="lütfi_elvan" target="cevdet_yılmaz"/>
+      <edge id="772" source="lütfi_elvan" target="ömer_çelik"/>
+      <edge id="773" source="lütfi_elvan" target="mahmut_özer"/>
+      <edge id="774" source="lütfi_elvan" target="abdulhamit_gül"/>
+      <edge id="775" source="lütfi_elvan" target="mehmet_özhaseki"/>
+      <edge id="776" source="lütfi_elvan" target="tolga_ağar"/>
+      <edge id="777" source="lütfi_elvan" target="akif_çağatay_kılıç"/>
+      <edge id="778" source="lütfi_elvan" target="abdüllatif_şener"/>
+      <edge id="779" source="lütfi_elvan" target="fatma_betül_sayan_kaya"/>
+      <edge id="780" source="lütfi_elvan" target="volkan_bozkır"/>
+      <edge id="781" source="lütfi_elvan" target="ahmet_eşref_fakıbaba"/>
+      <edge id="782" source="lütfi_elvan" target="derya_yanık"/>
+      <edge id="783" source="lütfi_elvan" target="fikri_işık"/>
+      <edge id="784" source="lütfi_elvan" target="nurettin_canikli"/>
+      <edge id="785" source="lütfi_elvan" target="nabi_avcı"/>
+      <edge id="786" source="lütfi_elvan" target="selami_altınok"/>
+      <edge id="787" source="lütfi_elvan" target="serkan_bayram"/>
+      <edge id="788" source="lütfi_elvan" target="mustafa_savaş"/>
+      <edge id="789" source="lütfi_elvan" target="fahrettin_koca"/>
+      <edge id="790" source="faruk_çelik" target="veysel_eroğlu"/>
+      <edge id="791" source="faruk_çelik" target="bekir_bozdağ" weight="2.0"/>
+      <edge id="792" source="faruk_çelik" target="recep_akdağ"/>
+      <edge id="793" source="faruk_çelik" target="markar_esayan"/>
+      <edge id="794" source="faruk_çelik" target="vedat_bilgin"/>
+      <edge id="795" source="faruk_çelik" target="cevdet_yılmaz"/>
+      <edge id="796" source="faruk_çelik" target="ömer_çelik"/>
+      <edge id="797" source="faruk_çelik" target="mahmut_özer"/>
+      <edge id="798" source="faruk_çelik" target="mehmet_bekaroğlu"/>
+      <edge id="799" source="faruk_çelik" target="abdulhamit_gül" weight="2.0"/>
+      <edge id="800" source="faruk_çelik" target="mehmet_özhaseki" weight="2.0"/>
+      <edge id="801" source="faruk_çelik" target="tolga_ağar"/>
+      <edge id="802" source="faruk_çelik" target="akif_çağatay_kılıç"/>
+      <edge id="803" source="faruk_çelik" target="abdüllatif_şener" weight="2.0"/>
+      <edge id="804" source="faruk_çelik" target="fatma_betül_sayan_kaya"/>
+      <edge id="805" source="faruk_çelik" target="volkan_bozkır"/>
+      <edge id="806" source="faruk_çelik" target="ahmet_eşref_fakıbaba"/>
+      <edge id="807" source="faruk_çelik" target="derya_yanık"/>
+      <edge id="808" source="faruk_çelik" target="fikri_işık"/>
+      <edge id="809" source="faruk_çelik" target="nurettin_canikli"/>
+      <edge id="810" source="faruk_çelik" target="nabi_avcı"/>
+      <edge id="811" source="faruk_çelik" target="selami_altınok"/>
+      <edge id="812" source="faruk_çelik" target="serkan_bayram"/>
+      <edge id="813" source="faruk_çelik" target="mustafa_savaş"/>
+      <edge id="814" source="faruk_çelik" target="fahrettin_koca"/>
+      <edge id="815" source="feleknas_uca" target="sırrı_süreyya_önder"/>
+      <edge id="816" source="feleknas_uca" target="adnan_selçuk_mızraklı"/>
+      <edge id="817" source="feleknas_uca" target="mahmut_toğrul"/>
+      <edge id="818" source="feleknas_uca" target="tülay_hatimoğulları_oruç"/>
+      <edge id="819" source="feleknas_uca" target="pervin_buldan"/>
+      <edge id="820" source="feleknas_uca" target="semra_güzel"/>
+      <edge id="821" source="feleknas_uca" target="ayşe_acar_başaran"/>
+      <edge id="822" source="feleknas_uca" target="hişyar_özsoy"/>
+      <edge id="823" source="veysel_eroğlu" target="bekir_bozdağ"/>
+      <edge id="824" source="veysel_eroğlu" target="recep_akdağ"/>
+      <edge id="825" source="veysel_eroğlu" target="markar_esayan"/>
+      <edge id="826" source="veysel_eroğlu" target="vedat_bilgin"/>
+      <edge id="827" source="veysel_eroğlu" target="cevdet_yılmaz"/>
+      <edge id="828" source="veysel_eroğlu" target="ömer_çelik"/>
+      <edge id="829" source="veysel_eroğlu" target="mahmut_özer"/>
+      <edge id="830" source="veysel_eroğlu" target="abdulhamit_gül"/>
+      <edge id="831" source="veysel_eroğlu" target="mehmet_özhaseki"/>
+      <edge id="832" source="veysel_eroğlu" target="tolga_ağar"/>
+      <edge id="833" source="veysel_eroğlu" target="akif_çağatay_kılıç"/>
+      <edge id="834" source="veysel_eroğlu" target="abdüllatif_şener"/>
+      <edge id="835" source="veysel_eroğlu" target="fatma_betül_sayan_kaya"/>
+      <edge id="836" source="veysel_eroğlu" target="volkan_bozkır"/>
+      <edge id="837" source="veysel_eroğlu" target="ahmet_eşref_fakıbaba"/>
+      <edge id="838" source="veysel_eroğlu" target="derya_yanık"/>
+      <edge id="839" source="veysel_eroğlu" target="fikri_işık"/>
+      <edge id="840" source="veysel_eroğlu" target="nurettin_canikli"/>
+      <edge id="841" source="veysel_eroğlu" target="nabi_avcı"/>
+      <edge id="842" source="veysel_eroğlu" target="selami_altınok"/>
+      <edge id="843" source="veysel_eroğlu" target="serkan_bayram"/>
+      <edge id="844" source="veysel_eroğlu" target="mustafa_savaş"/>
+      <edge id="845" source="veysel_eroğlu" target="fahrettin_koca"/>
+      <edge id="846" source="sırrı_süreyya_önder" target="adnan_selçuk_mızraklı"/>
+      <edge id="847" source="sırrı_süreyya_önder" target="mahmut_toğrul"/>
+      <edge id="848" source="sırrı_süreyya_önder" target="tülay_hatimoğulları_oruç" weight="2.0"/>
+      <edge id="849" source="sırrı_süreyya_önder" target="pervin_buldan" weight="2.0"/>
+      <edge id="850" source="sırrı_süreyya_önder" target="semra_güzel"/>
+      <edge id="851" source="sırrı_süreyya_önder" target="ayşe_acar_başaran"/>
+      <edge id="852" source="sırrı_süreyya_önder" target="hişyar_özsoy"/>
+      <edge id="853" source="bekir_bozdağ" target="recep_akdağ"/>
+      <edge id="854" source="bekir_bozdağ" target="markar_esayan"/>
+      <edge id="855" source="bekir_bozdağ" target="vedat_bilgin"/>
+      <edge id="856" source="bekir_bozdağ" target="cevdet_yılmaz"/>
+      <edge id="857" source="bekir_bozdağ" target="ömer_çelik"/>
+      <edge id="858" source="bekir_bozdağ" target="mahmut_özer"/>
+      <edge id="859" source="bekir_bozdağ" target="mehmet_bekaroğlu"/>
+      <edge id="860" source="bekir_bozdağ" target="abdulhamit_gül" weight="2.0"/>
+      <edge id="861" source="bekir_bozdağ" target="mehmet_özhaseki" weight="2.0"/>
+      <edge id="862" source="bekir_bozdağ" target="tolga_ağar"/>
+      <edge id="863" source="bekir_bozdağ" target="akif_çağatay_kılıç"/>
+      <edge id="864" source="bekir_bozdağ" target="abdüllatif_şener" weight="2.0"/>
+      <edge id="865" source="bekir_bozdağ" target="fatma_betül_sayan_kaya"/>
+      <edge id="866" source="bekir_bozdağ" target="volkan_bozkır"/>
+      <edge id="867" source="bekir_bozdağ" target="ahmet_eşref_fakıbaba"/>
+      <edge id="868" source="bekir_bozdağ" target="derya_yanık"/>
+      <edge id="869" source="bekir_bozdağ" target="fikri_işık"/>
+      <edge id="870" source="bekir_bozdağ" target="nurettin_canikli"/>
+      <edge id="871" source="bekir_bozdağ" target="nabi_avcı"/>
+      <edge id="872" source="bekir_bozdağ" target="selami_altınok"/>
+      <edge id="873" source="bekir_bozdağ" target="serkan_bayram"/>
+      <edge id="874" source="bekir_bozdağ" target="mustafa_savaş"/>
+      <edge id="875" source="bekir_bozdağ" target="fahrettin_koca"/>
+      <edge id="876" source="gültekin_uysal" target="cemal_enginyurt"/>
+      <edge id="877" source="gültekin_uysal" target="bülent_kuşoğlu" weight="2.0"/>
+      <edge id="878" source="gürsel_tekin" target="enis_berberoğlu"/>
+      <edge id="879" source="gürsel_tekin" target="deniz_yavuzyılmaz"/>
+      <edge id="880" source="gürsel_tekin" target="tanju_özcan"/>
+      <edge id="881" source="gürsel_tekin" target="i̇lhan_kesici"/>
+      <edge id="882" source="gürsel_tekin" target="mehmet_bekaroğlu"/>
+      <edge id="883" source="gürsel_tekin" target="gökçe_gökçen"/>
+      <edge id="884" source="gürsel_tekin" target="ahmet_akın"/>
+      <edge id="885" source="gürsel_tekin" target="cihangir_i̇slam"/>
+      <edge id="886" source="gürsel_tekin" target="abdüllatif_şener"/>
+      <edge id="887" source="gürsel_tekin" target="öztürk_yılmaz"/>
+      <edge id="888" source="gürsel_tekin" target="yüksel_taşkın"/>
+      <edge id="889" source="gürsel_tekin" target="akif_hamzaçebi"/>
+      <edge id="890" source="gürsel_tekin" target="haluk_koç"/>
+      <edge id="891" source="gürsel_tekin" target="harun_özgür_yıldızlı"/>
+      <edge id="892" source="gürsel_tekin" target="atila_sertel"/>
+      <edge id="893" source="gürsel_tekin" target="bülent_kuşoğlu"/>
+      <edge id="894" source="gürsel_tekin" target="selin_sayek_böke"/>
+      <edge id="895" source="adnan_selçuk_mızraklı" target="mahmut_toğrul"/>
+      <edge id="896" source="adnan_selçuk_mızraklı" target="tülay_hatimoğulları_oruç"/>
+      <edge id="897" source="adnan_selçuk_mızraklı" target="pervin_buldan"/>
+      <edge id="898" source="adnan_selçuk_mızraklı" target="semra_güzel"/>
+      <edge id="899" source="adnan_selçuk_mızraklı" target="ayşe_acar_başaran"/>
+      <edge id="900" source="adnan_selçuk_mızraklı" target="hişyar_özsoy"/>
+      <edge id="901" source="recep_akdağ" target="markar_esayan"/>
+      <edge id="902" source="recep_akdağ" target="vedat_bilgin"/>
+      <edge id="903" source="recep_akdağ" target="cevdet_yılmaz"/>
+      <edge id="904" source="recep_akdağ" target="ömer_çelik"/>
+      <edge id="905" source="recep_akdağ" target="mahmut_özer"/>
+      <edge id="906" source="recep_akdağ" target="abdulhamit_gül"/>
+      <edge id="907" source="recep_akdağ" target="mehmet_özhaseki"/>
+      <edge id="908" source="recep_akdağ" target="tolga_ağar"/>
+      <edge id="909" source="recep_akdağ" target="akif_çağatay_kılıç"/>
+      <edge id="910" source="recep_akdağ" target="abdüllatif_şener"/>
+      <edge id="911" source="recep_akdağ" target="fatma_betül_sayan_kaya"/>
+      <edge id="912" source="recep_akdağ" target="volkan_bozkır"/>
+      <edge id="913" source="recep_akdağ" target="ahmet_eşref_fakıbaba"/>
+      <edge id="914" source="recep_akdağ" target="derya_yanık"/>
+      <edge id="915" source="recep_akdağ" target="fikri_işık"/>
+      <edge id="916" source="recep_akdağ" target="nurettin_canikli"/>
+      <edge id="917" source="recep_akdağ" target="nabi_avcı"/>
+      <edge id="918" source="recep_akdağ" target="selami_altınok"/>
+      <edge id="919" source="recep_akdağ" target="serkan_bayram"/>
+      <edge id="920" source="recep_akdağ" target="mustafa_savaş"/>
+      <edge id="921" source="recep_akdağ" target="fahrettin_koca"/>
+      <edge id="922" source="mahmut_toğrul" target="tülay_hatimoğulları_oruç"/>
+      <edge id="923" source="mahmut_toğrul" target="pervin_buldan"/>
+      <edge id="924" source="mahmut_toğrul" target="semra_güzel"/>
+      <edge id="925" source="mahmut_toğrul" target="ayşe_acar_başaran"/>
+      <edge id="926" source="mahmut_toğrul" target="hişyar_özsoy"/>
+      <edge id="927" source="markar_esayan" target="vedat_bilgin"/>
+      <edge id="928" source="markar_esayan" target="cevdet_yılmaz"/>
+      <edge id="929" source="markar_esayan" target="ömer_çelik"/>
+      <edge id="930" source="markar_esayan" target="mahmut_özer"/>
+      <edge id="931" source="markar_esayan" target="abdulhamit_gül"/>
+      <edge id="932" source="markar_esayan" target="mehmet_özhaseki"/>
+      <edge id="933" source="markar_esayan" target="tolga_ağar"/>
+      <edge id="934" source="markar_esayan" target="akif_çağatay_kılıç"/>
+      <edge id="935" source="markar_esayan" target="abdüllatif_şener"/>
+      <edge id="936" source="markar_esayan" target="fatma_betül_sayan_kaya"/>
+      <edge id="937" source="markar_esayan" target="volkan_bozkır"/>
+      <edge id="938" source="markar_esayan" target="ahmet_eşref_fakıbaba"/>
+      <edge id="939" source="markar_esayan" target="derya_yanık"/>
+      <edge id="940" source="markar_esayan" target="fikri_işık"/>
+      <edge id="941" source="markar_esayan" target="nurettin_canikli"/>
+      <edge id="942" source="markar_esayan" target="nabi_avcı"/>
+      <edge id="943" source="markar_esayan" target="selami_altınok"/>
+      <edge id="944" source="markar_esayan" target="serkan_bayram"/>
+      <edge id="945" source="markar_esayan" target="mustafa_savaş"/>
+      <edge id="946" source="markar_esayan" target="fahrettin_koca"/>
+      <edge id="947" source="enis_berberoğlu" target="deniz_yavuzyılmaz"/>
+      <edge id="948" source="enis_berberoğlu" target="tanju_özcan"/>
+      <edge id="949" source="enis_berberoğlu" target="i̇lhan_kesici"/>
+      <edge id="950" source="enis_berberoğlu" target="mehmet_bekaroğlu"/>
+      <edge id="951" source="enis_berberoğlu" target="gökçe_gökçen"/>
+      <edge id="952" source="enis_berberoğlu" target="ahmet_akın"/>
+      <edge id="953" source="enis_berberoğlu" target="cihangir_i̇slam"/>
+      <edge id="954" source="enis_berberoğlu" target="abdüllatif_şener"/>
+      <edge id="955" source="enis_berberoğlu" target="öztürk_yılmaz"/>
+      <edge id="956" source="enis_berberoğlu" target="yüksel_taşkın"/>
+      <edge id="957" source="enis_berberoğlu" target="akif_hamzaçebi"/>
+      <edge id="958" source="enis_berberoğlu" target="haluk_koç"/>
+      <edge id="959" source="enis_berberoğlu" target="harun_özgür_yıldızlı"/>
+      <edge id="960" source="enis_berberoğlu" target="atila_sertel"/>
+      <edge id="961" source="enis_berberoğlu" target="bülent_kuşoğlu"/>
+      <edge id="962" source="enis_berberoğlu" target="selin_sayek_böke"/>
+      <edge id="963" source="vedat_bilgin" target="cevdet_yılmaz"/>
+      <edge id="964" source="vedat_bilgin" target="ömer_çelik"/>
+      <edge id="965" source="vedat_bilgin" target="mahmut_özer"/>
+      <edge id="966" source="vedat_bilgin" target="abdulhamit_gül"/>
+      <edge id="967" source="vedat_bilgin" target="mehmet_özhaseki"/>
+      <edge id="968" source="vedat_bilgin" target="tolga_ağar"/>
+      <edge id="969" source="vedat_bilgin" target="akif_çağatay_kılıç"/>
+      <edge id="970" source="vedat_bilgin" target="abdüllatif_şener"/>
+      <edge id="971" source="vedat_bilgin" target="fatma_betül_sayan_kaya"/>
+      <edge id="972" source="vedat_bilgin" target="volkan_bozkır"/>
+      <edge id="973" source="vedat_bilgin" target="ahmet_eşref_fakıbaba"/>
+      <edge id="974" source="vedat_bilgin" target="derya_yanık"/>
+      <edge id="975" source="vedat_bilgin" target="fikri_işık"/>
+      <edge id="976" source="vedat_bilgin" target="nurettin_canikli"/>
+      <edge id="977" source="vedat_bilgin" target="nabi_avcı"/>
+      <edge id="978" source="vedat_bilgin" target="selami_altınok"/>
+      <edge id="979" source="vedat_bilgin" target="serkan_bayram"/>
+      <edge id="980" source="vedat_bilgin" target="mustafa_savaş"/>
+      <edge id="981" source="vedat_bilgin" target="fahrettin_koca"/>
+      <edge id="982" source="deniz_yavuzyılmaz" target="tanju_özcan"/>
+      <edge id="983" source="deniz_yavuzyılmaz" target="i̇lhan_kesici"/>
+      <edge id="984" source="deniz_yavuzyılmaz" target="mehmet_bekaroğlu"/>
+      <edge id="985" source="deniz_yavuzyılmaz" target="gökçe_gökçen"/>
+      <edge id="986" source="deniz_yavuzyılmaz" target="ahmet_akın"/>
+      <edge id="987" source="deniz_yavuzyılmaz" target="cihangir_i̇slam"/>
+      <edge id="988" source="deniz_yavuzyılmaz" target="abdüllatif_şener"/>
+      <edge id="989" source="deniz_yavuzyılmaz" target="öztürk_yılmaz"/>
+      <edge id="990" source="deniz_yavuzyılmaz" target="yüksel_taşkın"/>
+      <edge id="991" source="deniz_yavuzyılmaz" target="akif_hamzaçebi"/>
+      <edge id="992" source="deniz_yavuzyılmaz" target="haluk_koç"/>
+      <edge id="993" source="deniz_yavuzyılmaz" target="harun_özgür_yıldızlı"/>
+      <edge id="994" source="deniz_yavuzyılmaz" target="atila_sertel"/>
+      <edge id="995" source="deniz_yavuzyılmaz" target="bülent_kuşoğlu"/>
+      <edge id="996" source="deniz_yavuzyılmaz" target="selin_sayek_böke"/>
+      <edge id="997" source="tanju_özcan" target="i̇lhan_kesici"/>
+      <edge id="998" source="tanju_özcan" target="mehmet_bekaroğlu"/>
+      <edge id="999" source="tanju_özcan" target="gökçe_gökçen"/>
+      <edge id="1000" source="tanju_özcan" target="ahmet_akın"/>
+      <edge id="1001" source="tanju_özcan" target="cihangir_i̇slam"/>
+      <edge id="1002" source="tanju_özcan" target="abdüllatif_şener"/>
+      <edge id="1003" source="tanju_özcan" target="öztürk_yılmaz"/>
+      <edge id="1004" source="tanju_özcan" target="yüksel_taşkın"/>
+      <edge id="1005" source="tanju_özcan" target="akif_hamzaçebi"/>
+      <edge id="1006" source="tanju_özcan" target="mehmet_nuri_ersoy"/>
+      <edge id="1007" source="tanju_özcan" target="haluk_koç"/>
+      <edge id="1008" source="tanju_özcan" target="harun_özgür_yıldızlı"/>
+      <edge id="1009" source="tanju_özcan" target="atila_sertel"/>
+      <edge id="1010" source="tanju_özcan" target="bülent_kuşoğlu"/>
+      <edge id="1011" source="tanju_özcan" target="selin_sayek_böke"/>
+      <edge id="1012" source="i̇lhan_kesici" target="mehmet_bekaroğlu"/>
+      <edge id="1013" source="i̇lhan_kesici" target="gökçe_gökçen"/>
+      <edge id="1014" source="i̇lhan_kesici" target="ahmet_akın"/>
+      <edge id="1015" source="i̇lhan_kesici" target="cihangir_i̇slam"/>
+      <edge id="1016" source="i̇lhan_kesici" target="abdüllatif_şener"/>
+      <edge id="1017" source="i̇lhan_kesici" target="öztürk_yılmaz"/>
+      <edge id="1018" source="i̇lhan_kesici" target="yüksel_taşkın"/>
+      <edge id="1019" source="i̇lhan_kesici" target="akif_hamzaçebi"/>
+      <edge id="1020" source="i̇lhan_kesici" target="haluk_koç"/>
+      <edge id="1021" source="i̇lhan_kesici" target="harun_özgür_yıldızlı"/>
+      <edge id="1022" source="i̇lhan_kesici" target="atila_sertel"/>
+      <edge id="1023" source="i̇lhan_kesici" target="bülent_kuşoğlu"/>
+      <edge id="1024" source="i̇lhan_kesici" target="selin_sayek_böke"/>
+      <edge id="1025" source="cevdet_yılmaz" target="ömer_çelik"/>
+      <edge id="1026" source="cevdet_yılmaz" target="mahmut_özer"/>
+      <edge id="1027" source="cevdet_yılmaz" target="abdulhamit_gül"/>
+      <edge id="1028" source="cevdet_yılmaz" target="mehmet_özhaseki"/>
+      <edge id="1029" source="cevdet_yılmaz" target="tolga_ağar"/>
+      <edge id="1030" source="cevdet_yılmaz" target="akif_çağatay_kılıç"/>
+      <edge id="1031" source="cevdet_yılmaz" target="abdüllatif_şener"/>
+      <edge id="1032" source="cevdet_yılmaz" target="fatma_betül_sayan_kaya"/>
+      <edge id="1033" source="cevdet_yılmaz" target="volkan_bozkır"/>
+      <edge id="1034" source="cevdet_yılmaz" target="ahmet_eşref_fakıbaba"/>
+      <edge id="1035" source="cevdet_yılmaz" target="derya_yanık"/>
+      <edge id="1036" source="cevdet_yılmaz" target="fikri_işık"/>
+      <edge id="1037" source="cevdet_yılmaz" target="nurettin_canikli"/>
+      <edge id="1038" source="cevdet_yılmaz" target="nabi_avcı"/>
+      <edge id="1039" source="cevdet_yılmaz" target="selami_altınok"/>
+      <edge id="1040" source="cevdet_yılmaz" target="serkan_bayram"/>
+      <edge id="1041" source="cevdet_yılmaz" target="mustafa_savaş"/>
+      <edge id="1042" source="cevdet_yılmaz" target="fahrettin_koca"/>
+      <edge id="1043" source="ömer_çelik" target="mahmut_özer"/>
+      <edge id="1044" source="ömer_çelik" target="abdulhamit_gül"/>
+      <edge id="1045" source="ömer_çelik" target="mehmet_özhaseki"/>
+      <edge id="1046" source="ömer_çelik" target="tolga_ağar"/>
+      <edge id="1047" source="ömer_çelik" target="akif_çağatay_kılıç"/>
+      <edge id="1048" source="ömer_çelik" target="abdüllatif_şener"/>
+      <edge id="1049" source="ömer_çelik" target="fatma_betül_sayan_kaya"/>
+      <edge id="1050" source="ömer_çelik" target="volkan_bozkır"/>
+      <edge id="1051" source="ömer_çelik" target="ahmet_eşref_fakıbaba"/>
+      <edge id="1052" source="ömer_çelik" target="derya_yanık"/>
+      <edge id="1053" source="ömer_çelik" target="fikri_işık"/>
+      <edge id="1054" source="ömer_çelik" target="nurettin_canikli"/>
+      <edge id="1055" source="ömer_çelik" target="nabi_avcı"/>
+      <edge id="1056" source="ömer_çelik" target="selami_altınok"/>
+      <edge id="1057" source="ömer_çelik" target="serkan_bayram"/>
+      <edge id="1058" source="ömer_çelik" target="mustafa_savaş"/>
+      <edge id="1059" source="ömer_çelik" target="fahrettin_koca"/>
+      <edge id="1060" source="mahmut_özer" target="abdulhamit_gül"/>
+      <edge id="1061" source="mahmut_özer" target="mehmet_özhaseki"/>
+      <edge id="1062" source="mahmut_özer" target="tolga_ağar"/>
+      <edge id="1063" source="mahmut_özer" target="akif_çağatay_kılıç"/>
+      <edge id="1064" source="mahmut_özer" target="abdüllatif_şener"/>
+      <edge id="1065" source="mahmut_özer" target="fatma_betül_sayan_kaya"/>
+      <edge id="1066" source="mahmut_özer" target="volkan_bozkır"/>
+      <edge id="1067" source="mahmut_özer" target="ahmet_eşref_fakıbaba"/>
+      <edge id="1068" source="mahmut_özer" target="derya_yanık"/>
+      <edge id="1069" source="mahmut_özer" target="fikri_işık"/>
+      <edge id="1070" source="mahmut_özer" target="nurettin_canikli"/>
+      <edge id="1071" source="mahmut_özer" target="nabi_avcı"/>
+      <edge id="1072" source="mahmut_özer" target="selami_altınok"/>
+      <edge id="1073" source="mahmut_özer" target="serkan_bayram"/>
+      <edge id="1074" source="mahmut_özer" target="mustafa_savaş"/>
+      <edge id="1075" source="mahmut_özer" target="fahrettin_koca"/>
+      <edge id="1076" source="ömer_faruk_gergerlioğlu" target="pervin_buldan"/>
+      <edge id="1077" source="mehmet_bekaroğlu" target="gökçe_gökçen"/>
+      <edge id="1078" source="mehmet_bekaroğlu" target="abdulhamit_gül" weight="3.0"/>
+      <edge id="1079" source="mehmet_bekaroğlu" target="ahmet_akın"/>
+      <edge id="1080" source="mehmet_bekaroğlu" target="mehmet_özhaseki"/>
+      <edge id="1081" source="mehmet_bekaroğlu" target="cihangir_i̇slam" weight="3.0"/>
+      <edge id="1082" source="mehmet_bekaroğlu" target="abdüllatif_şener" weight="2.0"/>
+      <edge id="1083" source="mehmet_bekaroğlu" target="öztürk_yılmaz"/>
+      <edge id="1084" source="mehmet_bekaroğlu" target="ahmet_eşref_fakıbaba"/>
+      <edge id="1085" source="mehmet_bekaroğlu" target="yüksel_taşkın"/>
+      <edge id="1086" source="mehmet_bekaroğlu" target="akif_hamzaçebi"/>
+      <edge id="1087" source="mehmet_bekaroğlu" target="haluk_koç"/>
+      <edge id="1088" source="mehmet_bekaroğlu" target="harun_özgür_yıldızlı"/>
+      <edge id="1089" source="mehmet_bekaroğlu" target="atila_sertel"/>
+      <edge id="1090" source="mehmet_bekaroğlu" target="bülent_kuşoğlu"/>
+      <edge id="1091" source="mehmet_bekaroğlu" target="selin_sayek_böke"/>
+      <edge id="1092" source="gökçe_gökçen" target="ahmet_akın"/>
+      <edge id="1093" source="gökçe_gökçen" target="cihangir_i̇slam"/>
+      <edge id="1094" source="gökçe_gökçen" target="abdüllatif_şener"/>
+      <edge id="1095" source="gökçe_gökçen" target="öztürk_yılmaz"/>
+      <edge id="1096" source="gökçe_gökçen" target="yüksel_taşkın"/>
+      <edge id="1097" source="gökçe_gökçen" target="akif_hamzaçebi"/>
+      <edge id="1098" source="gökçe_gökçen" target="haluk_koç"/>
+      <edge id="1099" source="gökçe_gökçen" target="harun_özgür_yıldızlı"/>
+      <edge id="1100" source="gökçe_gökçen" target="atila_sertel"/>
+      <edge id="1101" source="gökçe_gökçen" target="bülent_kuşoğlu"/>
+      <edge id="1102" source="gökçe_gökçen" target="selin_sayek_böke"/>
+      <edge id="1103" source="abdulhamit_gül" target="mehmet_özhaseki" weight="3.0"/>
+      <edge id="1104" source="abdulhamit_gül" target="cihangir_i̇slam" weight="2.0"/>
+      <edge id="1105" source="abdulhamit_gül" target="tolga_ağar"/>
+      <edge id="1106" source="abdulhamit_gül" target="akif_çağatay_kılıç"/>
+      <edge id="1107" source="abdulhamit_gül" target="abdüllatif_şener" weight="3.0"/>
+      <edge id="1108" source="abdulhamit_gül" target="fatma_betül_sayan_kaya"/>
+      <edge id="1109" source="abdulhamit_gül" target="volkan_bozkır"/>
+      <edge id="1110" source="abdulhamit_gül" target="ahmet_eşref_fakıbaba" weight="2.0"/>
+      <edge id="1111" source="abdulhamit_gül" target="derya_yanık"/>
+      <edge id="1112" source="abdulhamit_gül" target="fikri_işık"/>
+      <edge id="1113" source="abdulhamit_gül" target="nurettin_canikli"/>
+      <edge id="1114" source="abdulhamit_gül" target="nabi_avcı"/>
+      <edge id="1115" source="abdulhamit_gül" target="selami_altınok"/>
+      <edge id="1116" source="abdulhamit_gül" target="serkan_bayram"/>
+      <edge id="1117" source="abdulhamit_gül" target="mustafa_savaş"/>
+      <edge id="1118" source="abdulhamit_gül" target="fahrettin_koca"/>
+      <edge id="1119" source="ahmet_akın" target="cihangir_i̇slam"/>
+      <edge id="1120" source="ahmet_akın" target="abdüllatif_şener"/>
+      <edge id="1121" source="ahmet_akın" target="öztürk_yılmaz"/>
+      <edge id="1122" source="ahmet_akın" target="yüksel_taşkın"/>
+      <edge id="1123" source="ahmet_akın" target="akif_hamzaçebi"/>
+      <edge id="1124" source="ahmet_akın" target="haluk_koç"/>
+      <edge id="1125" source="ahmet_akın" target="harun_özgür_yıldızlı"/>
+      <edge id="1126" source="ahmet_akın" target="atila_sertel"/>
+      <edge id="1127" source="ahmet_akın" target="bülent_kuşoğlu"/>
+      <edge id="1128" source="ahmet_akın" target="selin_sayek_böke"/>
+      <edge id="1129" source="tülay_hatimoğulları_oruç" target="pervin_buldan"/>
+      <edge id="1130" source="tülay_hatimoğulları_oruç" target="semra_güzel"/>
+      <edge id="1131" source="tülay_hatimoğulları_oruç" target="ayşe_acar_başaran"/>
+      <edge id="1132" source="tülay_hatimoğulları_oruç" target="hişyar_özsoy"/>
+      <edge id="1133" source="mehmet_özhaseki" target="tolga_ağar"/>
+      <edge id="1134" source="mehmet_özhaseki" target="akif_çağatay_kılıç"/>
+      <edge id="1135" source="mehmet_özhaseki" target="abdüllatif_şener" weight="3.0"/>
+      <edge id="1136" source="mehmet_özhaseki" target="fatma_betül_sayan_kaya"/>
+      <edge id="1137" source="mehmet_özhaseki" target="volkan_bozkır"/>
+      <edge id="1138" source="mehmet_özhaseki" target="ahmet_eşref_fakıbaba"/>
+      <edge id="1139" source="mehmet_özhaseki" target="derya_yanık"/>
+      <edge id="1140" source="mehmet_özhaseki" target="fikri_işık"/>
+      <edge id="1141" source="mehmet_özhaseki" target="nurettin_canikli"/>
+      <edge id="1142" source="mehmet_özhaseki" target="nabi_avcı"/>
+      <edge id="1143" source="mehmet_özhaseki" target="selami_altınok"/>
+      <edge id="1144" source="mehmet_özhaseki" target="serkan_bayram"/>
+      <edge id="1145" source="mehmet_özhaseki" target="mustafa_savaş"/>
+      <edge id="1146" source="mehmet_özhaseki" target="fahrettin_koca"/>
+      <edge id="1147" source="cihangir_i̇slam" target="abdüllatif_şener"/>
+      <edge id="1148" source="cihangir_i̇slam" target="öztürk_yılmaz"/>
+      <edge id="1149" source="cihangir_i̇slam" target="ahmet_eşref_fakıbaba"/>
+      <edge id="1150" source="cihangir_i̇slam" target="yüksel_taşkın"/>
+      <edge id="1151" source="cihangir_i̇slam" target="akif_hamzaçebi"/>
+      <edge id="1152" source="cihangir_i̇slam" target="haluk_koç"/>
+      <edge id="1153" source="cihangir_i̇slam" target="harun_özgür_yıldızlı"/>
+      <edge id="1154" source="cihangir_i̇slam" target="atila_sertel"/>
+      <edge id="1155" source="cihangir_i̇slam" target="bülent_kuşoğlu"/>
+      <edge id="1156" source="cihangir_i̇slam" target="selin_sayek_böke"/>
+      <edge id="1157" source="tolga_ağar" target="akif_çağatay_kılıç"/>
+      <edge id="1158" source="tolga_ağar" target="abdüllatif_şener"/>
+      <edge id="1159" source="tolga_ağar" target="fatma_betül_sayan_kaya"/>
+      <edge id="1160" source="tolga_ağar" target="volkan_bozkır"/>
+      <edge id="1161" source="tolga_ağar" target="ahmet_eşref_fakıbaba"/>
+      <edge id="1162" source="tolga_ağar" target="derya_yanık"/>
+      <edge id="1163" source="tolga_ağar" target="fikri_işık"/>
+      <edge id="1164" source="tolga_ağar" target="nurettin_canikli"/>
+      <edge id="1165" source="tolga_ağar" target="nabi_avcı"/>
+      <edge id="1166" source="tolga_ağar" target="selami_altınok"/>
+      <edge id="1167" source="tolga_ağar" target="serkan_bayram"/>
+      <edge id="1168" source="tolga_ağar" target="mustafa_savaş"/>
+      <edge id="1169" source="tolga_ağar" target="fahrettin_koca"/>
+      <edge id="1170" source="akif_çağatay_kılıç" target="abdüllatif_şener"/>
+      <edge id="1171" source="akif_çağatay_kılıç" target="fatma_betül_sayan_kaya"/>
+      <edge id="1172" source="akif_çağatay_kılıç" target="volkan_bozkır"/>
+      <edge id="1173" source="akif_çağatay_kılıç" target="ahmet_eşref_fakıbaba"/>
+      <edge id="1174" source="akif_çağatay_kılıç" target="derya_yanık"/>
+      <edge id="1175" source="akif_çağatay_kılıç" target="fikri_işık"/>
+      <edge id="1176" source="akif_çağatay_kılıç" target="nurettin_canikli"/>
+      <edge id="1177" source="akif_çağatay_kılıç" target="nabi_avcı"/>
+      <edge id="1178" source="akif_çağatay_kılıç" target="selami_altınok"/>
+      <edge id="1179" source="akif_çağatay_kılıç" target="serkan_bayram"/>
+      <edge id="1180" source="akif_çağatay_kılıç" target="mustafa_savaş"/>
+      <edge id="1181" source="akif_çağatay_kılıç" target="fahrettin_koca"/>
+      <edge id="1182" source="abdüllatif_şener" target="öztürk_yılmaz"/>
+      <edge id="1183" source="abdüllatif_şener" target="fatma_betül_sayan_kaya"/>
+      <edge id="1184" source="abdüllatif_şener" target="volkan_bozkır"/>
+      <edge id="1185" source="abdüllatif_şener" target="ahmet_eşref_fakıbaba"/>
+      <edge id="1186" source="abdüllatif_şener" target="yüksel_taşkın"/>
+      <edge id="1187" source="abdüllatif_şener" target="akif_hamzaçebi"/>
+      <edge id="1188" source="abdüllatif_şener" target="derya_yanık"/>
+      <edge id="1189" source="abdüllatif_şener" target="fikri_işık"/>
+      <edge id="1190" source="abdüllatif_şener" target="nurettin_canikli"/>
+      <edge id="1191" source="abdüllatif_şener" target="nabi_avcı"/>
+      <edge id="1192" source="abdüllatif_şener" target="selami_altınok"/>
+      <edge id="1193" source="abdüllatif_şener" target="serkan_bayram"/>
+      <edge id="1194" source="abdüllatif_şener" target="haluk_koç"/>
+      <edge id="1195" source="abdüllatif_şener" target="harun_özgür_yıldızlı"/>
+      <edge id="1196" source="abdüllatif_şener" target="atila_sertel"/>
+      <edge id="1197" source="abdüllatif_şener" target="bülent_kuşoğlu" weight="2.0"/>
+      <edge id="1198" source="abdüllatif_şener" target="mustafa_savaş"/>
+      <edge id="1199" source="abdüllatif_şener" target="selin_sayek_böke"/>
+      <edge id="1200" source="abdüllatif_şener" target="fahrettin_koca"/>
+      <edge id="1201" source="pervin_buldan" target="semra_güzel"/>
+      <edge id="1202" source="pervin_buldan" target="ayşe_acar_başaran"/>
+      <edge id="1203" source="pervin_buldan" target="hişyar_özsoy"/>
+      <edge id="1204" source="öztürk_yılmaz" target="yüksel_taşkın"/>
+      <edge id="1205" source="öztürk_yılmaz" target="akif_hamzaçebi"/>
+      <edge id="1206" source="öztürk_yılmaz" target="haluk_koç"/>
+      <edge id="1207" source="öztürk_yılmaz" target="harun_özgür_yıldızlı"/>
+      <edge id="1208" source="öztürk_yılmaz" target="atila_sertel"/>
+      <edge id="1209" source="öztürk_yılmaz" target="bülent_kuşoğlu"/>
+      <edge id="1210" source="öztürk_yılmaz" target="selin_sayek_böke"/>
+      <edge id="1211" source="fatma_betül_sayan_kaya" target="volkan_bozkır"/>
+      <edge id="1212" source="fatma_betül_sayan_kaya" target="ahmet_eşref_fakıbaba"/>
+      <edge id="1213" source="fatma_betül_sayan_kaya" target="derya_yanık"/>
+      <edge id="1214" source="fatma_betül_sayan_kaya" target="fikri_işık"/>
+      <edge id="1215" source="fatma_betül_sayan_kaya" target="nurettin_canikli"/>
+      <edge id="1216" source="fatma_betül_sayan_kaya" target="nabi_avcı"/>
+      <edge id="1217" source="fatma_betül_sayan_kaya" target="selami_altınok"/>
+      <edge id="1218" source="fatma_betül_sayan_kaya" target="serkan_bayram"/>
+      <edge id="1219" source="fatma_betül_sayan_kaya" target="mustafa_savaş"/>
+      <edge id="1220" source="fatma_betül_sayan_kaya" target="fahrettin_koca"/>
+      <edge id="1221" source="semra_güzel" target="ayşe_acar_başaran"/>
+      <edge id="1222" source="semra_güzel" target="hişyar_özsoy"/>
+      <edge id="1223" source="volkan_bozkır" target="ahmet_eşref_fakıbaba"/>
+      <edge id="1224" source="volkan_bozkır" target="derya_yanık"/>
+      <edge id="1225" source="volkan_bozkır" target="fikri_işık"/>
+      <edge id="1226" source="volkan_bozkır" target="nurettin_canikli"/>
+      <edge id="1227" source="volkan_bozkır" target="nabi_avcı"/>
+      <edge id="1228" source="volkan_bozkır" target="selami_altınok"/>
+      <edge id="1229" source="volkan_bozkır" target="serkan_bayram"/>
+      <edge id="1230" source="volkan_bozkır" target="mustafa_savaş"/>
+      <edge id="1231" source="volkan_bozkır" target="fahrettin_koca"/>
+      <edge id="1232" source="cemal_enginyurt" target="olcay_kılavuz"/>
+      <edge id="1233" source="cemal_enginyurt" target="bülent_kuşoğlu"/>
+      <edge id="1234" source="cemal_enginyurt" target="lütfü_türkkan"/>
+      <edge id="1235" source="ahmet_eşref_fakıbaba" target="derya_yanık"/>
+      <edge id="1236" source="ahmet_eşref_fakıbaba" target="fikri_işık"/>
+      <edge id="1237" source="ahmet_eşref_fakıbaba" target="nurettin_canikli"/>
+      <edge id="1238" source="ahmet_eşref_fakıbaba" target="nabi_avcı"/>
+      <edge id="1239" source="ahmet_eşref_fakıbaba" target="selami_altınok"/>
+      <edge id="1240" source="ahmet_eşref_fakıbaba" target="serkan_bayram"/>
+      <edge id="1241" source="ahmet_eşref_fakıbaba" target="mustafa_savaş"/>
+      <edge id="1242" source="ahmet_eşref_fakıbaba" target="lütfü_türkkan"/>
+      <edge id="1243" source="ahmet_eşref_fakıbaba" target="fahrettin_koca"/>
+      <edge id="1244" source="yüksel_taşkın" target="akif_hamzaçebi"/>
+      <edge id="1245" source="yüksel_taşkın" target="haluk_koç"/>
+      <edge id="1246" source="yüksel_taşkın" target="harun_özgür_yıldızlı"/>
+      <edge id="1247" source="yüksel_taşkın" target="atila_sertel"/>
+      <edge id="1248" source="yüksel_taşkın" target="bülent_kuşoğlu"/>
+      <edge id="1249" source="yüksel_taşkın" target="selin_sayek_böke"/>
+      <edge id="1250" source="akif_hamzaçebi" target="haluk_koç"/>
+      <edge id="1251" source="akif_hamzaçebi" target="harun_özgür_yıldızlı"/>
+      <edge id="1252" source="akif_hamzaçebi" target="atila_sertel"/>
+      <edge id="1253" source="akif_hamzaçebi" target="bülent_kuşoğlu"/>
+      <edge id="1254" source="akif_hamzaçebi" target="selin_sayek_böke"/>
+      <edge id="1255" source="derya_yanık" target="fikri_işık"/>
+      <edge id="1256" source="derya_yanık" target="nurettin_canikli"/>
+      <edge id="1257" source="derya_yanık" target="nabi_avcı"/>
+      <edge id="1258" source="derya_yanık" target="selami_altınok"/>
+      <edge id="1259" source="derya_yanık" target="serkan_bayram"/>
+      <edge id="1260" source="derya_yanık" target="mustafa_savaş"/>
+      <edge id="1261" source="derya_yanık" target="fahrettin_koca"/>
+      <edge id="1262" source="fikri_işık" target="nurettin_canikli"/>
+      <edge id="1263" source="fikri_işık" target="nabi_avcı"/>
+      <edge id="1264" source="fikri_işık" target="selami_altınok"/>
+      <edge id="1265" source="fikri_işık" target="serkan_bayram"/>
+      <edge id="1266" source="fikri_işık" target="mustafa_savaş"/>
+      <edge id="1267" source="fikri_işık" target="fahrettin_koca"/>
+      <edge id="1268" source="nurettin_canikli" target="nabi_avcı"/>
+      <edge id="1269" source="nurettin_canikli" target="selami_altınok"/>
+      <edge id="1270" source="nurettin_canikli" target="serkan_bayram"/>
+      <edge id="1271" source="nurettin_canikli" target="mustafa_savaş"/>
+      <edge id="1272" source="nurettin_canikli" target="fahrettin_koca"/>
+      <edge id="1273" source="olcay_kılavuz" target="lütfü_türkkan"/>
+      <edge id="1274" source="ayşe_acar_başaran" target="hişyar_özsoy"/>
+      <edge id="1275" source="nabi_avcı" target="selami_altınok"/>
+      <edge id="1276" source="nabi_avcı" target="serkan_bayram"/>
+      <edge id="1277" source="nabi_avcı" target="mustafa_savaş"/>
+      <edge id="1278" source="nabi_avcı" target="fahrettin_koca"/>
+      <edge id="1279" source="selami_altınok" target="serkan_bayram"/>
+      <edge id="1280" source="selami_altınok" target="mustafa_savaş"/>
+      <edge id="1281" source="selami_altınok" target="fahrettin_koca"/>
+      <edge id="1282" source="serkan_bayram" target="mustafa_savaş"/>
+      <edge id="1283" source="serkan_bayram" target="fahrettin_koca"/>
+      <edge id="1284" source="haluk_koç" target="harun_özgür_yıldızlı"/>
+      <edge id="1285" source="haluk_koç" target="atila_sertel"/>
+      <edge id="1286" source="haluk_koç" target="bülent_kuşoğlu"/>
+      <edge id="1287" source="haluk_koç" target="selin_sayek_böke"/>
+      <edge id="1288" source="harun_özgür_yıldızlı" target="atila_sertel"/>
+      <edge id="1289" source="harun_özgür_yıldızlı" target="bülent_kuşoğlu"/>
+      <edge id="1290" source="harun_özgür_yıldızlı" target="selin_sayek_böke"/>
+      <edge id="1291" source="atila_sertel" target="bülent_kuşoğlu"/>
+      <edge id="1292" source="atila_sertel" target="selin_sayek_böke"/>
+      <edge id="1293" source="bülent_kuşoğlu" target="selin_sayek_böke"/>
+      <edge id="1294" source="mustafa_savaş" target="fahrettin_koca"/>
+    </edges>
+  </graph>
+</gexf>

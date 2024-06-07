@@ -1,0 +1,1914 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2024-06-05">
+    <creator>Gephi 0.10.1</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="bipartite" type="long"/>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="weighted degree" title="Weighted Degree" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="stat_inf_class" title="Inferred Class" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="degree" title="Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="clustering" title="Clustering Coefficient" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="triangles" title="Number of triangles" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="eigencentrality" title="Eigenvector Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="pageranks" title="PageRank" type="double">
+        <default>0.0</default>
+      </attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="1" title="edit_count" type="long"/>
+    </attributes>
+    <nodes>
+      <node id="Kibele" label="Kibele">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="weighted degree" value="10969.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.37331634911034967"/>
+          <attvalue for="pageranks" value="0.015435808487555575"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="461.55774" y="175.54205"/>
+        <viz:color r="253" g="222" b="194"/>
+      </node>
+      <node id="Recep_Tayyip_Erdoğan" label="Recep_Tayyip_Erdoğan">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="weighted degree" value="70079.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="23"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.8240049142011417"/>
+          <attvalue for="pageranks" value="0.07352381924930221"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-117.552734" y="-185.1977"/>
+        <viz:color r="242" g="122" b="77"/>
+      </node>
+      <node id="Berat_Albayrak" label="Berat_Albayrak">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="1605.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="7"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.33641842165872177"/>
+          <attvalue for="pageranks" value="0.021042251820166457"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-124.55902" y="111.13585"/>
+        <viz:color r="253" g="237" b="213"/>
+      </node>
+      <node id="Binali_Yıldırım" label="Binali_Yıldırım">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="54988.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="28"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="1.0"/>
+          <attvalue for="pageranks" value="0.08568094796453006"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-125.01126" y="298.47067"/>
+        <viz:color r="252" g="152" b="103"/>
+      </node>
+      <node id="Kemal_Kılıçdaroğlu" label="Kemal_Kılıçdaroğlu">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="10952.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="14"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.586624530601773"/>
+          <attvalue for="pageranks" value="0.04075020449215726"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-121.62775" y="-29.639336"/>
+        <viz:color r="253" g="222" b="194"/>
+      </node>
+      <node id="Selahattin_Demirtaş" label="Selahattin_Demirtaş">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="weighted degree" value="4821.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="13"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.5666452619155304"/>
+          <attvalue for="pageranks" value="0.03843922098671378"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-124.682846" y="76.4899"/>
+        <viz:color r="253" g="232" b="207"/>
+      </node>
+      <node id="GurayKant" label="GurayKant">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="weighted degree" value="495.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.2056633359836922"/>
+          <attvalue for="pageranks" value="0.007899942047500965"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="470.19122" y="454.68777"/>
+        <viz:color r="253" g="239" b="216"/>
+      </node>
+      <node id="Bjelica" label="Bjelica">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="8782.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.4241995327157565"/>
+          <attvalue for="pageranks" value="0.01528619617742701"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="458.87656" y="131.02713"/>
+        <viz:color r="253" g="226" b="198"/>
+      </node>
+      <node id="Ahmet_Davutoğlu" label="Ahmet_Davutoğlu">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="17463.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="18"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.8013652398387796"/>
+          <attvalue for="pageranks" value="0.05094038685252562"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-121.55377" y="-67.180176"/>
+        <viz:color r="253" g="212" b="180"/>
+      </node>
+      <node id="Nanahuatl" label="Nanahuatl">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="weighted degree" value="1741.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.09306462668726088"/>
+          <attvalue for="pageranks" value="0.00530115239549454"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="453.11328" y="44.157944"/>
+        <viz:color r="253" g="237" b="213"/>
+      </node>
+      <node id="Niveles" label="Niveles">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="1000.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.33085755727334515"/>
+          <attvalue for="pageranks" value="0.012896991108449125"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="462.98993" y="353.41113"/>
+        <viz:color r="253" g="238" b="215"/>
+      </node>
+      <node id="Efkan_Âlâ" label="Efkan_Âlâ">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="2535.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="7"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.31766835471404076"/>
+          <attvalue for="pageranks" value="0.021378898008484387"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-123.915665" y="42.43777"/>
+        <viz:color r="253" g="236" b="211"/>
+      </node>
+      <node id="Yakamoz51" label="Yakamoz51">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="19363.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.33085755727334515"/>
+          <attvalue for="pageranks" value="0.012896991108449125"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="466.66983" y="328.32236"/>
+        <viz:color r="253" g="209" b="177"/>
+      </node>
+      <node id="Adem" label="Adem">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="weighted degree" value="7477.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="9"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.4960533901555007"/>
+          <attvalue for="pageranks" value="0.025883165292205967"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="446.677" y="-122.2549"/>
+        <viz:color r="253" g="228" b="201"/>
+      </node>
+      <node id="Meral_Akşener" label="Meral_Akşener">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="6834.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="8"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.3703429161742727"/>
+          <attvalue for="pageranks" value="0.025359561276578544"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-118.80322" y="-145.65134"/>
+        <viz:color r="253" g="229" b="202"/>
+      </node>
+      <node id="Devlet_Bahçeli" label="Devlet_Bahçeli">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="40280.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="9"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.39988108202811173"/>
+          <attvalue for="pageranks" value="0.026758351568356206"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-117.402466" y="-269.86374"/>
+        <viz:color r="252" g="175" b="133"/>
+      </node>
+      <node id="Pervin_Buldan" label="Pervin_Buldan">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="weighted degree" value="253.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.2192064593865953"/>
+          <attvalue for="pageranks" value="0.012548274242365098"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-122.95285" y="257.89398"/>
+        <viz:color r="253" g="239" b="216" a="0.99607843"/>
+      </node>
+      <node id="Ali_Babacan" label="Ali_Babacan">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+          <attvalue for="modularity_class" value="2"/>
+          <attvalue for="weighted degree" value="1122.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="7"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.2942727771172661"/>
+          <attvalue for="pageranks" value="0.022759754753581305"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-125.51737" y="220.5723"/>
+        <viz:color r="253" g="238" b="214"/>
+      </node>
+      <node id="MustafaKurt" label="MustafaKurt">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="123685.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="14"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.7101791158243292"/>
+          <attvalue for="pageranks" value="0.04089586636303932"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="451.5922" y="72.14969"/>
+        <viz:color r="179" g="0" b="0"/>
+      </node>
+      <node id="Mehmet_Şimşek" label="Mehmet_Şimşek">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="10070.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.19445148008505556"/>
+          <attvalue for="pageranks" value="0.010037945358991678"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-117.829956" y="-227.26709"/>
+        <viz:color r="253" g="223" b="196"/>
+      </node>
+      <node id="Süleyman_Soylu" label="Süleyman_Soylu">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="weighted degree" value="613.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.22349835245588656"/>
+          <attvalue for="pageranks" value="0.012857907143189939"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-124.562584" y="148.79659"/>
+        <viz:color r="253" g="239" b="215"/>
+      </node>
+      <node id="Özgür_Özel" label="Özgür_Özel">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="1211.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.07972627670977199"/>
+          <attvalue for="pageranks" value="0.005071409336937177"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-117.33089" y="-101.71138"/>
+        <viz:color r="253" g="238" b="214"/>
+      </node>
+      <node id="Koray_Aydın" label="Koray_Aydın">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="weighted degree" value="5233.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="7"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.33806565933109894"/>
+          <attvalue for="pageranks" value="0.022393760069038083"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-123.17934" y="7.861547"/>
+        <viz:color r="253" g="231" b="206"/>
+      </node>
+      <node id="Sırrı_Süreyya_Önder" label="Sırrı_Süreyya_Önder">
+        <attvalues>
+          <attvalue for="0" value="1"/>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="weighted degree" value="405.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.25269375809450534"/>
+          <attvalue for="pageranks" value="0.012473984199425955"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-125.92079" y="187.59561"/>
+        <viz:color r="253" g="239" b="216"/>
+      </node>
+      <node id="Ahmet Deniz Zarıçlar" label="Ahmet Deniz Zarıçlar">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="weighted degree" value="822.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="8"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.5162570354346354"/>
+          <attvalue for="pageranks" value="0.023331380147243324"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="461.68124" y="262.7621"/>
+        <viz:color r="253" g="238" b="215"/>
+      </node>
+      <node id="Vikiçizer" label="Vikiçizer">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="1569.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="6"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.4088570847300586"/>
+          <attvalue for="pageranks" value="0.018473883999118066"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="447.21783" y="22.623755"/>
+        <viz:color r="253" g="237" b="213"/>
+      </node>
+      <node id="Superyetkin" label="Superyetkin">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="850.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.18207999017442375"/>
+          <attvalue for="pageranks" value="0.007704431538043052"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="444.693" y="-268.98886"/>
+        <viz:color r="253" g="238" b="215"/>
+      </node>
+      <node id="Refrenantem" label="Refrenantem">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="2"/>
+          <attvalue for="weighted degree" value="495.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.23946390561670375"/>
+          <attvalue for="pageranks" value="0.010661387427806538"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="459.95612" y="219.42696"/>
+        <viz:color r="253" g="239" b="216"/>
+      </node>
+      <node id="Dr. Coal" label="Dr. Coal">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="663.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.3329571155967206"/>
+          <attvalue for="pageranks" value="0.01302022435866099"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="437.5413" y="-427.44385"/>
+        <viz:color r="253" g="239" b="215"/>
+      </node>
+      <node id="MHIRM" label="MHIRM">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="weighted degree" value="1939.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.09306462668726088"/>
+          <attvalue for="pageranks" value="0.00530115239549454"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="449.59473" y="-69.70782"/>
+        <viz:color r="253" g="236" b="213"/>
+      </node>
+      <node id="Reddewil23" label="Reddewil23">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="weighted degree" value="102.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.09306462668726088"/>
+          <attvalue for="pageranks" value="0.00530115239549454"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="448.34088" y="2.510994"/>
+        <viz:color r="253" g="239" b="216" a="0.99607843"/>
+      </node>
+      <node id="Merhabaviki" label="Merhabaviki">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="768.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.35819779236700766"/>
+          <attvalue for="pageranks" value="0.012814315744462458"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="436.81613" y="-385.29303"/>
+        <viz:color r="253" g="238" b="215"/>
+      </node>
+      <node id="OutsiderKK" label="OutsiderKK">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="weighted degree" value="2026.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.09306462668726088"/>
+          <attvalue for="pageranks" value="0.00530115239549454"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="465.00085" y="401.74716"/>
+        <viz:color r="253" g="236" b="212"/>
+      </node>
+      <node id="Temel53" label="Temel53">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="weighted degree" value="2880.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.3201005296348554"/>
+          <attvalue for="pageranks" value="0.013033287332490226"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="449.3689" y="-150.19684"/>
+        <viz:color r="253" g="235" b="211"/>
+      </node>
+      <node id="YBot" label="YBot">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="weighted degree" value="19885.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="9"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.5453177699466562"/>
+          <attvalue for="pageranks" value="0.026021228247927294"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="456.30292" y="240.67004"/>
+        <viz:color r="253" g="208" b="175"/>
+      </node>
+      <node id="Hiroşi" label="Hiroşi">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="weighted degree" value="7997.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="7"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.3926510983984145"/>
+          <attvalue for="pageranks" value="0.020826117490788065"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="448.98666" y="-44.621113"/>
+        <viz:color r="253" g="227" b="200"/>
+      </node>
+      <node id="Hakanp" label="Hakanp">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="2288.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="7"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.4166552021947496"/>
+          <attvalue for="pageranks" value="0.02102179409646137"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="445.55814" y="-175.07079"/>
+        <viz:color r="253" g="236" b="212"/>
+      </node>
+      <node id="Furkan" label="Furkan">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="677.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.2056633359836922"/>
+          <attvalue for="pageranks" value="0.007899942047500965"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="465.45105" y="303.61185"/>
+        <viz:color r="253" g="238" b="215"/>
+      </node>
+      <node id="Canking56" label="Canking56">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="weighted degree" value="437.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.13843005666165928"/>
+          <attvalue for="pageranks" value="0.00782609091812967"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="441.40652" y="-218.74858"/>
+        <viz:color r="253" g="239" b="216"/>
+      </node>
+      <node id="Peykbot" label="Peykbot">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="498.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="12"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.6026982215068085"/>
+          <attvalue for="pageranks" value="0.034015218989390014"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="462.36066" y="282.3797"/>
+        <viz:color r="253" g="239" b="216"/>
+      </node>
+      <node id="AlexandreManette" label="AlexandreManette">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="1069.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.08023157938208285"/>
+          <attvalue for="pageranks" value="0.007831312609380301"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="468.4546" y="378.30356"/>
+        <viz:color r="253" g="238" b="214"/>
+      </node>
+      <node id="BSRF" label="BSRF">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="171.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.10218059815123876"/>
+          <attvalue for="pageranks" value="0.007651857247915925"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="445.7334" y="-21.10439"/>
+        <viz:color r="253" g="239" b="216" a="0.99607843"/>
+      </node>
+      <node id="CommonsDelinker" label="CommonsDelinker">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="957.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.323663830318221"/>
+          <attvalue for="pageranks" value="0.015286679976970466"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="437.28445" y="-405.4007"/>
+        <viz:color r="253" g="238" b="215"/>
+      </node>
+      <node id="İdeolog21" label="İdeolog21">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="weighted degree" value="146.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.30583506013768674"/>
+          <attvalue for="pageranks" value="0.015538928745063458"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="460.70224" y="196.35678"/>
+        <viz:color r="253" g="239" b="216"/>
+      </node>
+      <node id="BurakOtto" label="BurakOtto">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="1208.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.2239658796195781"/>
+          <attvalue for="pageranks" value="0.010181815504157832"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="441.12354" y="-477.34894"/>
+        <viz:color r="253" g="238" b="214"/>
+      </node>
+      <node id="Vitruvian" label="Vitruvian">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="120.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.1786004496451799"/>
+          <attvalue for="pageranks" value="0.007656876981522703"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="438.48285" y="-322.43005"/>
+        <viz:color r="253" g="239" b="216" a="0.99607843"/>
+      </node>
+      <node id="Deepeconomist" label="Deepeconomist">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="657.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.11259870929643123"/>
+          <attvalue for="pageranks" value="0.005184996548558149"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="441.1306" y="-499.05893"/>
+        <viz:color r="253" g="239" b="215"/>
+      </node>
+      <node id="Jamiryo" label="Jamiryo">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="709.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.20161407278359408"/>
+          <attvalue for="pageranks" value="0.007588275691106662"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="461.97168" y="151.0492"/>
+        <viz:color r="253" g="238" b="215"/>
+      </node>
+      <node id="HakanIST" label="HakanIST">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="606.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.11259870929643123"/>
+          <attvalue for="pageranks" value="0.005184996548558149"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="441.2338" y="-524.8027"/>
+        <viz:color r="253" g="239" b="215"/>
+      </node>
+      <node id="Vanished user1516" label="Vanished user1516">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="78.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.2239658796195781"/>
+          <attvalue for="pageranks" value="0.010181815504157832"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="441.697" y="-242.79778"/>
+        <viz:color r="253" g="239" b="216"/>
+      </node>
+      <node id="Brhmsrk" label="Brhmsrk">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="248.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.11259870929643123"/>
+          <attvalue for="pageranks" value="0.005184996548558149"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="437.71655" y="-451.3402"/>
+        <viz:color r="253" g="239" b="216"/>
+      </node>
+      <node id="Anyela23" label="Anyela23">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="1"/>
+          <attvalue for="weighted degree" value="73.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.26513316567974665"/>
+          <attvalue for="pageranks" value="0.010099370245519643"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="468.80176" y="425.80814"/>
+        <viz:color r="253" g="239" b="216"/>
+      </node>
+      <node id="Pragdon" label="Pragdon">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="weighted degree" value="135.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.2421195425413323"/>
+          <attvalue for="pageranks" value="0.010167971535935684"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="440.88358" y="-294.4889"/>
+        <viz:color r="253" g="239" b="216" a="0.99607843"/>
+      </node>
+      <node id="Teacher0691" label="Teacher0691">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="363.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.2421195425413323"/>
+          <attvalue for="pageranks" value="0.010167971535935684"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="438.56433" y="-348.43018"/>
+        <viz:color r="253" g="239" b="216"/>
+      </node>
+      <node id="Diyot" label="Diyot">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="3"/>
+          <attvalue for="weighted degree" value="47.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.04209939950032674"/>
+          <attvalue for="pageranks" value="0.005278421156703227"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="441.91663" y="-197.54904"/>
+        <viz:color r="254" g="240" b="217"/>
+      </node>
+      <node id="Mrtekartal" label="Mrtekartal">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="4"/>
+          <attvalue for="weighted degree" value="2770.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.03827841612586565"/>
+          <attvalue for="pageranks" value="0.0053032100651632386"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="447.62308" y="-94.758835"/>
+        <viz:color r="253" g="235" b="211"/>
+      </node>
+      <node id="Ahmet Turhan" label="Ahmet Turhan">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="0"/>
+          <attvalue for="weighted degree" value="1093.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.06351909289615254"/>
+          <attvalue for="pageranks" value="0.005097301450964708"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="451.54663" y="101.06233"/>
+        <viz:color r="253" g="238" b="214"/>
+      </node>
+      <node id="O casus belli" label="O casus belli">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+          <attvalue for="modularity_class" value="2"/>
+          <attvalue for="weighted degree" value="606.0"/>
+          <attvalue for="stat_inf_class" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="clustering" value="0.0"/>
+          <attvalue for="triangles" value="0"/>
+          <attvalue for="eigencentrality" value="0.033800569633011576"/>
+          <attvalue for="pageranks" value="0.005347652276857297"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="462.5076" y="481.0688"/>
+        <viz:color r="253" g="239" b="215"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Kibele" target="Recep_Tayyip_Erdoğan" weight="7918.0">
+        <viz:color r="184" g="226" b="217"/>
+        <attvalues>
+          <attvalue for="1" value="12"/>
+        </attvalues>
+      </edge>
+      <edge id="1" source="Kibele" target="Berat_Albayrak" weight="180.0">
+        <viz:color r="235" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="2" source="Kibele" target="Binali_Yıldırım" weight="383.0">
+        <viz:color r="234" g="247" b="249"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="3" source="Kibele" target="Kemal_Kılıçdaroğlu" weight="2424.0">
+        <viz:color r="220" g="241" b="240"/>
+        <attvalues>
+          <attvalue for="1" value="6"/>
+        </attvalues>
+      </edge>
+      <edge id="4" source="Kibele" target="Selahattin_Demirtaş" weight="64.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="5" source="Recep_Tayyip_Erdoğan" target="GurayKant" weight="477.0">
+        <viz:color r="233" g="246" b="249"/>
+        <attvalues>
+          <attvalue for="1" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="6" source="Recep_Tayyip_Erdoğan" target="Bjelica" weight="2771.0">
+        <viz:color r="218" g="240" b="239" a="0.99607843"/>
+        <attvalues>
+          <attvalue for="1" value="7"/>
+        </attvalues>
+      </edge>
+      <edge id="7" source="Recep_Tayyip_Erdoğan" target="Nanahuatl" weight="1741.0">
+        <viz:color r="225" g="243" b="243"/>
+        <attvalues>
+          <attvalue for="1" value="9"/>
+        </attvalues>
+      </edge>
+      <edge id="8" source="Recep_Tayyip_Erdoğan" target="Niveles" weight="125.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="9" source="Recep_Tayyip_Erdoğan" target="Yakamoz51" weight="7178.0">
+        <viz:color r="189" g="228" b="220"/>
+        <attvalues>
+          <attvalue for="1" value="13"/>
+        </attvalues>
+      </edge>
+      <edge id="10" source="Recep_Tayyip_Erdoğan" target="Adem" weight="5772.0">
+        <viz:color r="198" g="232" b="226"/>
+        <attvalues>
+          <attvalue for="1" value="7"/>
+        </attvalues>
+      </edge>
+      <edge id="11" source="Recep_Tayyip_Erdoğan" target="MustafaKurt" weight="15523.0">
+        <viz:color r="133" g="206" b="184"/>
+        <attvalues>
+          <attvalue for="1" value="13"/>
+        </attvalues>
+      </edge>
+      <edge id="12" source="Recep_Tayyip_Erdoğan" target="Ahmet Deniz Zarıçlar" weight="459.0">
+        <viz:color r="234" g="246" b="249"/>
+        <attvalues>
+          <attvalue for="1" value="6"/>
+        </attvalues>
+      </edge>
+      <edge id="13" source="Recep_Tayyip_Erdoğan" target="Vikiçizer" weight="93.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="14" source="Recep_Tayyip_Erdoğan" target="Superyetkin" weight="43.0">
+        <viz:color r="236" g="247" b="250" a="0.99607843"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="15" source="Recep_Tayyip_Erdoğan" target="Refrenantem" weight="69.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="3"/>
+        </attvalues>
+      </edge>
+      <edge id="16" source="Recep_Tayyip_Erdoğan" target="Dr. Coal" weight="26.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="17" source="Recep_Tayyip_Erdoğan" target="MHIRM" weight="1939.0">
+        <viz:color r="224" g="242" b="242"/>
+        <attvalues>
+          <attvalue for="1" value="3"/>
+        </attvalues>
+      </edge>
+      <edge id="18" source="Recep_Tayyip_Erdoğan" target="Reddewil23" weight="102.0">
+        <viz:color r="236" g="247" b="250" a="0.99607843"/>
+        <attvalues>
+          <attvalue for="1" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="19" source="Recep_Tayyip_Erdoğan" target="Merhabaviki" weight="82.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="4"/>
+        </attvalues>
+      </edge>
+      <edge id="20" source="Recep_Tayyip_Erdoğan" target="OutsiderKK" weight="2026.0">
+        <viz:color r="223" g="242" b="242"/>
+        <attvalues>
+          <attvalue for="1" value="3"/>
+        </attvalues>
+      </edge>
+      <edge id="21" source="Recep_Tayyip_Erdoğan" target="Temel53" weight="1020.0">
+        <viz:color r="230" g="245" b="246"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="22" source="Recep_Tayyip_Erdoğan" target="YBot" weight="15618.0">
+        <viz:color r="133" g="206" b="184"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="23" source="Recep_Tayyip_Erdoğan" target="Hiroşi" weight="6496.0">
+        <viz:color r="193" g="230" b="223"/>
+        <attvalues>
+          <attvalue for="1" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="24" source="Recep_Tayyip_Erdoğan" target="Hakanp" weight="126.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="25" source="Recep_Tayyip_Erdoğan" target="Furkan" weight="50.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="3"/>
+        </attvalues>
+      </edge>
+      <edge id="26" source="Recep_Tayyip_Erdoğan" target="Canking56" weight="425.0">
+        <viz:color r="234" g="246" b="249"/>
+        <attvalues>
+          <attvalue for="1" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="27" source="Berat_Albayrak" target="Adem" weight="37.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="28" source="Berat_Albayrak" target="MustafaKurt" weight="647.0">
+        <viz:color r="232" g="246" b="248"/>
+        <attvalues>
+          <attvalue for="1" value="4"/>
+        </attvalues>
+      </edge>
+      <edge id="29" source="Berat_Albayrak" target="Ahmet Deniz Zarıçlar" weight="91.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="30" source="Berat_Albayrak" target="Hiroşi" weight="86.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="31" source="Berat_Albayrak" target="Hakanp" weight="258.0">
+        <viz:color r="235" g="247" b="249"/>
+        <attvalues>
+          <attvalue for="1" value="3"/>
+        </attvalues>
+      </edge>
+      <edge id="32" source="Berat_Albayrak" target="AlexandreManette" weight="306.0">
+        <viz:color r="235" g="247" b="249"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="33" source="Binali_Yıldırım" target="GurayKant" weight="18.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="34" source="Binali_Yıldırım" target="Bjelica" weight="3319.0">
+        <viz:color r="215" g="239" b="236"/>
+        <attvalues>
+          <attvalue for="1" value="14"/>
+        </attvalues>
+      </edge>
+      <edge id="35" source="Binali_Yıldırım" target="Niveles" weight="636.0">
+        <viz:color r="232" g="246" b="248"/>
+        <attvalues>
+          <attvalue for="1" value="3"/>
+        </attvalues>
+      </edge>
+      <edge id="36" source="Binali_Yıldırım" target="Yakamoz51" weight="817.0">
+        <viz:color r="231" g="245" b="247"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="37" source="Binali_Yıldırım" target="MustafaKurt" weight="40656.0">
+        <viz:color r="0" g="109" b="44"/>
+        <attvalues>
+          <attvalue for="1" value="62"/>
+        </attvalues>
+      </edge>
+      <edge id="38" source="Binali_Yıldırım" target="Ahmet Deniz Zarıçlar" weight="39.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="39" source="Binali_Yıldırım" target="Vikiçizer" weight="413.0">
+        <viz:color r="234" g="246" b="249" a="0.99607843"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="40" source="Binali_Yıldırım" target="Refrenantem" weight="123.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="3"/>
+        </attvalues>
+      </edge>
+      <edge id="41" source="Binali_Yıldırım" target="Dr. Coal" weight="569.0">
+        <viz:color r="233" g="246" b="248"/>
+        <attvalues>
+          <attvalue for="1" value="4"/>
+        </attvalues>
+      </edge>
+      <edge id="42" source="Binali_Yıldırım" target="Merhabaviki" weight="585.0">
+        <viz:color r="233" g="246" b="248"/>
+        <attvalues>
+          <attvalue for="1" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="43" source="Binali_Yıldırım" target="Temel53" weight="1032.0">
+        <viz:color r="230" g="245" b="246"/>
+        <attvalues>
+          <attvalue for="1" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="44" source="Binali_Yıldırım" target="YBot" weight="153.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="45" source="Binali_Yıldırım" target="Hakanp" weight="1804.0">
+        <viz:color r="225" g="243" b="243"/>
+        <attvalues>
+          <attvalue for="1" value="13"/>
+        </attvalues>
+      </edge>
+      <edge id="46" source="Binali_Yıldırım" target="Furkan" weight="627.0">
+        <viz:color r="232" g="246" b="248"/>
+        <attvalues>
+          <attvalue for="1" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="47" source="Binali_Yıldırım" target="Peykbot" weight="116.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="48" source="Binali_Yıldırım" target="CommonsDelinker" weight="271.0">
+        <viz:color r="235" g="247" b="249" a="0.99607843"/>
+        <attvalues>
+          <attvalue for="1" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="49" source="Binali_Yıldırım" target="İdeolog21" weight="39.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="50" source="Binali_Yıldırım" target="BurakOtto" weight="872.0">
+        <viz:color r="231" g="245" b="247"/>
+        <attvalues>
+          <attvalue for="1" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="51" source="Binali_Yıldırım" target="Vitruvian" weight="103.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="52" source="Binali_Yıldırım" target="Deepeconomist" weight="657.0">
+        <viz:color r="232" g="246" b="248" a="0.99607843"/>
+        <attvalues>
+          <attvalue for="1" value="8"/>
+        </attvalues>
+      </edge>
+      <edge id="53" source="Binali_Yıldırım" target="Jamiryo" weight="552.0">
+        <viz:color r="233" g="246" b="248"/>
+        <attvalues>
+          <attvalue for="1" value="4"/>
+        </attvalues>
+      </edge>
+      <edge id="54" source="Binali_Yıldırım" target="HakanIST" weight="606.0">
+        <viz:color r="233" g="246" b="248"/>
+        <attvalues>
+          <attvalue for="1" value="4"/>
+        </attvalues>
+      </edge>
+      <edge id="55" source="Binali_Yıldırım" target="Vanished user1516" weight="26.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="56" source="Binali_Yıldırım" target="Brhmsrk" weight="248.0">
+        <viz:color r="235" g="247" b="249"/>
+        <attvalues>
+          <attvalue for="1" value="4"/>
+        </attvalues>
+      </edge>
+      <edge id="57" source="Binali_Yıldırım" target="Anyela23" weight="24.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="58" source="Binali_Yıldırım" target="Pragdon" weight="21.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="59" source="Binali_Yıldırım" target="Teacher0691" weight="279.0">
+        <viz:color r="235" g="247" b="249"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="60" source="Kemal_Kılıçdaroğlu" target="Bjelica" weight="2547.0">
+        <viz:color r="220" g="241" b="240"/>
+        <attvalues>
+          <attvalue for="1" value="6"/>
+        </attvalues>
+      </edge>
+      <edge id="61" source="Kemal_Kılıçdaroğlu" target="Adem" weight="436.0">
+        <viz:color r="234" g="246" b="249"/>
+        <attvalues>
+          <attvalue for="1" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="62" source="Kemal_Kılıçdaroğlu" target="MustafaKurt" weight="4659.0">
+        <viz:color r="206" g="235" b="231"/>
+        <attvalues>
+          <attvalue for="1" value="9"/>
+        </attvalues>
+      </edge>
+      <edge id="63" source="Kemal_Kılıçdaroğlu" target="Ahmet Deniz Zarıçlar" weight="67.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="64" source="Kemal_Kılıçdaroğlu" target="YBot" weight="182.0">
+        <viz:color r="235" g="247" b="250" a="0.99607843"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="65" source="Kemal_Kılıçdaroğlu" target="Peykbot" weight="28.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="66" source="Kemal_Kılıçdaroğlu" target="BSRF" weight="115.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="67" source="Kemal_Kılıçdaroğlu" target="CommonsDelinker" weight="333.0">
+        <viz:color r="234" g="247" b="249" a="0.99607843"/>
+        <attvalues>
+          <attvalue for="1" value="3"/>
+        </attvalues>
+      </edge>
+      <edge id="68" source="Kemal_Kılıçdaroğlu" target="BurakOtto" weight="28.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="69" source="Kemal_Kılıçdaroğlu" target="Vitruvian" weight="17.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="70" source="Kemal_Kılıçdaroğlu" target="Vanished user1516" weight="27.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="71" source="Kemal_Kılıçdaroğlu" target="Pragdon" weight="22.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="72" source="Kemal_Kılıçdaroğlu" target="Teacher0691" weight="67.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="73" source="Selahattin_Demirtaş" target="Bjelica" weight="117.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="74" source="Selahattin_Demirtaş" target="Adem" weight="327.0">
+        <viz:color r="234" g="247" b="249"/>
+        <attvalues>
+          <attvalue for="1" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="75" source="Selahattin_Demirtaş" target="MustafaKurt" weight="721.0">
+        <viz:color r="232" g="246" b="247"/>
+        <attvalues>
+          <attvalue for="1" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="76" source="Selahattin_Demirtaş" target="Merhabaviki" weight="27.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="77" source="Selahattin_Demirtaş" target="YBot" weight="774.0">
+        <viz:color r="231" g="245" b="247"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="78" source="Selahattin_Demirtaş" target="Hiroşi" weight="1289.0">
+        <viz:color r="228" g="244" b="245"/>
+        <attvalues>
+          <attvalue for="1" value="8"/>
+        </attvalues>
+      </edge>
+      <edge id="79" source="Selahattin_Demirtaş" target="Peykbot" weight="15.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="80" source="Selahattin_Demirtaş" target="CommonsDelinker" weight="271.0">
+        <viz:color r="235" g="247" b="249" a="0.99607843"/>
+        <attvalues>
+          <attvalue for="1" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="81" source="Selahattin_Demirtaş" target="Anyela23" weight="14.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="82" source="Selahattin_Demirtaş" target="Pragdon" weight="92.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="83" source="Selahattin_Demirtaş" target="Teacher0691" weight="17.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="84" source="Selahattin_Demirtaş" target="Ahmet Turhan" weight="1093.0">
+        <viz:color r="229" g="245" b="246"/>
+        <attvalues>
+          <attvalue for="1" value="10"/>
+        </attvalues>
+      </edge>
+      <edge id="85" source="Bjelica" target="Ahmet_Davutoğlu" weight="28.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="86" source="Ahmet_Davutoğlu" target="Niveles" weight="212.0">
+        <viz:color r="235" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="87" source="Ahmet_Davutoğlu" target="Yakamoz51" weight="11113.0">
+        <viz:color r="163" g="218" b="203"/>
+        <attvalues>
+          <attvalue for="1" value="16"/>
+        </attvalues>
+      </edge>
+      <edge id="88" source="Ahmet_Davutoğlu" target="Adem" weight="398.0">
+        <viz:color r="234" g="246" b="249"/>
+        <attvalues>
+          <attvalue for="1" value="8"/>
+        </attvalues>
+      </edge>
+      <edge id="89" source="Ahmet_Davutoğlu" target="MustafaKurt" weight="466.0">
+        <viz:color r="233" g="246" b="249" a="0.99607843"/>
+        <attvalues>
+          <attvalue for="1" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="90" source="Ahmet_Davutoğlu" target="Ahmet Deniz Zarıçlar" weight="58.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="91" source="Ahmet_Davutoğlu" target="Vikiçizer" weight="867.0">
+        <viz:color r="231" g="245" b="247" a="0.99607843"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="92" source="Ahmet_Davutoğlu" target="Superyetkin" weight="807.0">
+        <viz:color r="231" g="245" b="247"/>
+        <attvalues>
+          <attvalue for="1" value="3"/>
+        </attvalues>
+      </edge>
+      <edge id="93" source="Ahmet_Davutoğlu" target="Dr. Coal" weight="46.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="94" source="Ahmet_Davutoğlu" target="Merhabaviki" weight="74.0">
+        <viz:color r="236" g="247" b="250" a="0.99607843"/>
+        <attvalues>
+          <attvalue for="1" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="95" source="Ahmet_Davutoğlu" target="Temel53" weight="775.0">
+        <viz:color r="231" g="245" b="247"/>
+        <attvalues>
+          <attvalue for="1" value="3"/>
+        </attvalues>
+      </edge>
+      <edge id="96" source="Ahmet_Davutoğlu" target="YBot" weight="2288.0">
+        <viz:color r="221" g="241" b="241"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="97" source="Ahmet_Davutoğlu" target="Hiroşi" weight="63.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="98" source="Ahmet_Davutoğlu" target="Hakanp" weight="16.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="99" source="Ahmet_Davutoğlu" target="Peykbot" weight="43.0">
+        <viz:color r="236" g="247" b="250" a="0.99607843"/>
+        <attvalues>
+          <attvalue for="1" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="100" source="Ahmet_Davutoğlu" target="İdeolog21" weight="17.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="101" source="Ahmet_Davutoğlu" target="Jamiryo" weight="157.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="3"/>
+        </attvalues>
+      </edge>
+      <edge id="102" source="Ahmet_Davutoğlu" target="Anyela23" weight="35.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="103" source="Niveles" target="Efkan_Âlâ" weight="27.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="104" source="Efkan_Âlâ" target="Yakamoz51" weight="255.0">
+        <viz:color r="235" g="247" b="249"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="105" source="Efkan_Âlâ" target="MustafaKurt" weight="2128.0">
+        <viz:color r="222" g="242" b="241"/>
+        <attvalues>
+          <attvalue for="1" value="6"/>
+        </attvalues>
+      </edge>
+      <edge id="106" source="Efkan_Âlâ" target="Hakanp" weight="21.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="107" source="Efkan_Âlâ" target="Peykbot" weight="32.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="108" source="Efkan_Âlâ" target="BSRF" weight="56.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="109" source="Efkan_Âlâ" target="CommonsDelinker" weight="16.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="110" source="Adem" target="Meral_Akşener" weight="318.0">
+        <viz:color r="234" g="247" b="249"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="111" source="Adem" target="Devlet_Bahçeli" weight="84.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="3"/>
+        </attvalues>
+      </edge>
+      <edge id="112" source="Adem" target="Pervin_Buldan" weight="27.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="113" source="Adem" target="Ali_Babacan" weight="78.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="114" source="Meral_Akşener" target="MustafaKurt" weight="5392.0">
+        <viz:color r="201" g="233" b="227"/>
+        <attvalues>
+          <attvalue for="1" value="10"/>
+        </attvalues>
+      </edge>
+      <edge id="115" source="Meral_Akşener" target="Vikiçizer" weight="75.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="116" source="Meral_Akşener" target="YBot" weight="179.0">
+        <viz:color r="235" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="117" source="Meral_Akşener" target="Hiroşi" weight="36.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="118" source="Meral_Akşener" target="Peykbot" weight="24.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="119" source="Meral_Akşener" target="AlexandreManette" weight="763.0">
+        <viz:color r="232" g="246" b="247"/>
+        <attvalues>
+          <attvalue for="1" value="3"/>
+        </attvalues>
+      </edge>
+      <edge id="120" source="Meral_Akşener" target="Diyot" weight="47.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="3"/>
+        </attvalues>
+      </edge>
+      <edge id="121" source="Devlet_Bahçeli" target="MustafaKurt" weight="39723.0">
+        <viz:color r="4" g="112" b="49"/>
+        <attvalues>
+          <attvalue for="1" value="62"/>
+        </attvalues>
+      </edge>
+      <edge id="122" source="Devlet_Bahçeli" target="Ahmet Deniz Zarıçlar" weight="14.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="123" source="Devlet_Bahçeli" target="Canking56" weight="12.0">
+        <viz:color r="236" g="247" b="250" a="0.99607843"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="124" source="Devlet_Bahçeli" target="Peykbot" weight="32.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="125" source="Devlet_Bahçeli" target="CommonsDelinker" weight="66.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="126" source="Devlet_Bahçeli" target="İdeolog21" weight="16.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="127" source="Devlet_Bahçeli" target="BurakOtto" weight="308.0">
+        <viz:color r="235" g="247" b="249"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="128" source="Devlet_Bahçeli" target="Vanished user1516" weight="25.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="129" source="Pervin_Buldan" target="YBot" weight="134.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="130" source="Pervin_Buldan" target="Peykbot" weight="32.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="131" source="Pervin_Buldan" target="İdeolog21" weight="60.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="132" source="Ali_Babacan" target="Ahmet Deniz Zarıçlar" weight="78.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="133" source="Ali_Babacan" target="Vikiçizer" weight="31.0">
+        <viz:color r="236" g="247" b="250" a="0.99607843"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="134" source="Ali_Babacan" target="Refrenantem" weight="303.0">
+        <viz:color r="235" g="247" b="249"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="135" source="Ali_Babacan" target="Peykbot" weight="12.0">
+        <viz:color r="236" g="247" b="250" a="0.99607843"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="136" source="Ali_Babacan" target="İdeolog21" weight="14.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="137" source="Ali_Babacan" target="O casus belli" weight="606.0">
+        <viz:color r="233" g="246" b="248"/>
+        <attvalues>
+          <attvalue for="1" value="3"/>
+        </attvalues>
+      </edge>
+      <edge id="138" source="MustafaKurt" target="Mehmet_Şimşek" weight="9928.0">
+        <viz:color r="171" g="221" b="208" a="0.99607843"/>
+        <attvalues>
+          <attvalue for="1" value="25"/>
+        </attvalues>
+      </edge>
+      <edge id="139" source="MustafaKurt" target="Süleyman_Soylu" weight="333.0">
+        <viz:color r="234" g="247" b="249" a="0.99607843"/>
+        <attvalues>
+          <attvalue for="1" value="3"/>
+        </attvalues>
+      </edge>
+      <edge id="140" source="MustafaKurt" target="Özgür_Özel" weight="1211.0">
+        <viz:color r="229" g="244" b="245"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="141" source="MustafaKurt" target="Koray_Aydın" weight="2287.0">
+        <viz:color r="221" g="241" b="241"/>
+        <attvalues>
+          <attvalue for="1" value="4"/>
+        </attvalues>
+      </edge>
+      <edge id="142" source="MustafaKurt" target="Sırrı_Süreyya_Önder" weight="11.0">
+        <viz:color r="237" g="248" b="251"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="143" source="Mehmet_Şimşek" target="Hakanp" weight="42.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="144" source="Mehmet_Şimşek" target="Peykbot" weight="100.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="3"/>
+        </attvalues>
+      </edge>
+      <edge id="145" source="Süleyman_Soylu" target="Temel53" weight="53.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="146" source="Süleyman_Soylu" target="YBot" weight="206.0">
+        <viz:color r="235" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="147" source="Süleyman_Soylu" target="Hakanp" weight="21.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="148" source="Koray_Aydın" target="Ahmet Deniz Zarıçlar" weight="16.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="149" source="Koray_Aydın" target="Vikiçizer" weight="90.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="150" source="Koray_Aydın" target="Dr. Coal" weight="22.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="151" source="Koray_Aydın" target="Hiroşi" weight="16.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="152" source="Koray_Aydın" target="Peykbot" weight="32.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="153" source="Koray_Aydın" target="Mrtekartal" weight="2770.0">
+        <viz:color r="218" g="240" b="239"/>
+        <attvalues>
+          <attvalue for="1" value="4"/>
+        </attvalues>
+      </edge>
+      <edge id="154" source="Sırrı_Süreyya_Önder" target="YBot" weight="351.0">
+        <viz:color r="234" g="247" b="249" a="0.99607843"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="155" source="Sırrı_Süreyya_Önder" target="Hiroşi" weight="11.0">
+        <viz:color r="237" g="248" b="251"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="156" source="Sırrı_Süreyya_Önder" target="Peykbot" weight="32.0">
+        <viz:color r="236" g="247" b="250"/>
+        <attvalues>
+          <attvalue for="1" value="1"/>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

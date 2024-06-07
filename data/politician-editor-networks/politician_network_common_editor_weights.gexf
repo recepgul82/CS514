@@ -1,0 +1,614 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2024-06-05">
+    <creator>Gephi 0.10.1</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="party" type="string"/>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="Recep_Tayyip_Erdoğan" label="Recep_Tayyip_Erdoğan">
+        <attvalues>
+          <attvalue for="0" value="AKP"/>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-297.1089" y="-223.47095"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="Murat_Kurum" label="Murat_Kurum">
+        <attvalues>
+          <attvalue for="0" value="AKP"/>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="465.70157" y="-379.37143"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="Mehmet_Şimşek" label="Mehmet_Şimşek">
+        <attvalues>
+          <attvalue for="0" value="AKP"/>
+          <attvalue for="modularity_class" value="12"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-224.5302" y="-541.8132"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="Süleyman_Soylu" label="Süleyman_Soylu">
+        <attvalues>
+          <attvalue for="0" value="AKP"/>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-432.7493" y="-417.62064"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="Berat_Albayrak" label="Berat_Albayrak">
+        <attvalues>
+          <attvalue for="0" value="AKP"/>
+          <attvalue for="modularity_class" value="12"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="161.93547" y="-346.60138"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="Efkan_Âlâ" label="Efkan_Âlâ">
+        <attvalues>
+          <attvalue for="0" value="AKP"/>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-551.4878" y="-190.47191"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="Binali_Yıldırım" label="Binali_Yıldırım">
+        <attvalues>
+          <attvalue for="0" value="AKP"/>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-382.32935" y="31.217966"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="Özgür_Özel" label="Özgür_Özel">
+        <attvalues>
+          <attvalue for="0" value="CHP"/>
+          <attvalue for="modularity_class" value="12"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-83.62163" y="-331.55212"/>
+        <viz:color r="76" g="70" b="62"/>
+      </node>
+      <node id="Mansur_Yavaş" label="Mansur_Yavaş">
+        <attvalues>
+          <attvalue for="0" value="CHP"/>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="269.17148" y="-554.79504"/>
+        <viz:color r="76" g="70" b="62"/>
+      </node>
+      <node id="Kemal_Kılıçdaroğlu" label="Kemal_Kılıçdaroğlu">
+        <attvalues>
+          <attvalue for="0" value="CHP"/>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-146.78578" y="-35.477207"/>
+        <viz:color r="76" g="70" b="62"/>
+      </node>
+      <node id="Ekrem_İmamoğlu" label="Ekrem_İmamoğlu">
+        <attvalues>
+          <attvalue for="0" value="CHP"/>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-613.72833" y="63.709045"/>
+        <viz:color r="76" g="70" b="62"/>
+      </node>
+      <node id="Meral_Akşener" label="Meral_Akşener">
+        <attvalues>
+          <attvalue for="0" value="İYİ"/>
+          <attvalue for="modularity_class" value="12"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="333.3848" y="-157.98291"/>
+        <viz:color r="255" g="136" b="5"/>
+      </node>
+      <node id="Uğur_Poyraz" label="Uğur_Poyraz">
+        <attvalues>
+          <attvalue for="0" value="İYİ"/>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-128.99919" y="591.1649"/>
+        <viz:color r="255" g="136" b="5"/>
+      </node>
+      <node id="Kürşad_Zorlu" label="Kürşad_Zorlu">
+        <attvalues>
+          <attvalue for="0" value="İYİ"/>
+          <attvalue for="modularity_class" value="6"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-512.34125" y="302.87186"/>
+        <viz:color r="255" g="136" b="5"/>
+      </node>
+      <node id="Koray_Aydın" label="Koray_Aydın">
+        <attvalues>
+          <attvalue for="0" value="İYİ"/>
+          <attvalue for="modularity_class" value="12"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="314.6728" y="76.08156"/>
+        <viz:color r="255" g="136" b="5"/>
+      </node>
+      <node id="Devlet_Bahçeli" label="Devlet_Bahçeli">
+        <attvalues>
+          <attvalue for="0" value="MHP"/>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-248.75739" y="230.55331"/>
+        <viz:color r="115" g="192" b="0"/>
+      </node>
+      <node id="Edip_Semih_Yalçın" label="Edip_Semih_Yalçın">
+        <attvalues>
+          <attvalue for="0" value="MHP"/>
+          <attvalue for="modularity_class" value="7"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="500.09613" y="307.47577"/>
+        <viz:color r="115" g="192" b="0"/>
+      </node>
+      <node id="Feti_Yıldız" label="Feti_Yıldız">
+        <attvalues>
+          <attvalue for="0" value="MHP"/>
+          <attvalue for="modularity_class" value="8"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-346.28775" y="480.61792"/>
+        <viz:color r="115" g="192" b="0"/>
+      </node>
+      <node id="Mustafa_Kalaycı" label="Mustafa_Kalaycı">
+        <attvalues>
+          <attvalue for="0" value="MHP"/>
+          <attvalue for="modularity_class" value="9"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="347.6591" y="494.09595"/>
+        <viz:color r="115" g="192" b="0"/>
+      </node>
+      <node id="İsmail_Özdemir" label="İsmail_Özdemir">
+        <attvalues>
+          <attvalue for="0" value="MHP"/>
+          <attvalue for="modularity_class" value="10"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="119.75653" y="577.928"/>
+        <viz:color r="115" g="192" b="0"/>
+      </node>
+      <node id="Pervin_Buldan" label="Pervin_Buldan">
+        <attvalues>
+          <attvalue for="0" value="DEM"/>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="206.18861" y="289.53543"/>
+        <viz:color r="0" g="196" b="255"/>
+      </node>
+      <node id="Tülay_Hatimoğulları_Oruç" label="Tülay_Hatimoğulları_Oruç">
+        <attvalues>
+          <attvalue for="0" value="DEM"/>
+          <attvalue for="modularity_class" value="11"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="583.0804" y="91.1262"/>
+        <viz:color r="0" g="196" b="255"/>
+      </node>
+      <node id="Selahattin_Demirtaş" label="Selahattin_Demirtaş">
+        <attvalues>
+          <attvalue for="0" value="DEM"/>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="88.3461" y="-112.13549"/>
+        <viz:color r="0" g="196" b="255"/>
+      </node>
+      <node id="Sırrı_Süreyya_Önder" label="Sırrı_Süreyya_Önder">
+        <attvalues>
+          <attvalue for="0" value="DEM"/>
+          <attvalue for="modularity_class" value="12"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="11.192062" y="-581.4088"/>
+        <viz:color r="0" g="196" b="255"/>
+      </node>
+      <node id="Ahmet_Davutoğlu" label="Ahmet_Davutoğlu">
+        <attvalues>
+          <attvalue for="0" value="GEL"/>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="30.07086" y="124.97755"/>
+        <viz:color r="211" g="179" b="176"/>
+      </node>
+      <node id="Ali_Babacan" label="Ali_Babacan">
+        <attvalues>
+          <attvalue for="0" value="DEVA"/>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-46.72265" y="358.99655"/>
+        <viz:color r="0" g="189" b="148"/>
+      </node>
+      <node id="Fatih_Erbakan" label="Fatih_Erbakan">
+        <attvalues>
+          <attvalue for="0" value="YRP"/>
+          <attvalue for="modularity_class" value="13"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="584.1937" y="-147.65099"/>
+        <viz:color r="255" g="85" b="132"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Recep_Tayyip_Erdoğan" target="Mehmet_Şimşek" weight="2.0">
+        <viz:color r="217" g="240" b="238"/>
+      </edge>
+      <edge id="1" source="Recep_Tayyip_Erdoğan" target="Süleyman_Soylu" weight="4.0">
+        <viz:color r="179" g="224" b="213"/>
+      </edge>
+      <edge id="2" source="Recep_Tayyip_Erdoğan" target="Berat_Albayrak" weight="6.0">
+        <viz:color r="140" g="209" b="188"/>
+      </edge>
+      <edge id="3" source="Recep_Tayyip_Erdoğan" target="Efkan_Âlâ" weight="4.0">
+        <viz:color r="179" g="224" b="213"/>
+      </edge>
+      <edge id="4" source="Recep_Tayyip_Erdoğan" target="Binali_Yıldırım" weight="15.0">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="5" source="Recep_Tayyip_Erdoğan" target="Özgür_Özel">
+        <viz:color r="237" g="248" b="251"/>
+      </edge>
+      <edge id="6" source="Recep_Tayyip_Erdoğan" target="Kemal_Kılıçdaroğlu" weight="6.0">
+        <viz:color r="140" g="209" b="188"/>
+      </edge>
+      <edge id="7" source="Recep_Tayyip_Erdoğan" target="Meral_Akşener" weight="5.0">
+        <viz:color r="159" g="217" b="201"/>
+      </edge>
+      <edge id="8" source="Recep_Tayyip_Erdoğan" target="Koray_Aydın" weight="5.0">
+        <viz:color r="159" g="217" b="201"/>
+      </edge>
+      <edge id="9" source="Recep_Tayyip_Erdoğan" target="Devlet_Bahçeli" weight="4.0">
+        <viz:color r="179" g="224" b="213"/>
+      </edge>
+      <edge id="10" source="Recep_Tayyip_Erdoğan" target="Pervin_Buldan" weight="2.0">
+        <viz:color r="217" g="240" b="238"/>
+      </edge>
+      <edge id="11" source="Recep_Tayyip_Erdoğan" target="Selahattin_Demirtaş" weight="7.0">
+        <viz:color r="121" g="201" b="176"/>
+      </edge>
+      <edge id="12" source="Recep_Tayyip_Erdoğan" target="Sırrı_Süreyya_Önder" weight="3.0">
+        <viz:color r="198" g="232" b="226"/>
+      </edge>
+      <edge id="13" source="Recep_Tayyip_Erdoğan" target="Ahmet_Davutoğlu" weight="14.0">
+        <viz:color r="14" g="121" b="61"/>
+      </edge>
+      <edge id="14" source="Recep_Tayyip_Erdoğan" target="Ali_Babacan" weight="4.0">
+        <viz:color r="179" g="224" b="213"/>
+      </edge>
+      <edge id="15" source="Mehmet_Şimşek" target="Süleyman_Soylu" weight="2.0">
+        <viz:color r="217" g="240" b="238"/>
+      </edge>
+      <edge id="16" source="Mehmet_Şimşek" target="Berat_Albayrak" weight="2.0">
+        <viz:color r="217" g="240" b="238"/>
+      </edge>
+      <edge id="17" source="Mehmet_Şimşek" target="Efkan_Âlâ" weight="3.0">
+        <viz:color r="198" g="232" b="226"/>
+      </edge>
+      <edge id="18" source="Mehmet_Şimşek" target="Binali_Yıldırım" weight="3.0">
+        <viz:color r="198" g="232" b="226"/>
+      </edge>
+      <edge id="19" source="Mehmet_Şimşek" target="Özgür_Özel">
+        <viz:color r="237" g="248" b="251"/>
+      </edge>
+      <edge id="20" source="Mehmet_Şimşek" target="Kemal_Kılıçdaroğlu" weight="2.0">
+        <viz:color r="217" g="240" b="238"/>
+      </edge>
+      <edge id="21" source="Mehmet_Şimşek" target="Meral_Akşener" weight="2.0">
+        <viz:color r="217" g="240" b="238"/>
+      </edge>
+      <edge id="22" source="Mehmet_Şimşek" target="Koray_Aydın" weight="2.0">
+        <viz:color r="217" g="240" b="238"/>
+      </edge>
+      <edge id="23" source="Mehmet_Şimşek" target="Devlet_Bahçeli" weight="2.0">
+        <viz:color r="217" g="240" b="238"/>
+      </edge>
+      <edge id="24" source="Mehmet_Şimşek" target="Pervin_Buldan">
+        <viz:color r="237" g="248" b="251"/>
+      </edge>
+      <edge id="25" source="Mehmet_Şimşek" target="Selahattin_Demirtaş" weight="2.0">
+        <viz:color r="217" g="240" b="238"/>
+      </edge>
+      <edge id="26" source="Mehmet_Şimşek" target="Sırrı_Süreyya_Önder" weight="2.0">
+        <viz:color r="217" g="240" b="238"/>
+      </edge>
+      <edge id="27" source="Mehmet_Şimşek" target="Ahmet_Davutoğlu" weight="3.0">
+        <viz:color r="198" g="232" b="226"/>
+      </edge>
+      <edge id="28" source="Mehmet_Şimşek" target="Ali_Babacan">
+        <viz:color r="237" g="248" b="251"/>
+      </edge>
+      <edge id="29" source="Süleyman_Soylu" target="Berat_Albayrak" weight="2.0">
+        <viz:color r="217" g="240" b="238"/>
+      </edge>
+      <edge id="30" source="Süleyman_Soylu" target="Efkan_Âlâ" weight="2.0">
+        <viz:color r="217" g="240" b="238"/>
+      </edge>
+      <edge id="31" source="Süleyman_Soylu" target="Binali_Yıldırım" weight="4.0">
+        <viz:color r="179" g="224" b="213"/>
+      </edge>
+      <edge id="32" source="Süleyman_Soylu" target="Özgür_Özel">
+        <viz:color r="237" g="248" b="251"/>
+      </edge>
+      <edge id="33" source="Süleyman_Soylu" target="Kemal_Kılıçdaroğlu" weight="2.0">
+        <viz:color r="217" g="240" b="238"/>
+      </edge>
+      <edge id="34" source="Süleyman_Soylu" target="Meral_Akşener" weight="2.0">
+        <viz:color r="217" g="240" b="238"/>
+      </edge>
+      <edge id="35" source="Süleyman_Soylu" target="Koray_Aydın">
+        <viz:color r="237" g="248" b="251"/>
+      </edge>
+      <edge id="36" source="Süleyman_Soylu" target="Devlet_Bahçeli">
+        <viz:color r="237" g="248" b="251"/>
+      </edge>
+      <edge id="37" source="Süleyman_Soylu" target="Pervin_Buldan">
+        <viz:color r="237" g="248" b="251"/>
+      </edge>
+      <edge id="38" source="Süleyman_Soylu" target="Selahattin_Demirtaş" weight="2.0">
+        <viz:color r="217" g="240" b="238"/>
+      </edge>
+      <edge id="39" source="Süleyman_Soylu" target="Sırrı_Süreyya_Önder" weight="2.0">
+        <viz:color r="217" g="240" b="238"/>
+      </edge>
+      <edge id="40" source="Süleyman_Soylu" target="Ahmet_Davutoğlu" weight="4.0">
+        <viz:color r="179" g="224" b="213"/>
+      </edge>
+      <edge id="41" source="Berat_Albayrak" target="Efkan_Âlâ" weight="2.0">
+        <viz:color r="217" g="240" b="238"/>
+      </edge>
+      <edge id="42" source="Berat_Albayrak" target="Binali_Yıldırım" weight="4.0">
+        <viz:color r="179" g="224" b="213"/>
+      </edge>
+      <edge id="43" source="Berat_Albayrak" target="Özgür_Özel">
+        <viz:color r="237" g="248" b="251"/>
+      </edge>
+      <edge id="44" source="Berat_Albayrak" target="Kemal_Kılıçdaroğlu" weight="4.0">
+        <viz:color r="179" g="224" b="213"/>
+      </edge>
+      <edge id="45" source="Berat_Albayrak" target="Meral_Akşener" weight="4.0">
+        <viz:color r="179" g="224" b="213"/>
+      </edge>
+      <edge id="46" source="Berat_Albayrak" target="Koray_Aydın" weight="3.0">
+        <viz:color r="198" g="232" b="226"/>
+      </edge>
+      <edge id="47" source="Berat_Albayrak" target="Devlet_Bahçeli" weight="3.0">
+        <viz:color r="198" g="232" b="226"/>
+      </edge>
+      <edge id="48" source="Berat_Albayrak" target="Pervin_Buldan">
+        <viz:color r="237" g="248" b="251"/>
+      </edge>
+      <edge id="49" source="Berat_Albayrak" target="Selahattin_Demirtaş" weight="4.0">
+        <viz:color r="179" g="224" b="213"/>
+      </edge>
+      <edge id="50" source="Berat_Albayrak" target="Sırrı_Süreyya_Önder" weight="2.0">
+        <viz:color r="217" g="240" b="238"/>
+      </edge>
+      <edge id="51" source="Berat_Albayrak" target="Ahmet_Davutoğlu" weight="5.0">
+        <viz:color r="159" g="217" b="201"/>
+      </edge>
+      <edge id="52" source="Berat_Albayrak" target="Ali_Babacan" weight="2.0">
+        <viz:color r="217" g="240" b="238"/>
+      </edge>
+      <edge id="53" source="Efkan_Âlâ" target="Binali_Yıldırım" weight="6.0">
+        <viz:color r="140" g="209" b="188"/>
+      </edge>
+      <edge id="54" source="Efkan_Âlâ" target="Özgür_Özel">
+        <viz:color r="237" g="248" b="251"/>
+      </edge>
+      <edge id="55" source="Efkan_Âlâ" target="Kemal_Kılıçdaroğlu" weight="4.0">
+        <viz:color r="179" g="224" b="213"/>
+      </edge>
+      <edge id="56" source="Efkan_Âlâ" target="Meral_Akşener" weight="2.0">
+        <viz:color r="217" g="240" b="238"/>
+      </edge>
+      <edge id="57" source="Efkan_Âlâ" target="Koray_Aydın" weight="2.0">
+        <viz:color r="217" g="240" b="238"/>
+      </edge>
+      <edge id="58" source="Efkan_Âlâ" target="Devlet_Bahçeli" weight="3.0">
+        <viz:color r="198" g="232" b="226"/>
+      </edge>
+      <edge id="59" source="Efkan_Âlâ" target="Pervin_Buldan">
+        <viz:color r="237" g="248" b="251"/>
+      </edge>
+      <edge id="60" source="Efkan_Âlâ" target="Selahattin_Demirtaş" weight="3.0">
+        <viz:color r="198" g="232" b="226"/>
+      </edge>
+      <edge id="61" source="Efkan_Âlâ" target="Sırrı_Süreyya_Önder" weight="2.0">
+        <viz:color r="217" g="240" b="238"/>
+      </edge>
+      <edge id="62" source="Efkan_Âlâ" target="Ahmet_Davutoğlu" weight="5.0">
+        <viz:color r="159" g="217" b="201"/>
+      </edge>
+      <edge id="63" source="Efkan_Âlâ" target="Ali_Babacan">
+        <viz:color r="237" g="248" b="251"/>
+      </edge>
+      <edge id="64" source="Binali_Yıldırım" target="Özgür_Özel">
+        <viz:color r="237" g="248" b="251"/>
+      </edge>
+      <edge id="65" source="Binali_Yıldırım" target="Kemal_Kılıçdaroğlu" weight="12.0">
+        <viz:color r="43" g="145" b="95"/>
+      </edge>
+      <edge id="66" source="Binali_Yıldırım" target="Meral_Akşener" weight="4.0">
+        <viz:color r="179" g="224" b="213"/>
+      </edge>
+      <edge id="67" source="Binali_Yıldırım" target="Koray_Aydın" weight="5.0">
+        <viz:color r="159" g="217" b="201"/>
+      </edge>
+      <edge id="68" source="Binali_Yıldırım" target="Devlet_Bahçeli" weight="7.0">
+        <viz:color r="121" g="201" b="176"/>
+      </edge>
+      <edge id="69" source="Binali_Yıldırım" target="Pervin_Buldan" weight="3.0">
+        <viz:color r="198" g="232" b="226"/>
+      </edge>
+      <edge id="70" source="Binali_Yıldırım" target="Selahattin_Demirtaş" weight="10.0">
+        <viz:color r="72" g="169" b="129"/>
+      </edge>
+      <edge id="71" source="Binali_Yıldırım" target="Sırrı_Süreyya_Önder" weight="3.0">
+        <viz:color r="198" g="232" b="226"/>
+      </edge>
+      <edge id="72" source="Binali_Yıldırım" target="Ahmet_Davutoğlu" weight="15.0">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="73" source="Binali_Yıldırım" target="Ali_Babacan" weight="5.0">
+        <viz:color r="159" g="217" b="201"/>
+      </edge>
+      <edge id="74" source="Özgür_Özel" target="Kemal_Kılıçdaroğlu">
+        <viz:color r="237" g="248" b="251"/>
+      </edge>
+      <edge id="75" source="Özgür_Özel" target="Meral_Akşener">
+        <viz:color r="237" g="248" b="251"/>
+      </edge>
+      <edge id="76" source="Özgür_Özel" target="Koray_Aydın">
+        <viz:color r="237" g="248" b="251"/>
+      </edge>
+      <edge id="77" source="Özgür_Özel" target="Devlet_Bahçeli">
+        <viz:color r="237" g="248" b="251"/>
+      </edge>
+      <edge id="78" source="Özgür_Özel" target="Selahattin_Demirtaş">
+        <viz:color r="237" g="248" b="251"/>
+      </edge>
+      <edge id="79" source="Özgür_Özel" target="Sırrı_Süreyya_Önder">
+        <viz:color r="237" g="248" b="251"/>
+      </edge>
+      <edge id="80" source="Özgür_Özel" target="Ahmet_Davutoğlu">
+        <viz:color r="237" g="248" b="251"/>
+      </edge>
+      <edge id="81" source="Kemal_Kılıçdaroğlu" target="Meral_Akşener" weight="4.0">
+        <viz:color r="179" g="224" b="213"/>
+      </edge>
+      <edge id="82" source="Kemal_Kılıçdaroğlu" target="Koray_Aydın" weight="3.0">
+        <viz:color r="198" g="232" b="226"/>
+      </edge>
+      <edge id="83" source="Kemal_Kılıçdaroğlu" target="Devlet_Bahçeli" weight="7.0">
+        <viz:color r="121" g="201" b="176"/>
+      </edge>
+      <edge id="84" source="Kemal_Kılıçdaroğlu" target="Pervin_Buldan" weight="3.0">
+        <viz:color r="198" g="232" b="226"/>
+      </edge>
+      <edge id="85" source="Kemal_Kılıçdaroğlu" target="Selahattin_Demirtaş" weight="9.0">
+        <viz:color r="87" g="181" b="146"/>
+      </edge>
+      <edge id="86" source="Kemal_Kılıçdaroğlu" target="Sırrı_Süreyya_Önder" weight="3.0">
+        <viz:color r="198" g="232" b="226"/>
+      </edge>
+      <edge id="87" source="Kemal_Kılıçdaroğlu" target="Ahmet_Davutoğlu" weight="6.0">
+        <viz:color r="140" g="209" b="188"/>
+      </edge>
+      <edge id="88" source="Kemal_Kılıçdaroğlu" target="Ali_Babacan" weight="3.0">
+        <viz:color r="198" g="232" b="226"/>
+      </edge>
+      <edge id="89" source="Meral_Akşener" target="Koray_Aydın" weight="4.0">
+        <viz:color r="179" g="224" b="213"/>
+      </edge>
+      <edge id="90" source="Meral_Akşener" target="Devlet_Bahçeli" weight="3.0">
+        <viz:color r="198" g="232" b="226"/>
+      </edge>
+      <edge id="91" source="Meral_Akşener" target="Pervin_Buldan" weight="3.0">
+        <viz:color r="198" g="232" b="226"/>
+      </edge>
+      <edge id="92" source="Meral_Akşener" target="Selahattin_Demirtaş" weight="5.0">
+        <viz:color r="159" g="217" b="201"/>
+      </edge>
+      <edge id="93" source="Meral_Akşener" target="Sırrı_Süreyya_Önder" weight="4.0">
+        <viz:color r="179" g="224" b="213"/>
+      </edge>
+      <edge id="94" source="Meral_Akşener" target="Ahmet_Davutoğlu" weight="6.0">
+        <viz:color r="140" g="209" b="188"/>
+      </edge>
+      <edge id="95" source="Meral_Akşener" target="Ali_Babacan" weight="3.0">
+        <viz:color r="198" g="232" b="226"/>
+      </edge>
+      <edge id="96" source="Koray_Aydın" target="Devlet_Bahçeli" weight="3.0">
+        <viz:color r="198" g="232" b="226"/>
+      </edge>
+      <edge id="97" source="Koray_Aydın" target="Pervin_Buldan">
+        <viz:color r="237" g="248" b="251"/>
+      </edge>
+      <edge id="98" source="Koray_Aydın" target="Selahattin_Demirtaş" weight="3.0">
+        <viz:color r="198" g="232" b="226"/>
+      </edge>
+      <edge id="99" source="Koray_Aydın" target="Sırrı_Süreyya_Önder" weight="3.0">
+        <viz:color r="198" g="232" b="226"/>
+      </edge>
+      <edge id="100" source="Koray_Aydın" target="Ahmet_Davutoğlu" weight="6.0">
+        <viz:color r="140" g="209" b="188"/>
+      </edge>
+      <edge id="101" source="Koray_Aydın" target="Ali_Babacan" weight="3.0">
+        <viz:color r="198" g="232" b="226"/>
+      </edge>
+      <edge id="102" source="Devlet_Bahçeli" target="Pervin_Buldan" weight="3.0">
+        <viz:color r="198" g="232" b="226"/>
+      </edge>
+      <edge id="103" source="Devlet_Bahçeli" target="Selahattin_Demirtaş" weight="4.0">
+        <viz:color r="179" g="224" b="213"/>
+      </edge>
+      <edge id="104" source="Devlet_Bahçeli" target="Sırrı_Süreyya_Önder" weight="2.0">
+        <viz:color r="217" g="240" b="238"/>
+      </edge>
+      <edge id="105" source="Devlet_Bahçeli" target="Ahmet_Davutoğlu" weight="5.0">
+        <viz:color r="159" g="217" b="201"/>
+      </edge>
+      <edge id="106" source="Devlet_Bahçeli" target="Ali_Babacan" weight="4.0">
+        <viz:color r="179" g="224" b="213"/>
+      </edge>
+      <edge id="107" source="Pervin_Buldan" target="Selahattin_Demirtaş" weight="3.0">
+        <viz:color r="198" g="232" b="226"/>
+      </edge>
+      <edge id="108" source="Pervin_Buldan" target="Sırrı_Süreyya_Önder" weight="2.0">
+        <viz:color r="217" g="240" b="238"/>
+      </edge>
+      <edge id="109" source="Pervin_Buldan" target="Ahmet_Davutoğlu" weight="4.0">
+        <viz:color r="179" g="224" b="213"/>
+      </edge>
+      <edge id="110" source="Pervin_Buldan" target="Ali_Babacan" weight="3.0">
+        <viz:color r="198" g="232" b="226"/>
+      </edge>
+      <edge id="111" source="Selahattin_Demirtaş" target="Sırrı_Süreyya_Önder" weight="4.0">
+        <viz:color r="179" g="224" b="213"/>
+      </edge>
+      <edge id="112" source="Selahattin_Demirtaş" target="Ahmet_Davutoğlu" weight="8.0">
+        <viz:color r="102" g="194" b="164"/>
+      </edge>
+      <edge id="113" source="Selahattin_Demirtaş" target="Ali_Babacan" weight="2.0">
+        <viz:color r="217" g="240" b="238"/>
+      </edge>
+      <edge id="114" source="Sırrı_Süreyya_Önder" target="Ahmet_Davutoğlu" weight="4.0">
+        <viz:color r="179" g="224" b="213"/>
+      </edge>
+      <edge id="115" source="Sırrı_Süreyya_Önder" target="Ali_Babacan">
+        <viz:color r="237" g="248" b="251"/>
+      </edge>
+      <edge id="116" source="Ahmet_Davutoğlu" target="Ali_Babacan" weight="5.0">
+        <viz:color r="159" g="217" b="201"/>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
